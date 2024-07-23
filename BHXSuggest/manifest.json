@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "BachHoaXanh Suggestion",
+    "version": "1.1.5",
+    "description": "Giúp bạn có cái nhìn tổng quan về các loại thực phẩm, hàng hóa thiết yếu, phục vụ công việc đi chợ của bạn trở nên dễ dàng",
+    "icons": {
+    "16": "OIP.png",
+    "48": "OIP.png",
+    "128": "OIP.png"
+    },
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "permissions": [
+      "storage",
+      "tabs",
+      "activeTab"
+    ]
+  }
+  

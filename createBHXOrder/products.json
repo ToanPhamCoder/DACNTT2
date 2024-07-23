@@ -1,0 +1,6650 @@
+[
+    {
+        "id": "239383",
+        "idCate": "10338",
+        "name": "Bút bi Thiên Long TL-089 xanh vỉ 3 cây",
+        "price": 13000.0
+    },
+    {
+        "id": "239382",
+        "idCate": "10338",
+        "name": "Bút bi Thiên Long TL-08 xanh vỉ 3 cây",
+        "price": 13500.0
+    },
+    {
+        "id": "239380",
+        "idCate": "10340",
+        "name": "Băng keo đục Thiên Long 47m x 4.8cm",
+        "price": 17000.0
+    },
+    {
+        "id": "239381",
+        "idCate": "10340",
+        "name": "Băng keo trong Thiên Long 47m x 4.8cm",
+        "price": 17000.0
+    },
+    {
+        "id": "239384",
+        "idCate": "10340",
+        "name": "Bao thư Thiên Long túi 25 cái",
+        "price": 10500.0
+    },
+    {
+        "id": "177697",
+        "idCate": "3728",
+        "name": "3 khăn lau Scotch Brite 30x30cm",
+        "price": 39000.0
+    },
+    {
+        "id": "227570",
+        "idCate": "3728",
+        "name": "2 khăn lau đa năng Shine 30x30cm",
+        "price": 27000.0
+    },
+    {
+        "id": "240871",
+        "idCate": "3728",
+        "name": "Tạp dề tráng nhựa Vạn Năng 50x65cm",
+        "price": 46000.0
+    },
+    {
+        "id": "307900",
+        "idCate": "3728",
+        "name": "Túi tái sử dụng Green Bird",
+        "price": 10000.0
+    },
+    {
+        "id": "307901",
+        "idCate": "3728",
+        "name": "Túi tái sử dụng Coca Cola",
+        "price": 10000.0
+    },
+    {
+        "id": "144059",
+        "idCate": "2787",
+        "name": "30 tờ khăn lau đa năng Nano 30cm",
+        "price": 24000.0
+    },
+    {
+        "id": "216183",
+        "idCate": "3732",
+        "name": "Miếng rửa chén Samran 11cm",
+        "price": 10000.0
+    },
+    {
+        "id": "255353",
+        "idCate": "3732",
+        "name": "Miếng rửa chén Scotch Brite 10.1cm",
+        "price": 7000.0
+    },
+    {
+        "id": "217924",
+        "idCate": "3732",
+        "name": "Miếng rửa chén Samran 12cm",
+        "price": 11000.0
+    },
+    {
+        "id": "233702",
+        "idCate": "3732",
+        "name": "5 miếng vệ sinh nhà bếp BHX",
+        "price": 35000.0
+    },
+    {
+        "id": "217927",
+        "idCate": "3732",
+        "name": "Miếng rửa chén 2 lớp Samran 11cm",
+        "price": 10000.0
+    },
+    {
+        "id": "310289",
+        "idCate": "3732",
+        "name": "Gói 2 miếng cọ nồi cước inox nén Samran IN2 25g",
+        "price": 19500.0
+    },
+    {
+        "id": "299710",
+        "idCate": "3732",
+        "name": "Bộ 3 miếng rửa chén 2 mặt Minitool",
+        "price": 15000.0
+    },
+    {
+        "id": "226410",
+        "idCate": "3732",
+        "name": "Miếng cọ rửa Scotch Brite 11.5cm",
+        "price": 23000.0
+    },
+    {
+        "id": "263895",
+        "idCate": "3732",
+        "name": "2 miếng cước inox Scotch Brite 8cm",
+        "price": 29000.0
+    },
+    {
+        "id": "237584",
+        "idCate": "3732",
+        "name": "Cây rửa ly Bách hoá XANH 25.5cm",
+        "price": 0.0
+    },
+    {
+        "id": "217513",
+        "idCate": "7694",
+        "name": "Lưới rửa chén Samran NS-XL1 60cm",
+        "price": 9000.0
+    },
+    {
+        "id": "217514",
+        "idCate": "7694",
+        "name": "3 lót nồi tròn Tân Bách Phát",
+        "price": 26000.0
+    },
+    {
+        "id": "217860",
+        "idCate": "7694",
+        "name": "Nhấc nồi vuông cotton Vina Towel",
+        "price": 7500.0
+    },
+    {
+        "id": "217690",
+        "idCate": "56",
+        "name": "4 viên pin AA Panasonic LR6T",
+        "price": 63000.0
+    },
+    {
+        "id": "194965",
+        "idCate": "56",
+        "name": "4 viên pin AA Panasonic Manganese",
+        "price": 24500.0
+    },
+    {
+        "id": "253560",
+        "idCate": "56",
+        "name": "4 viên pin tiểu AAA Con Ó",
+        "price": 12000.0
+    },
+    {
+        "id": "194963",
+        "idCate": "56",
+        "name": "2 viên pin AAA Panasonic LR03T",
+        "price": 33500.0
+    },
+    {
+        "id": "259971",
+        "idCate": "56",
+        "name": "4 viên pin tiểu AA Con Ó",
+        "price": 15200.0
+    },
+    {
+        "id": "194971",
+        "idCate": "56",
+        "name": "2 viên pin AAA Panasonic Manganese",
+        "price": 11300.0
+    },
+    {
+        "id": "194962",
+        "idCate": "56",
+        "name": "4 viên pin AAA Panasonic LR03T",
+        "price": 63000.0
+    },
+    {
+        "id": "197812",
+        "idCate": "56",
+        "name": "2 viên pin AA Panasonic LR6T/2B-V",
+        "price": 33500.0
+    },
+    {
+        "id": "217303",
+        "idCate": "3727",
+        "name": "Bông tắm 1 lớp Unibee 15.5cm",
+        "price": 37000.0
+    },
+    {
+        "id": "218023",
+        "idCate": "3727",
+        "name": "Khăn mặt sợi tre Viet Hope 28x48cm",
+        "price": 28500.0
+    },
+    {
+        "id": "223611",
+        "idCate": "3727",
+        "name": "Khăn mặt siêu mềm Shine 30x50cm",
+        "price": 34000.0
+    },
+    {
+        "id": "217313",
+        "idCate": "3727",
+        "name": "Bông tắm trẻ em Unibee 10.5cm",
+        "price": 25000.0
+    },
+    {
+        "id": "220366",
+        "idCate": "3727",
+        "name": "Bông tắm 3 nấc Bách hoá XANH 24cm",
+        "price": 49000.0
+    },
+    {
+        "id": "223653",
+        "idCate": "3727",
+        "name": "Khăn mặt cotton Shine 28x46cm",
+        "price": 23000.0
+    },
+    {
+        "id": "219001",
+        "idCate": "3727",
+        "name": "Khăn tắm sợi tre Vina Towel 60x120cm",
+        "price": 135000.0
+    },
+    {
+        "id": "218017",
+        "idCate": "3727",
+        "name": "Khăn tắm cotton Viet Hope 50x100cm",
+        "price": 95000.0
+    },
+    {
+        "id": "304185",
+        "idCate": "3727",
+        "name": "Dây tắm nhựa PE Minitool 25cm",
+        "price": 45000.0
+    },
+    {
+        "id": "302484",
+        "idCate": "3188",
+        "name": "Bàn chải cong nhựa Biohome 13cm",
+        "price": 24000.0
+    },
+    {
+        "id": "244730",
+        "idCate": "3188",
+        "name": "Bàn chải BHX 15cm",
+        "price": 0.0
+    },
+    {
+        "id": "201065",
+        "idCate": "3063",
+        "name": "Dầu massage Johnson's 200ml",
+        "price": 114000.0
+    },
+    {
+        "id": "237596",
+        "idCate": "2530",
+        "name": "Dung dịch đuổi muỗi ARS Nomat 45ml",
+        "price": 26500.0
+    },
+    {
+        "id": "88378",
+        "idCate": "2530",
+        "name": "Xịt côn trùng Raid cam chanh 300ml",
+        "price": 43500.0
+    },
+    {
+        "id": "237595",
+        "idCate": "2530",
+        "name": "Bộ xông đuổi muỗi ARS Nomat 45ml",
+        "price": 45000.0
+    },
+    {
+        "id": "259291",
+        "idCate": "3345",
+        "name": "Xịt phòng Oasis hoa oải hương 320ml",
+        "price": 34500.0
+    },
+    {
+        "id": "216146",
+        "idCate": "3345",
+        "name": "Xịt phòng Ambi Pur hoa oải hương 300ml",
+        "price": 61500.0
+    },
+    {
+        "id": "259302",
+        "idCate": "3345",
+        "name": "Xịt phòng Oasis hoa hồng 320ml",
+        "price": 34500.0
+    },
+    {
+        "id": "225876",
+        "idCate": "3345",
+        "name": "Túi thơm Sunflower hoa oải hương 30g",
+        "price": 17500.0
+    },
+    {
+        "id": "76638",
+        "idCate": "3345",
+        "name": "Sáp thơm Glade hoa lily 180g",
+        "price": 55000.0
+    },
+    {
+        "id": "76641",
+        "idCate": "3345",
+        "name": "Sáp thơm Glade hương tươi mát 180g",
+        "price": 55000.0
+    },
+    {
+        "id": "76637",
+        "idCate": "3345",
+        "name": "Sáp thơm Glade chanh 180g",
+        "price": 55000.0
+    },
+    {
+        "id": "76945",
+        "idCate": "3345",
+        "name": "Xịt phòng Glade hoa oải hương 280ml",
+        "price": 53500.0
+    },
+    {
+        "id": "76943",
+        "idCate": "3345",
+        "name": "Xịt phòng Glade hương hoa 280ml",
+        "price": 53500.0
+    },
+    {
+        "id": "216151",
+        "idCate": "3345",
+        "name": "Sáp thơm Ambi Pur sả 180g",
+        "price": 61500.0
+    },
+    {
+        "id": "216149",
+        "idCate": "3345",
+        "name": "Sáp thơm Ambi Pur hoa oải hương 180g",
+        "price": 61500.0
+    },
+    {
+        "id": "278979",
+        "idCate": "2465",
+        "name": "Nước xịt vải Downy đam mê 370ml",
+        "price": 109000.0
+    },
+    {
+        "id": "278981",
+        "idCate": "2465",
+        "name": "Nước xịt vải Downy huyền bí 370ml",
+        "price": 109000.0
+    },
+    {
+        "id": "193728",
+        "idCate": "2787",
+        "name": "Nước lau kính Swat 580ml",
+        "price": 21000.0
+    },
+    {
+        "id": "144059",
+        "idCate": "2787",
+        "name": "30 tờ khăn lau đa năng Nano 30cm",
+        "price": 24000.0
+    },
+    {
+        "id": "76351",
+        "idCate": "2787",
+        "name": "Nước lau kính Gift trà xanh 540ml",
+        "price": 23500.0
+    },
+    {
+        "id": "299870",
+        "idCate": "2787",
+        "name": "Lau kính Sunlight siêu nhanh 520ml",
+        "price": 24000.0
+    },
+    {
+        "id": "278770",
+        "idCate": "2787",
+        "name": "Nước lau kính Swat hương biển 4kg",
+        "price": 68500.0
+    },
+    {
+        "id": "278746",
+        "idCate": "2787",
+        "name": "Nước lau đa năng Swat 550ml",
+        "price": 29000.0
+    },
+    {
+        "id": "129533",
+        "idCate": "2388",
+        "name": "Bột baking soda Arm & Hammer hộp 454g",
+        "price": 49000.0
+    },
+    {
+        "id": "76532",
+        "idCate": "2493",
+        "name": "Nước tẩy vải màu AXO thanh khiết 800ml",
+        "price": 41000.0
+    },
+    {
+        "id": "306401",
+        "idCate": "2493",
+        "name": "Nước tẩy vải màu On1 tropical blossom 784ml",
+        "price": 45000.0
+    },
+    {
+        "id": "76534",
+        "idCate": "2493",
+        "name": "Nước tẩy vải màu AXO tươi mát 800ml",
+        "price": 39000.0
+    },
+    {
+        "id": "76530",
+        "idCate": "2493",
+        "name": "Nước tẩy vải màu AXO hoa đào 800ml",
+        "price": 41000.0
+    },
+    {
+        "id": "203466",
+        "idCate": "2493",
+        "name": "Nước tẩy vải trắng Swat Javel 1 lít",
+        "price": 18500.0
+    },
+    {
+        "id": "307249",
+        "idCate": "6553",
+        "name": "4 cuộn túi rác đen Inochi 46x63cm (1kg)",
+        "price": 75000.0
+    },
+    {
+        "id": "325460",
+        "idCate": "6553",
+        "name": "3 cuộn túi rác đen Biohome 45x55cm (1kg)",
+        "price": 56000.0
+    },
+    {
+        "id": "326033",
+        "idCate": "6553",
+        "name": "3 cuộn túi đựng rác màu TBP 55x65cm (1kg)",
+        "price": 60000.0
+    },
+    {
+        "id": "325461",
+        "idCate": "6553",
+        "name": "3 cuộn túi rác đen Biohome 55x65cm (1kg)",
+        "price": 56000.0
+    },
+    {
+        "id": "325463",
+        "idCate": "6553",
+        "name": "3 cuộn túi đựng rác đen Biohome 64x78cm (1kg)",
+        "price": 56000.0
+    },
+    {
+        "id": "237156",
+        "idCate": "4326",
+        "name": "Lõi màng bọc thực phẩm PVC BHX",
+        "price": 85000.0
+    },
+    {
+        "id": "304808",
+        "idCate": "4326",
+        "name": "20 túi zipper khoá kéo Inochi",
+        "price": 35000.0
+    },
+    {
+        "id": "227936",
+        "idCate": "4326",
+        "name": "Lõi màng bọc thực phẩm PVC BHX",
+        "price": 75000.0
+    },
+    {
+        "id": "326021",
+        "idCate": "4326",
+        "name": "Túi bọc thực phẩm đa năng TBP 20 cái",
+        "price": 20000.0
+    },
+    {
+        "id": "237156",
+        "idCate": "4326",
+        "name": "Lõi màng bọc thực phẩm PVC BHX",
+        "price": 85000.0
+    },
+    {
+        "id": "304808",
+        "idCate": "4326",
+        "name": "20 túi zipper khoá kéo Inochi",
+        "price": 35000.0
+    },
+    {
+        "id": "227936",
+        "idCate": "4326",
+        "name": "Lõi màng bọc thực phẩm PVC BHX",
+        "price": 75000.0
+    },
+    {
+        "id": "326021",
+        "idCate": "4326",
+        "name": "Túi bọc thực phẩm đa năng TBP 20 cái",
+        "price": 20000.0
+    },
+    {
+        "id": "203033",
+        "idCate": "3063",
+        "name": "Phấn thơm Babi Mild Sakura 180g",
+        "price": 32500.0
+    },
+    {
+        "id": "290859",
+        "idCate": "2464",
+        "name": "Nước giặt Ariel hương Downy nắng sớm túi 3.9kg",
+        "price": 264000.0
+    },
+    {
+        "id": "212821",
+        "idCate": "2464",
+        "name": "Nước giặt Lix đậm đặc 2.6kg",
+        "price": 70000.0
+    },
+    {
+        "id": "238037",
+        "idCate": "2464",
+        "name": "Nước giặt IZI HOME ngát hương 2.6kg",
+        "price": 99000.0
+    },
+    {
+        "id": "238035",
+        "idCate": "2464",
+        "name": "Nước giặt IZI HOME hương nước hoa 2.6kg",
+        "price": 99000.0
+    },
+    {
+        "id": "222102",
+        "idCate": "2464",
+        "name": "Nước giặt OMO Matic khử mùi cửa trên 3.1kg",
+        "price": 160000.0
+    },
+    {
+        "id": "200346",
+        "idCate": "2464",
+        "name": "Nước giặt Surf hương sương mai túi 3.3kg",
+        "price": 109000.0
+    },
+    {
+        "id": "316271",
+        "idCate": "2464",
+        "name": "Nước giặt Lix sạch thơm nắng hạ 3.5kg",
+        "price": 99000.0
+    },
+    {
+        "id": "324787",
+        "idCate": "2464",
+        "name": "Nước giặt xả Chanté hoa mẫu đơn Pháp 3.2kg",
+        "price": 100000.0
+    },
+    {
+        "id": "325736",
+        "idCate": "2464",
+        "name": "Nước giặt xả Power100 nước hoa Pháp 3.2kg",
+        "price": 98000.0
+    },
+    {
+        "id": "231387",
+        "idCate": "2464",
+        "name": "Nước giặt IZI HOME hương hoa say đắm túi 2.4 lít",
+        "price": 79000.0
+    },
+    {
+        "id": "325791",
+        "idCate": "2464",
+        "name": "Nước giặt Downy biển xanh tươi mát 2.65kg",
+        "price": 129000.0
+    },
+    {
+        "id": "252343",
+        "idCate": "2464",
+        "name": "Nước giặt Ariel hương sen nhài 3.05kg",
+        "price": 169000.0
+    },
+    {
+        "id": "252299",
+        "idCate": "2464",
+        "name": "Nước giặt Ariel hoa oải hương 3.2kg",
+        "price": 169000.0
+    },
+    {
+        "id": "237563",
+        "idCate": "2464",
+        "name": "Nước giặt Ariel hương Downy nắng sớm 3.2kg",
+        "price": 169000.0
+    },
+    {
+        "id": "309462",
+        "idCate": "2464",
+        "name": "Nước giặt Ariel hương sen nhài 2.3kg",
+        "price": 149000.0
+    },
+    {
+        "id": "234944",
+        "idCate": "2464",
+        "name": "Nước giặt Comfort hương thanh lịch 3.6kg",
+        "price": 147000.0
+    },
+    {
+        "id": "194540",
+        "idCate": "2464",
+        "name": "Nước giặt Surf hương cỏ hoa túi 3.3kg",
+        "price": 109000.0
+    },
+    {
+        "id": "325030",
+        "idCate": "2464",
+        "name": "Nước giặt OMO ngăn mùi ẩm mốc 4.1kg",
+        "price": 210000.0
+    },
+    {
+        "id": "325040",
+        "idCate": "2464",
+        "name": "Nước giặt OMO Matic cửa trước bền màu 4.1kg",
+        "price": 210000.0
+    },
+    {
+        "id": "325042",
+        "idCate": "2464",
+        "name": "Nước giặt OMO cửa trên sạch sâu 4.1kg",
+        "price": 210000.0
+    },
+    {
+        "id": "290858",
+        "idCate": "2464",
+        "name": "Nước giặt Ariel hương sen nhài túi 3.7kg",
+        "price": 222000.0
+    },
+    {
+        "id": "266065",
+        "idCate": "2464",
+        "name": "Nước giặt Ariel hương nắng sớm túi 4.1kg",
+        "price": 222000.0
+    },
+    {
+        "id": "242899",
+        "idCate": "2464",
+        "name": "Nước giặt xả MaxKleen hương hoa nắng 3.8kg",
+        "price": 175000.0
+    },
+    {
+        "id": "241985",
+        "idCate": "2464",
+        "name": "Nước giặt OMO Matic oải hương túi 3.6kg",
+        "price": 190000.0
+    },
+    {
+        "id": "283083",
+        "idCate": "2464",
+        "name": "Nước giặt OMO hoa hồng Ecuador 3.6kg",
+        "price": 190000.0
+    },
+    {
+        "id": "203467",
+        "idCate": "2464",
+        "name": "Nước giặt xả Swat romantic hương hoa 3.8kg",
+        "price": 173000.0
+    },
+    {
+        "id": "203468",
+        "idCate": "2464",
+        "name": "Nước giặt xả Swat Luxury 3.8kg",
+        "price": 173000.0
+    },
+    {
+        "id": "222104",
+        "idCate": "2464",
+        "name": "Nước giặt OMO Matic lựu và tre 2.8kg",
+        "price": 160000.0
+    },
+    {
+        "id": "201153",
+        "idCate": "2464",
+        "name": "Nước giặt Aba Matic xanh 2.75kg",
+        "price": 120000.0
+    },
+    {
+        "id": "201152",
+        "idCate": "2464",
+        "name": "Nước giặt Aba Matic đỏ 2.75kg",
+        "price": 120000.0
+    },
+    {
+        "id": "320247",
+        "idCate": "2464",
+        "name": "Nước giặt Gift nắng xuân 3.6kg",
+        "price": 199000.0
+    },
+    {
+        "id": "272255",
+        "idCate": "2464",
+        "name": "Nước giặt Downy vườn hoa thơm ngát túi 3.05kg",
+        "price": 282000.0
+    },
+    {
+        "id": "325175",
+        "idCate": "2464",
+        "name": "Nước giặt Comfort thiên nhiên thanh khiết 3kg",
+        "price": 270000.0
+    },
+    {
+        "id": "266066",
+        "idCate": "2464",
+        "name": "Nước giặt Ariel hương Downy nước hoa túi 3.9kg",
+        "price": 264000.0
+    },
+    {
+        "id": "229298",
+        "idCate": "2464",
+        "name": "Nước giặt Tide Free & gentle 1.47 lít",
+        "price": 242000.0
+    },
+    {
+        "id": "196451",
+        "idCate": "2464",
+        "name": "Nước giặt Ariel khử mùi ẩm mốc túi 3.2kg",
+        "price": 170000.0
+    },
+    {
+        "id": "195274",
+        "idCate": "2464",
+        "name": "Nước giặt Ariel hương nắng mai túi 3.5kg",
+        "price": 232000.0
+    },
+    {
+        "id": "326736",
+        "idCate": "2464",
+        "name": "Nước giặt xả Swat Luxury 5kg",
+        "price": 229000.0
+    },
+    {
+        "id": "326737",
+        "idCate": "2464",
+        "name": "Nước giặt xả Swat Romantic 5kg",
+        "price": 229000.0
+    },
+    {
+        "id": "326752",
+        "idCate": "2464",
+        "name": "Nước giặt xả Swat phơi trong nhà 3.5kg",
+        "price": 167000.0
+    },
+    {
+        "id": "279675",
+        "idCate": "2464",
+        "name": "Nước giặt IZI HOME hương hoa say đắm 3.2 lít",
+        "price": 169000.0
+    },
+    {
+        "id": "325805",
+        "idCate": "2464",
+        "name": "Nước giặt OMO chuyên gia giữ màu 2.1kg",
+        "price": 155000.0
+    },
+    {
+        "id": "325804",
+        "idCate": "2464",
+        "name": "Nước giặt OMO Matic tinh dầu thơm 2.1kg",
+        "price": 155000.0
+    },
+    {
+        "id": "237561",
+        "idCate": "2464",
+        "name": "Nước giặt Ariel hương sen nhài 1.55kg",
+        "price": 150000.0
+    },
+    {
+        "id": "248680",
+        "idCate": "2464",
+        "name": "Nước giặt IZI HOME hương hoa dịu nhẹ 3.2kg",
+        "price": 149000.0
+    },
+    {
+        "id": "100097",
+        "idCate": "2464",
+        "name": "Nước giặt Surf hương cỏ hoa diệu kỳ can 3.6kg",
+        "price": 148000.0
+    },
+    {
+        "id": "198848",
+        "idCate": "2464",
+        "name": "Nước giặt xả MaxKleen hương hoa nắng 2.4kg",
+        "price": 147000.0
+    },
+    {
+        "id": "198864",
+        "idCate": "2464",
+        "name": "Nước giặt xả MaxKleen hương huyền diệu 2.4kg",
+        "price": 147000.0
+    },
+    {
+        "id": "309460",
+        "idCate": "2464",
+        "name": "Nước giặt Ariel hương Downy 2.5kg",
+        "price": 194000.0
+    },
+    {
+        "id": "238097",
+        "idCate": "2464",
+        "name": "Nước giặt IZI HOME hương nước hoa 3.6kg",
+        "price": 139000.0
+    },
+    {
+        "id": "78161",
+        "idCate": "2465",
+        "name": "10 gói nước xả Downy huyền bí 18ml",
+        "price": 20500.0
+    },
+    {
+        "id": "231390",
+        "idCate": "2465",
+        "name": "Nước xả IZI HOME say đắm 2.4 lít",
+        "price": 126000.0
+    },
+    {
+        "id": "214836",
+        "idCate": "2465",
+        "name": "Nước xả Downy nắng mai 3 lít",
+        "price": 169000.0
+    },
+    {
+        "id": "230122",
+        "idCate": "2465",
+        "name": "10 gói nước xả Surf hương lôi cuốn 22ml",
+        "price": 10800.0
+    },
+    {
+        "id": "219845",
+        "idCate": "2465",
+        "name": "Nước xả Downy nắng mai 3.5 lít",
+        "price": 253000.0
+    },
+    {
+        "id": "322498",
+        "idCate": "2465",
+        "name": "Nước xả Comfort hoa linh lan & kiwi 3 lít",
+        "price": 159000.0
+    },
+    {
+        "id": "214837",
+        "idCate": "2465",
+        "name": "Nước xả Downy huyền bí 3 lít",
+        "price": 169000.0
+    },
+    {
+        "id": "320717",
+        "idCate": "2465",
+        "name": "Nước xả Lix hương ngàn hoa 2.2 lít",
+        "price": 94000.0
+    },
+    {
+        "id": "256546",
+        "idCate": "2465",
+        "name": "Nước xả Downy làn gió mát 3.5 lít",
+        "price": 199000.0
+    },
+    {
+        "id": "275558",
+        "idCate": "2465",
+        "name": "Nước xả Downy huyền bí 4 lít",
+        "price": 256000.0
+    },
+    {
+        "id": "275566",
+        "idCate": "2465",
+        "name": "Nước xả Downy nắng mai 4 lít",
+        "price": 242000.0
+    },
+    {
+        "id": "306821",
+        "idCate": "2465",
+        "name": "Nước xả vải Comfort thanh xuân 3 lít",
+        "price": 200000.0
+    },
+    {
+        "id": "283084",
+        "idCate": "2465",
+        "name": "Nước xả Comfort nắng mới 3.2 lít",
+        "price": 200000.0
+    },
+    {
+        "id": "310740",
+        "idCate": "2465",
+        "name": "Nước xả Comfort vườn xuân 3.2 lít",
+        "price": 200000.0
+    },
+    {
+        "id": "81662",
+        "idCate": "2465",
+        "name": "Nước xả Downy nắng mai 1.5 lít",
+        "price": 112000.0
+    },
+    {
+        "id": "275506",
+        "idCate": "2465",
+        "name": "Nước xả Downy đam mê 4 lít",
+        "price": 320000.0
+    },
+    {
+        "id": "214832",
+        "idCate": "2465",
+        "name": "Nước xả Downy đam mê 3 lít",
+        "price": 241000.0
+    },
+    {
+        "id": "81668",
+        "idCate": "2465",
+        "name": "Nước xả Comfort ban mai 2.8 lít",
+        "price": 215000.0
+    },
+    {
+        "id": "178267",
+        "idCate": "2465",
+        "name": "Nước xả Downy đam mê 2.2 lít",
+        "price": 194000.0
+    },
+    {
+        "id": "178272",
+        "idCate": "2465",
+        "name": "Nước xả Downy huyền bí 2 lít",
+        "price": 194000.0
+    },
+    {
+        "id": "96454",
+        "idCate": "2465",
+        "name": "10 gói nước xả Siusop diệt khuẩn 16g",
+        "price": 9800.0
+    },
+    {
+        "id": "96446",
+        "idCate": "2465",
+        "name": "10 gói nước xả Siusop hoa hồng 16g",
+        "price": 9800.0
+    },
+    {
+        "id": "197390",
+        "idCate": "3023",
+        "name": "Nước xả cho bé Comfort dịu nhẹ túi 3.2 lít",
+        "price": 185000.0
+    },
+    {
+        "id": "244634",
+        "idCate": "3023",
+        "name": "Nước xả cho bé Comfort mềm dịu túi 3.8 lít",
+        "price": 247000.0
+    },
+    {
+        "id": "187140",
+        "idCate": "3023",
+        "name": "Nước xả cho bé Downy kháng khuẩn dịu nhẹ 2.35 lít",
+        "price": 194000.0
+    },
+    {
+        "id": "76572",
+        "idCate": "3023",
+        "name": "Nước xả cho bé Comfort mềm dịu túi 1.8 lít",
+        "price": 146000.0
+    },
+    {
+        "id": "187138",
+        "idCate": "3023",
+        "name": "Nước xả cho bé Downy mềm mại tinh khiết 10 gói 18ml",
+        "price": 20500.0
+    },
+    {
+        "id": "229954",
+        "idCate": "2463",
+        "name": "Bột giặt IZI HOME trắng thơm tho 6kg",
+        "price": 139000.0
+    },
+    {
+        "id": "76113",
+        "idCate": "2463",
+        "name": "Bột giặt OMO Comfort tinh dầu thơm 5.3kg",
+        "price": 238000.0
+    },
+    {
+        "id": "310730",
+        "idCate": "2463",
+        "name": "Bột giặt Lix sạch thơm 24h 5.5kg",
+        "price": 116000.0
+    },
+    {
+        "id": "238032",
+        "idCate": "2463",
+        "name": "Bột giặt IZI HOME trắng ngát hương 6kg",
+        "price": 105000.0
+    },
+    {
+        "id": "229965",
+        "idCate": "2463",
+        "name": "Bột giặt IZI HOME trắng sáng 3kg",
+        "price": 69000.0
+    },
+    {
+        "id": "149421",
+        "idCate": "2463",
+        "name": "Bột giặt Lix hương nước hoa 5.5kg",
+        "price": 125000.0
+    },
+    {
+        "id": "229957",
+        "idCate": "2463",
+        "name": "Bột giặt IZI HOME trắng sáng 4.5kg",
+        "price": 105000.0
+    },
+    {
+        "id": "96101",
+        "idCate": "2463",
+        "name": "Bột giặt Lix Extra hương chanh 5.5kg",
+        "price": 116000.0
+    },
+    {
+        "id": "147548",
+        "idCate": "2463",
+        "name": "Bột giặt Binky ngát hương 5.5kg",
+        "price": 155000.0
+    },
+    {
+        "id": "147547",
+        "idCate": "2463",
+        "name": "Bột giặt Binky ngát hương 4.5kg",
+        "price": 121000.0
+    },
+    {
+        "id": "76129",
+        "idCate": "2463",
+        "name": "Bột giặt OMO Comfort tinh dầu thơm 3.9kg",
+        "price": 183000.0
+    },
+    {
+        "id": "87697",
+        "idCate": "2463",
+        "name": "Bột giặt OMO Comfort hoa hồng Pháp 3.9kg",
+        "price": 183000.0
+    },
+    {
+        "id": "88321",
+        "idCate": "2463",
+        "name": "Bột giặt nhiệt Aba sạch tinh tươm 2.9kg",
+        "price": 117000.0
+    },
+    {
+        "id": "248348",
+        "idCate": "2463",
+        "name": "Bột giặt OMO Matic cửa trên 5.7kg",
+        "price": 316000.0
+    },
+    {
+        "id": "81571",
+        "idCate": "2463",
+        "name": "Bột giặt nhiệt Aba sạch tinh tươm 5.7kg",
+        "price": 209000.0
+    },
+    {
+        "id": "89290",
+        "idCate": "2463",
+        "name": "Bột giặt OMO Comfort hoa hồng Pháp 2.6kg",
+        "price": 144000.0
+    },
+    {
+        "id": "85445",
+        "idCate": "2463",
+        "name": "Bột giặt OMO Comfort tinh dầu thơm 2.6kg",
+        "price": 144000.0
+    },
+    {
+        "id": "89732",
+        "idCate": "2463",
+        "name": "Bột giặt OMO Comfort hoa hồng Pháp 700g",
+        "price": 42500.0
+    },
+    {
+        "id": "81581",
+        "idCate": "2463",
+        "name": "Bột giặt OMO Comfort tinh dầu thơm 700g",
+        "price": 42500.0
+    },
+    {
+        "id": "88313",
+        "idCate": "2463",
+        "name": "Bột giặt nhiệt Aba hương nước hoa 720g",
+        "price": 37000.0
+    },
+    {
+        "id": "78154",
+        "idCate": "2463",
+        "name": "Bột giặt OMO sạch bẩn khử mùi 380g",
+        "price": 21500.0
+    },
+    {
+        "id": "88314",
+        "idCate": "2463",
+        "name": "Bột giặt nhiệt Aba sạch tinh tươm 380g",
+        "price": 19500.0
+    },
+    {
+        "id": "88315",
+        "idCate": "2463",
+        "name": "Bột giặt nhiệt Aba hương nước hoa 350g",
+        "price": 19500.0
+    },
+    {
+        "id": "324787",
+        "idCate": "2464",
+        "name": "Nước giặt xả Chanté hoa mẫu đơn Pháp 3.2kg",
+        "price": 100000.0
+    },
+    {
+        "id": "325736",
+        "idCate": "2464",
+        "name": "Nước giặt xả Power100 nước hoa Pháp 3.2kg",
+        "price": 98000.0
+    },
+    {
+        "id": "242899",
+        "idCate": "2464",
+        "name": "Nước giặt xả MaxKleen hương hoa nắng 3.8kg",
+        "price": 175000.0
+    },
+    {
+        "id": "203467",
+        "idCate": "2464",
+        "name": "Nước giặt xả Swat romantic hương hoa 3.8kg",
+        "price": 173000.0
+    },
+    {
+        "id": "203468",
+        "idCate": "2464",
+        "name": "Nước giặt xả Swat Luxury 3.8kg",
+        "price": 173000.0
+    },
+    {
+        "id": "326736",
+        "idCate": "2464",
+        "name": "Nước giặt xả Swat Luxury 5kg",
+        "price": 229000.0
+    },
+    {
+        "id": "326737",
+        "idCate": "2464",
+        "name": "Nước giặt xả Swat Romantic 5kg",
+        "price": 229000.0
+    },
+    {
+        "id": "306481",
+        "idCate": "2387",
+        "name": "Nước rửa chén Lix chanh 3.43 lít",
+        "price": 56000.0
+    },
+    {
+        "id": "196732",
+        "idCate": "2387",
+        "name": "Nước rửa chén Lix trà xanh 3.53 lít",
+        "price": 60500.0
+    },
+    {
+        "id": "78250",
+        "idCate": "2387",
+        "name": "Nước rửa chén Lix chanh 3.53 lít",
+        "price": 60500.0
+    },
+    {
+        "id": "76475",
+        "idCate": "2387",
+        "name": "Nước rửa chén Lix Vitamin E chanh 3.53 lít",
+        "price": 64000.0
+    },
+    {
+        "id": "229404",
+        "idCate": "2387",
+        "name": "Nước rửa chén IZI HOME sả chanh 735ml",
+        "price": 21500.0
+    },
+    {
+        "id": "76489",
+        "idCate": "2387",
+        "name": "Nước rửa chén Sunlight matcha 3.48 lít",
+        "price": 108000.0
+    },
+    {
+        "id": "234334",
+        "idCate": "2387",
+        "name": "Nước rửa chén Ez Clean gạo & gừng 800g",
+        "price": 22500.0
+    },
+    {
+        "id": "278731",
+        "idCate": "2387",
+        "name": "Nước rửa chén Swat sả chanh 4 kg",
+        "price": 69500.0
+    },
+    {
+        "id": "81213",
+        "idCate": "2387",
+        "name": "Nước rửa chén Lix Vitamin E trà xanh 1.37 lít",
+        "price": 37000.0
+    },
+    {
+        "id": "76486",
+        "idCate": "2387",
+        "name": "Nước rửa chén Sunlight chanh 725ml",
+        "price": 27500.0
+    },
+    {
+        "id": "96092",
+        "idCate": "2510",
+        "name": "Nước lau sàn Lix 2x đậm đặc 3.6 lít",
+        "price": 65500.0
+    },
+    {
+        "id": "241980",
+        "idCate": "2510",
+        "name": "Nước lau sàn Sunlight chanh sả 1kg",
+        "price": 37500.0
+    },
+    {
+        "id": "202901",
+        "idCate": "2510",
+        "name": "Nước lau sàn Botany chanh sả 1.25 lít",
+        "price": 59000.0
+    },
+    {
+        "id": "96820",
+        "idCate": "2510",
+        "name": "Nước lau sàn Swat baby 1 lít",
+        "price": 28500.0
+    },
+    {
+        "id": "196483",
+        "idCate": "2510",
+        "name": "Nước lau sàn Swat thảo mộc 1 lít",
+        "price": 27000.0
+    },
+    {
+        "id": "178243",
+        "idCate": "2510",
+        "name": "Nước lau sàn Swat hoa hoàng lan 1 lít",
+        "price": 27000.0
+    },
+    {
+        "id": "196486",
+        "idCate": "2510",
+        "name": "Nước lau sàn Swat hoa lily 1 lít",
+        "price": 27000.0
+    },
+    {
+        "id": "278738",
+        "idCate": "2510",
+        "name": "Nước lau sàn Swat chanh sả 1 lít",
+        "price": 27000.0
+    },
+    {
+        "id": "196475",
+        "idCate": "2510",
+        "name": "Nước lau sàn Swat baby 4kg",
+        "price": 99000.0
+    },
+    {
+        "id": "196463",
+        "idCate": "2510",
+        "name": "Nước lau sàn Swat thảo mộc 4kg",
+        "price": 96000.0
+    },
+    {
+        "id": "196478",
+        "idCate": "2510",
+        "name": "Nước lau sàn Swat hoa lily 4kg",
+        "price": 96000.0
+    },
+    {
+        "id": "278728",
+        "idCate": "2510",
+        "name": "Nước lau sàn Swat chanh sả 4kg",
+        "price": 96000.0
+    },
+    {
+        "id": "196481",
+        "idCate": "2510",
+        "name": "Nước lau sàn Swat hoa hoàng lan 4kg",
+        "price": 96000.0
+    },
+    {
+        "id": "326731",
+        "idCate": "2510",
+        "name": "Nước lau sàn Swat trầm quế 960ml",
+        "price": 39000.0
+    },
+    {
+        "id": "234278",
+        "idCate": "2510",
+        "name": "Nước lau sàn Rena bạc hà 1 lít",
+        "price": 34000.0
+    },
+    {
+        "id": "76353",
+        "idCate": "2510",
+        "name": "Nước lau sàn Gift hoa lily 1 lít",
+        "price": 34000.0
+    },
+    {
+        "id": "312850",
+        "idCate": "2510",
+        "name": "Nước lau sàn Sunlight lavender 1kg",
+        "price": 32500.0
+    },
+    {
+        "id": "226304",
+        "idCate": "2511",
+        "name": "Viên vệ sinh bồn cầu Hando 240g",
+        "price": 48500.0
+    },
+    {
+        "id": "92053",
+        "idCate": "2511",
+        "name": "Bột thông tắc hầm cầu Hando 215g",
+        "price": 27500.0
+    },
+    {
+        "id": "113169",
+        "idCate": "2511",
+        "name": "Tẩy vệ sinh toilet Mr.Fresh 180g",
+        "price": 45500.0
+    },
+    {
+        "id": "182211",
+        "idCate": "2511",
+        "name": "Bột tẩy lồng giặt Mao Bao 300g",
+        "price": 51000.0
+    },
+    {
+        "id": "76491",
+        "idCate": "2511",
+        "name": "Tẩy nhà tắm Gift siêu sạch 900ml",
+        "price": 36000.0
+    },
+    {
+        "id": "96615",
+        "idCate": "2511",
+        "name": "Tẩy bồn cầu OKAY 960ml",
+        "price": 33000.0
+    },
+    {
+        "id": "216141",
+        "idCate": "2511",
+        "name": "Tẩy bồn cầu & nhà tắm Sio 750ml",
+        "price": 31500.0
+    },
+    {
+        "id": "222310",
+        "idCate": "2511",
+        "name": "Viên vệ sinh bồn cầu Hando 165g",
+        "price": 24500.0
+    },
+    {
+        "id": "278725",
+        "idCate": "2511",
+        "name": "Tẩy nhà tắm Swat siêu sạch 4kg",
+        "price": 86000.0
+    },
+    {
+        "id": "215932",
+        "idCate": "2511",
+        "name": "Tẩy nhà tắm Swat đậm đặc 1 lít",
+        "price": 31500.0
+    },
+    {
+        "id": "90692",
+        "idCate": "2511",
+        "name": "Bột thông hầm cầu Hando M.Phốt 250g",
+        "price": 51500.0
+    },
+    {
+        "id": "205846",
+        "idCate": "2511",
+        "name": "Tẩy bồn cầu VIM chanh sả 870ml",
+        "price": 39000.0
+    },
+    {
+        "id": "229474",
+        "idCate": "2511",
+        "name": "Gel tẩy nhà tắm VIM lavender 870ml",
+        "price": 39000.0
+    },
+    {
+        "id": "215928",
+        "idCate": "2511",
+        "name": "Tẩy bồn cầu Swat siêu sạch 600ml",
+        "price": 29900.0
+    },
+    {
+        "id": "81602",
+        "idCate": "2511",
+        "name": "Tẩy bồn cầu & nhà tắm VIM 500ml",
+        "price": 24000.0
+    },
+    {
+        "id": "89750",
+        "idCate": "2519",
+        "name": "Hộp 10 cái bao cao su Okamoto Skinless Skin Purity 53mm",
+        "price": 81000.0
+    },
+    {
+        "id": "310023",
+        "idCate": "2519",
+        "name": "Hộp 3 cái bao cao su Durex Kingtex 3s 49mm",
+        "price": 39000.0
+    },
+    {
+        "id": "155794",
+        "idCate": "2519",
+        "name": "Hộp 3 cái bao cao su Durex Invisible 52mm",
+        "price": 89000.0
+    },
+    {
+        "id": "237372",
+        "idCate": "2519",
+        "name": "Bao cao su Durex Jeans 52.5 mm",
+        "price": 40000.0
+    },
+    {
+        "id": "77194",
+        "idCate": "2519",
+        "name": "Hộp 3 cái bao cao su Durex Performa kéo dài thời gian 52mm",
+        "price": 72000.0
+    },
+    {
+        "id": "283446",
+        "idCate": "5872",
+        "name": "Khẩu trang kháng khuẩn Famapro 4D 4 lớp gói 10 cái",
+        "price": 14700.0
+    },
+    {
+        "id": "272115",
+        "idCate": "5872",
+        "name": "Khẩu trang y tế An Phúc KF94-4D gói 10 cái",
+        "price": 10500.0
+    },
+    {
+        "id": "237015",
+        "idCate": "5872",
+        "name": "Khẩu trang y tế An Phúc",
+        "price": 38000.0
+    },
+    {
+        "id": "222731",
+        "idCate": "5872",
+        "name": "Khẩu trang y tế Niva 3 lớp hộp 20 cái",
+        "price": 18000.0
+    },
+    {
+        "id": "237016",
+        "idCate": "5872",
+        "name": "Khẩu trang y tế than hoạt tính An Phúc 4 lớp hộp 50 cái",
+        "price": 40000.0
+    },
+    {
+        "id": "222826",
+        "idCate": "5872",
+        "name": "Khẩu trang kháng khuẩn Niva 3 lớp gói 10 cái",
+        "price": 9500.0
+    },
+    {
+        "id": "283356",
+        "idCate": "5872",
+        "name": "Khẩu trang y tế cao cấp Famapro Extra màu trắng 50 cái",
+        "price": 40000.0
+    },
+    {
+        "id": "307868",
+        "idCate": "8681",
+        "name": "Khẩu trang y tế trẻ em Famapro 3 lớp hộp 50",
+        "price": 30000.0
+    },
+    {
+        "id": "268971",
+        "idCate": "6562",
+        "name": "Kem dưỡng ban ngày LOreal sáng da 50ml",
+        "price": 369000.0
+    },
+    {
+        "id": "213666",
+        "idCate": "6562",
+        "name": "Tinh chất chống nắng Senka Perfect UV 50g",
+        "price": 190000.0
+    },
+    {
+        "id": "106689",
+        "idCate": "6562",
+        "name": "Sữa chống nắng Sunplay Super Block kháng nước 30g",
+        "price": 103000.0
+    },
+    {
+        "id": "106690",
+        "idCate": "6562",
+        "name": "Sữa chống nắng Sunplay Skin Aqua dưỡng trắng 25g",
+        "price": 125000.0
+    },
+    {
+        "id": "268790",
+        "idCate": "6562",
+        "name": "Serum LOreal sáng da 30ml",
+        "price": 469000.0
+    },
+    {
+        "id": "268795",
+        "idCate": "6562",
+        "name": "Serum LOreal cấp ẩm 30ml",
+        "price": 499000.0
+    },
+    {
+        "id": "174269",
+        "idCate": "6562",
+        "name": "Kem dưỡng ban đêm LOreal ngừa lão hóa 50ml",
+        "price": 379000.0
+    },
+    {
+        "id": "244490",
+        "idCate": "6562",
+        "name": "Tinh chất chống nắng Sunplay nâng tone 50g",
+        "price": 199000.0
+    },
+    {
+        "id": "268779",
+        "idCate": "6562",
+        "name": "Kem dưỡng ban đêm LOreal sáng da 50ml",
+        "price": 369000.0
+    },
+    {
+        "id": "281580",
+        "idCate": "6562",
+        "name": "Serum Garnier trắng da mờ thâm 30ml",
+        "price": 309000.0
+    },
+    {
+        "id": "281556",
+        "idCate": "6562",
+        "name": "Kem dưỡng ban ngày Garnier sáng da 50ml",
+        "price": 209000.0
+    },
+    {
+        "id": "326272",
+        "idCate": "7478",
+        "name": "Thuốc nhuộm tóc L'Oreal #1 đen tự nhiên 172ml",
+        "price": 219000.0
+    },
+    {
+        "id": "326273",
+        "idCate": "7478",
+        "name": "Thuốc nhuộm tóc L'Oreal #9.11 nâu ánh tro 172ml",
+        "price": 219000.0
+    },
+    {
+        "id": "326074",
+        "idCate": "7478",
+        "name": "Thuốc nhuộm tóc L'Oreal #3 nâu đen tự nhiên 172ml",
+        "price": 219000.0
+    },
+    {
+        "id": "326087",
+        "idCate": "7478",
+        "name": "Thuốc nhuộm tóc L'Oreal #4 nâu tự nhiên 172ml",
+        "price": 219000.0
+    },
+    {
+        "id": "326084",
+        "idCate": "7478",
+        "name": "Thuốc nhuộm tóc L'Oreal #6.35 nâu hổ phách 172ml",
+        "price": 219000.0
+    },
+    {
+        "id": "326267",
+        "idCate": "7478",
+        "name": "Thuốc nhuộm tóc L'Oreal #5.35 nâu chocolate 172ml",
+        "price": 219000.0
+    },
+    {
+        "id": "326079",
+        "idCate": "7478",
+        "name": "Thuốc nhuộm tóc L'Oreal #4.2 nâu ánh tím 172ml",
+        "price": 219000.0
+    },
+    {
+        "id": "326274",
+        "idCate": "7478",
+        "name": "Thuốc nhuộm tóc L'Oreal #7.12 nâu mật ong khói 172ml",
+        "price": 219000.0
+    },
+    {
+        "id": "234967",
+        "idCate": "3124",
+        "name": "Tăm bông Niva 100 cây",
+        "price": 8000.0
+    },
+    {
+        "id": "234954",
+        "idCate": "3124",
+        "name": "Tăm bông Niva 200 cây",
+        "price": 25000.0
+    },
+    {
+        "id": "234957",
+        "idCate": "3124",
+        "name": "Tăm bông Niva 200 cây",
+        "price": 15000.0
+    },
+    {
+        "id": "235105",
+        "idCate": "3124",
+        "name": "Tăm bông Niva que giấy 1 đầu xoắn bz2 túi zipper 160 cây",
+        "price": 22000.0
+    },
+    {
+        "id": "235103",
+        "idCate": "3124",
+        "name": "Tăm bông Niva que giấy bz1 túi zipper 160 cây",
+        "price": 22000.0
+    },
+    {
+        "id": "309932",
+        "idCate": "3124",
+        "name": "Tăm bông Famapro bịch 150 cây",
+        "price": 14000.0
+    },
+    {
+        "id": "268688",
+        "idCate": "8681",
+        "name": "Tăm bông trẻ em Niva 200 cây",
+        "price": 24000.0
+    },
+    {
+        "id": "234971",
+        "idCate": "8681",
+        "name": "Tăm bông cho bé Niva que giấy BZ4 túi zip 100 cây",
+        "price": 13000.0
+    },
+    {
+        "id": "174267",
+        "idCate": "6642",
+        "name": "Nước hoa hồng L'Oréal Revitalift chống lão hóa 200ml",
+        "price": 229000.0
+    },
+    {
+        "id": "131045",
+        "idCate": "2517",
+        "name": "Dung dịch vệ sinh Dạ Hương 100ml",
+        "price": 36000.0
+    },
+    {
+        "id": "81271",
+        "idCate": "2517",
+        "name": "Dung dịch vệ sinh Dạ Hương 100ml",
+        "price": 36000.0
+    },
+    {
+        "id": "81266",
+        "idCate": "2517",
+        "name": "Dung dịch vệ sinh Lactacyd 250ml",
+        "price": 87000.0
+    },
+    {
+        "id": "119642",
+        "idCate": "2517",
+        "name": "Dung dịch vệ sinh Lactacyd Odor Fresh 150ml",
+        "price": 58000.0
+    },
+    {
+        "id": "186481",
+        "idCate": "2517",
+        "name": "Dung dịch vệ sinh The bol 100ml",
+        "price": 25500.0
+    },
+    {
+        "id": "305808",
+        "idCate": "3708",
+        "name": "Nước tẩy trang Garnier sạch nhờn 400ml",
+        "price": 159500.0
+    },
+    {
+        "id": "101982",
+        "idCate": "3708",
+        "name": "Nước tẩy trang mắt môi L'Oréal 125ml",
+        "price": 209000.0
+    },
+    {
+        "id": "325990",
+        "idCate": "3708",
+        "name": "Bông tẩy trang Kokimi Japanese Styles 210 miếng",
+        "price": 43000.0
+    },
+    {
+        "id": "325987",
+        "idCate": "3708",
+        "name": "Bông tẩy trang Kokimi Japanese Styles 155 miếng",
+        "price": 36000.0
+    },
+    {
+        "id": "281555",
+        "idCate": "3708",
+        "name": "Nước tẩy trang da nhạy cảm Garnier 400ml",
+        "price": 159500.0
+    },
+    {
+        "id": "326220",
+        "idCate": "3708",
+        "name": "Bộ đôi nước tẩy trang & gel rửa mặt Garnier ",
+        "price": 358000.0
+    },
+    {
+        "id": "268879",
+        "idCate": "3708",
+        "name": "Nước tẩy trang L'Oreal căng mịn da 400ml",
+        "price": 269000.0
+    },
+    {
+        "id": "326245",
+        "idCate": "3708",
+        "name": "Nước tẩy trang LOreal sạch sâu cho da dầu 400ml",
+        "price": 269000.0
+    },
+    {
+        "id": "216973",
+        "idCate": "3708",
+        "name": "Nước tẩy trang L'Oréal làm mát da 400ml",
+        "price": 229000.0
+    },
+    {
+        "id": "326210",
+        "idCate": "3708",
+        "name": "Nước tẩy trang Garnier làm sạch sâu 400ml",
+        "price": 219000.0
+    },
+    {
+        "id": "325998",
+        "idCate": "6653",
+        "name": "Mặt nạ lụa Nara chống lão hóa cấp ẩm 20g",
+        "price": 19500.0
+    },
+    {
+        "id": "326208",
+        "idCate": "6653",
+        "name": "Mặt nạ Garnier sáng da & mờ thâm 28g",
+        "price": 39000.0
+    },
+    {
+        "id": "311369",
+        "idCate": "3104",
+        "name": "Sữa dưỡng thể Vaseline Flawless Bright 330ml",
+        "price": 150000.0
+    },
+    {
+        "id": "106716",
+        "idCate": "3104",
+        "name": "Sữa dưỡng thể ban đêm Nivea trắng da 200ml",
+        "price": 155000.0
+    },
+    {
+        "id": "88259",
+        "idCate": "3104",
+        "name": "Sữa dưỡng thể ban đêm Nivea trắng da 250ml",
+        "price": 95000.0
+    },
+    {
+        "id": "203349",
+        "idCate": "3104",
+        "name": "Sữa dưỡng thể ban đêm Nivea trắng da 350ml",
+        "price": 147000.0
+    },
+    {
+        "id": "259605",
+        "idCate": "3104",
+        "name": "Sữa dưỡng thể Vaseline chống nắng 350ml",
+        "price": 150000.0
+    },
+    {
+        "id": "88254",
+        "idCate": "3104",
+        "name": "Sữa dưỡng thể Vaseline trắng da tức thì 350ml",
+        "price": 150000.0
+    },
+    {
+        "id": "207244",
+        "idCate": "3104",
+        "name": "Sữa dưỡng thể Vaseline trắng da tức thì 200ml",
+        "price": 98000.0
+    },
+    {
+        "id": "88253",
+        "idCate": "3104",
+        "name": "Sữa dưỡng thể Vaseline ngừa lão hóa 350ml",
+        "price": 150000.0
+    },
+    {
+        "id": "240532",
+        "idCate": "3104",
+        "name": "Sữa dưỡng thể Vaseline dịu da 350ml",
+        "price": 150000.0
+    },
+    {
+        "id": "106635",
+        "idCate": "3104",
+        "name": "Sữa dưỡng thể Vaseline ngừa lão hóa 200ml",
+        "price": 98000.0
+    },
+    {
+        "id": "222170",
+        "idCate": "5436",
+        "name": "Kem tẩy lông Cléo da thường 50g",
+        "price": 76000.0
+    },
+    {
+        "id": "113845",
+        "idCate": "5436",
+        "name": "Kem tẩy lông Veet da thường 50g",
+        "price": 68000.0
+    },
+    {
+        "id": "113846",
+        "idCate": "5436",
+        "name": "Kem tẩy lông Veet da nhạy cảm 50g",
+        "price": 68000.0
+    },
+    {
+        "id": "81314",
+        "idCate": "2504",
+        "name": "Kem rửa mặt có hạt Oxy sáng da 100g",
+        "price": 86000.0
+    },
+    {
+        "id": "165156",
+        "idCate": "2504",
+        "name": "Kem rửa mặt Hada Labo dưỡng ẩm 80g",
+        "price": 70500.0
+    },
+    {
+        "id": "76762",
+        "idCate": "2504",
+        "name": "Sữa rửa mặt Nivea kiềm dầu 100g",
+        "price": 84000.0
+    },
+    {
+        "id": "81342",
+        "idCate": "2504",
+        "name": "Sữa rửa mặt Acnes mờ sẹo 100g",
+        "price": 59500.0
+    },
+    {
+        "id": "213664",
+        "idCate": "2504",
+        "name": "Sữa rửa mặt cho da mụn Senka 100g",
+        "price": 115000.0
+    },
+    {
+        "id": "81349",
+        "idCate": "2504",
+        "name": "Sữa rửa mặt POND'S sáng da 100g",
+        "price": 64000.0
+    },
+    {
+        "id": "82072",
+        "idCate": "2504",
+        "name": "Sữa rửa mặt Nivea ngừa mụn 100g",
+        "price": 84000.0
+    },
+    {
+        "id": "279797",
+        "idCate": "2504",
+        "name": "Sữa rửa mặt sáng da Garnier 100ml",
+        "price": 119000.0
+    },
+    {
+        "id": "268884",
+        "idCate": "2504",
+        "name": "Sữa rửa mặt L'Oréal sáng mịn 100ml",
+        "price": 159000.0
+    },
+    {
+        "id": "174266",
+        "idCate": "2504",
+        "name": "Sữa rửa mặt L'Oréal săn chắc da 100ml",
+        "price": 199000.0
+    },
+    {
+        "id": "258127",
+        "idCate": "8678",
+        "name": "Tắm gội On Line Le Petit kẹo ngọt 350ml",
+        "price": 98000.0
+    },
+    {
+        "id": "265306",
+        "idCate": "8678",
+        "name": "Sữa tắm gội Lactacyd BB giảm rôm sảy, hăm kẽ 250ml",
+        "price": 99000.0
+    },
+    {
+        "id": "258119",
+        "idCate": "8678",
+        "name": "Tắm gội On Line Le Petit bánh quy 350ml",
+        "price": 98000.0
+    },
+    {
+        "id": "258136",
+        "idCate": "8678",
+        "name": "Tắm gội On Line Le Petit thạch hoa quả 350ml",
+        "price": 98000.0
+    },
+    {
+        "id": "258131",
+        "idCate": "8678",
+        "name": "Tắm gội On Line Le Petit kem 350ml",
+        "price": 98000.0
+    },
+    {
+        "id": "258130",
+        "idCate": "8678",
+        "name": "Tắm gội On Line Le Petit socola trắng 350ml",
+        "price": 98000.0
+    },
+    {
+        "id": "149459",
+        "idCate": "8678",
+        "name": "Tắm gội Pigeon hướng dương 700ml",
+        "price": 240000.0
+    },
+    {
+        "id": "304314",
+        "idCate": "8678",
+        "name": "Sữa tắm gội Lactacyd BB Gental Care 500ml",
+        "price": 189000.0
+    },
+    {
+        "id": "326656",
+        "idCate": "8678",
+        "name": "Sữa tắm gội trẻ em On Line Time Hair & Body Wash Watermelon 500ml",
+        "price": 129000.0
+    },
+    {
+        "id": "313612",
+        "idCate": "8678",
+        "name": "Tắm gội Carrie Junior Yoghurt Apricot 700g",
+        "price": 185000.0
+    },
+    {
+        "id": "326647",
+        "idCate": "8678",
+        "name": "Sữa tắm gội trẻ em On Line Kids Time Hair & Body Wash Pear 500ml",
+        "price": 129000.0
+    },
+    {
+        "id": "195580",
+        "idCate": "8678",
+        "name": "Tắm gội L’Affair dịu êm 850ml",
+        "price": 120000.0
+    },
+    {
+        "id": "121637",
+        "idCate": "8678",
+        "name": "Tắm gội L’Affair dịu êm 500ml",
+        "price": 78000.0
+    },
+    {
+        "id": "197390",
+        "idCate": "3023",
+        "name": "Nước xả cho bé Comfort dịu nhẹ túi 3.2 lít",
+        "price": 185000.0
+    },
+    {
+        "id": "187140",
+        "idCate": "3023",
+        "name": "Nước xả cho bé Downy kháng khuẩn dịu nhẹ 2.35 lít",
+        "price": 194000.0
+    },
+    {
+        "id": "244634",
+        "idCate": "3023",
+        "name": "Nước xả cho bé Comfort mềm dịu túi 3.8 lít",
+        "price": 247000.0
+    },
+    {
+        "id": "187138",
+        "idCate": "3023",
+        "name": "Nước xả cho bé Downy mềm mại tinh khiết 10 gói 18ml",
+        "price": 20500.0
+    },
+    {
+        "id": "76572",
+        "idCate": "3023",
+        "name": "Nước xả cho bé Comfort mềm dịu túi 1.8 lít",
+        "price": 146000.0
+    },
+    {
+        "id": "77259",
+        "idCate": "3028",
+        "name": "Kem đánh răng P/S trên 2 tuổi 35g",
+        "price": 6000.0
+    },
+    {
+        "id": "205881",
+        "idCate": "3028",
+        "name": "Kem đánh răng Colgate trên 2 tuổi 40g",
+        "price": 8000.0
+    },
+    {
+        "id": "222482",
+        "idCate": "3028",
+        "name": "Kem đánh răng Colgate 3-5 tuổi 80g",
+        "price": 45500.0
+    },
+    {
+        "id": "222484",
+        "idCate": "3028",
+        "name": "Kem đánh răng Colgate 6-9 tuổi 80g",
+        "price": 45500.0
+    },
+    {
+        "id": "303508",
+        "idCate": "3028",
+        "name": "Bộ bàn chải kem đánh răng cho bé Colgate Minions 40g",
+        "price": 53000.0
+    },
+    {
+        "id": "203160",
+        "idCate": "3027",
+        "name": "Bộ 2 bàn chải Colgate Minion 5-9 tuổi",
+        "price": 49000.0
+    },
+    {
+        "id": "106662",
+        "idCate": "3027",
+        "name": "Bàn chải Oral-Clean Formula-1 trên 2 tuổi",
+        "price": 52000.0
+    },
+    {
+        "id": "322203",
+        "idCate": "3027",
+        "name": "Bàn chải cho bé 2 - 5 tuổi Colgate hình ảnh Minion",
+        "price": 35500.0
+    },
+    {
+        "id": "322205",
+        "idCate": "3027",
+        "name": "Bàn chải đánh răng điện Colgate Sonic Minion công nghệ sóng âm",
+        "price": 216000.0
+    },
+    {
+        "id": "303508",
+        "idCate": "3028",
+        "name": "Bộ bàn chải kem đánh răng cho bé Colgate Minions 40g",
+        "price": 53000.0
+    },
+    {
+        "id": "234971",
+        "idCate": "8681",
+        "name": "Tăm bông cho bé Niva que giấy BZ4 túi zip 100 cây",
+        "price": 13000.0
+    },
+    {
+        "id": "268688",
+        "idCate": "8681",
+        "name": "Tăm bông trẻ em Niva 200 cây",
+        "price": 24000.0
+    },
+    {
+        "id": "307868",
+        "idCate": "8681",
+        "name": "Khẩu trang y tế trẻ em Famapro 3 lớp hộp 50",
+        "price": 30000.0
+    },
+    {
+        "id": "326265",
+        "idCate": "3740",
+        "name": "Dầu dưỡng L'Oréal Elseve tinh dầu hoa hồng 100ml",
+        "price": 289000.0
+    },
+    {
+        "id": "76931",
+        "idCate": "2485",
+        "name": "Xà bông X-Men Fire hương nam tính 90g",
+        "price": 22000.0
+    },
+    {
+        "id": "76935",
+        "idCate": "2485",
+        "name": "Xà bông Safeguard thảo mộc 125g",
+        "price": 19500.0
+    },
+    {
+        "id": "76933",
+        "idCate": "2485",
+        "name": "Xà bông Safeguard nha đam hương hoa 125g",
+        "price": 19500.0
+    },
+    {
+        "id": "76934",
+        "idCate": "2485",
+        "name": "Xà bông Safeguard diệt khuẩn 125g",
+        "price": 19500.0
+    },
+    {
+        "id": "250698",
+        "idCate": "2485",
+        "name": "Xà bông Dettol dưỡng da 100g",
+        "price": 15500.0
+    },
+    {
+        "id": "76929",
+        "idCate": "2485",
+        "name": "Xà bông Lifebuoy thiên nhiên 90g",
+        "price": 14000.0
+    },
+    {
+        "id": "76928",
+        "idCate": "2485",
+        "name": "Xà bông Lifebuoy chăm sóc da 90g",
+        "price": 13000.0
+    },
+    {
+        "id": "182247",
+        "idCate": "2485",
+        "name": "Xà bông Enchanteur Sensation 90g",
+        "price": 22000.0
+    },
+    {
+        "id": "310662",
+        "idCate": "2485",
+        "name": "Xà bông X-Men For Boss Intense 75g",
+        "price": 22000.0
+    },
+    {
+        "id": "275189",
+        "idCate": "2485",
+        "name": "Xà bông Cindy Bloom hương quyến rũ 90g",
+        "price": 22000.0
+    },
+    {
+        "id": "275085",
+        "idCate": "2485",
+        "name": "Xà bông Cindy Bloom hương ngọt ngào 90g",
+        "price": 22000.0
+    },
+    {
+        "id": "76931",
+        "idCate": "2485",
+        "name": "Xà bông X-Men Fire hương nam tính 90g",
+        "price": 22000.0
+    },
+    {
+        "id": "76934",
+        "idCate": "2485",
+        "name": "Xà bông Safeguard diệt khuẩn 125g",
+        "price": 19500.0
+    },
+    {
+        "id": "250698",
+        "idCate": "2485",
+        "name": "Xà bông Dettol dưỡng da 100g",
+        "price": 15500.0
+    },
+    {
+        "id": "309922",
+        "idCate": "2507",
+        "name": "Lăn khử mùi Dove Serum Collagen 45ml",
+        "price": 83000.0
+    },
+    {
+        "id": "217253",
+        "idCate": "2507",
+        "name": "Sáp khử mùi Old Spice Bearglove Anti-Perspirant Deodorant 73g",
+        "price": 140000.0
+    },
+    {
+        "id": "82426",
+        "idCate": "2507",
+        "name": "Xịt khử mùi X-Men For Boss Intense 150ml",
+        "price": 96000.0
+    },
+    {
+        "id": "274065",
+        "idCate": "2507",
+        "name": "Lăn ngăn mùi Nivea Extra Brightening sáng mịn da 50ml",
+        "price": 75500.0
+    },
+    {
+        "id": "238495",
+        "idCate": "2507",
+        "name": "Kem ngăn mùi Dove dưỡng da đều màu 50ml",
+        "price": 91000.0
+    },
+    {
+        "id": "99101",
+        "idCate": "2507",
+        "name": "Xịt khử mùi cho nam AXE Black 135ml",
+        "price": 108000.0
+    },
+    {
+        "id": "87468",
+        "idCate": "2507",
+        "name": "Xịt khử mùi toàn thân Romano Classic 150ml",
+        "price": 103000.0
+    },
+    {
+        "id": "281433",
+        "idCate": "2507",
+        "name": "Xịt khử mùi toàn thân Romano Gentleman 150ml",
+        "price": 103000.0
+    },
+    {
+        "id": "309929",
+        "idCate": "2507",
+        "name": "Lăn khử mùi Dove Serum Vitamin C&E 45ml",
+        "price": 97000.0
+    },
+    {
+        "id": "78009",
+        "idCate": "2507",
+        "name": "Lăn ngăn mùi Nivea Invisible For Black & White 50ml",
+        "price": 94000.0
+    },
+    {
+        "id": "285971",
+        "idCate": "3485",
+        "name": "Dao cạo râu Gillette Flexi Vibe 1Up",
+        "price": 32000.0
+    },
+    {
+        "id": "182269",
+        "idCate": "3485",
+        "name": "2 cây dao cạo Gillette Blue III Simple 3 lưỡi",
+        "price": 35000.0
+    },
+    {
+        "id": "144856",
+        "idCate": "3485",
+        "name": "4 cây dao cạo cho nữ 3 lưỡi Gillette Venus Simply",
+        "price": 109000.0
+    },
+    {
+        "id": "285973",
+        "idCate": "3485",
+        "name": "Dao cạo râu Gillette Flexi Vibe 1Up +4 lưỡi",
+        "price": 75000.0
+    },
+    {
+        "id": "285974",
+        "idCate": "3485",
+        "name": "Lưỡi cạo râu 2 lưỡi Gillette Flexi Vibe 2Up",
+        "price": 32000.0
+    },
+    {
+        "id": "223693",
+        "idCate": "3003",
+        "name": "Khăn ướt Puri không mùi gói 20 miếng",
+        "price": 8500.0
+    },
+    {
+        "id": "207822",
+        "idCate": "2516",
+        "name": "Băng ban ngày Kotex thảo dược 23cm",
+        "price": 24000.0
+    },
+    {
+        "id": "82516",
+        "idCate": "2516",
+        "name": "Băng ban đêm Diana Sensi 29cm",
+        "price": 49500.0
+    },
+    {
+        "id": "309941",
+        "idCate": "2516",
+        "name": "Băng vệ sinh siêu ban đêm Kotex 8 miếng tặng 1 35cm ",
+        "price": 29000.0
+    },
+    {
+        "id": "308496",
+        "idCate": "2516",
+        "name": "Lốc 4 gói băng ban ngày Kotex Gardenia siêu mỏng 23cm",
+        "price": 198000.0
+    },
+    {
+        "id": "308383",
+        "idCate": "2516",
+        "name": "Lốc 4 gói băng vệ sinh Kotex khô thoáng Maxi cánh 20 miếng",
+        "price": 184000.0
+    },
+    {
+        "id": "308392",
+        "idCate": "2516",
+        "name": "Lốc 4 gói băng vệ sinh Kotex khô thoáng siêu mỏng cánh 16 miếng",
+        "price": 184000.0
+    },
+    {
+        "id": "308380",
+        "idCate": "2516",
+        "name": "Lốc 8 gói băng vệ sinh Kotex khô thoáng siêu mỏng cánh 8 miếng",
+        "price": 176000.0
+    },
+    {
+        "id": "308495",
+        "idCate": "2516",
+        "name": "Lốc 6 gói băng ban ngày Kotex Gardenia 23cm",
+        "price": 138000.0
+    },
+    {
+        "id": "238568",
+        "idCate": "2516",
+        "name": "Băng ban ngày Sofy sport 26cm",
+        "price": 97000.0
+    },
+    {
+        "id": "235171",
+        "idCate": "2516",
+        "name": "Băng quần Diana 360 độ M-L",
+        "price": 89000.0
+    },
+    {
+        "id": "82511",
+        "idCate": "2516",
+        "name": "Băng ban đêm Diana chống tràn 35cm",
+        "price": 72000.0
+    },
+    {
+        "id": "202898",
+        "idCate": "2516",
+        "name": "Băng ban ngày Diana Sensi Cool Fresh 23cm",
+        "price": 54000.0
+    },
+    {
+        "id": "273028",
+        "idCate": "2516",
+        "name": "Băng ban ngày Kotex Maxcool 23cm",
+        "price": 51500.0
+    },
+    {
+        "id": "82512",
+        "idCate": "2516",
+        "name": "Băng ban đêm Diana Super Night 29cm",
+        "price": 50000.0
+    },
+    {
+        "id": "284446",
+        "idCate": "2516",
+        "name": "Băng ban ngày Kotex Gardenia siêu mỏng 23cm",
+        "price": 49500.0
+    },
+    {
+        "id": "182313",
+        "idCate": "2516",
+        "name": "Băng ban đêm Sofy Skin Comfort Ultra Thin 29cm",
+        "price": 48000.0
+    },
+    {
+        "id": "202900",
+        "idCate": "2516",
+        "name": "Băng ban ngày Diana siêu thấm 23cm",
+        "price": 48000.0
+    },
+    {
+        "id": "82497",
+        "idCate": "2516",
+        "name": "Băng ban ngày Kotex khô thoáng 23cm",
+        "price": 46000.0
+    },
+    {
+        "id": "81331",
+        "idCate": "2516",
+        "name": "Băng ban ngày Kotex khô thoáng 23cm",
+        "price": 46000.0
+    },
+    {
+        "id": "276077",
+        "idCate": "2516",
+        "name": "2 gói băng ban ngày Diana Cool Fresh 23cm",
+        "price": 46000.0
+    },
+    {
+        "id": "276205",
+        "idCate": "2516",
+        "name": "2 gói băng ban ngày Diana Sensi Cool Fresh 23cm",
+        "price": 44000.0
+    },
+    {
+        "id": "207010",
+        "idCate": "2516",
+        "name": "Băng ban ngày Laurier Super Slimguard Cool 23cm",
+        "price": 43000.0
+    },
+    {
+        "id": "81352",
+        "idCate": "2516",
+        "name": "Băng ban ngày Laurier Fresh and Free siêu thấm 22cm",
+        "price": 42000.0
+    },
+    {
+        "id": "217101",
+        "idCate": "2516",
+        "name": "Băng hàng ngày Kotex Cool 15cm",
+        "price": 41000.0
+    },
+    {
+        "id": "78454",
+        "idCate": "2516",
+        "name": "Băng ban ngày Whisper Ultra Clean 24cm",
+        "price": 40000.0
+    },
+    {
+        "id": "201840",
+        "idCate": "2516",
+        "name": "Băng ban đêm Whisper Skin Love 31cm",
+        "price": 39000.0
+    },
+    {
+        "id": "213839",
+        "idCate": "2516",
+        "name": "Băng quần Diana Sensi size S-M",
+        "price": 38500.0
+    },
+    {
+        "id": "284447",
+        "idCate": "2516",
+        "name": "Băng ban đêm Kotex dạng quần 40cm",
+        "price": 34500.0
+    },
+    {
+        "id": "223696",
+        "idCate": "2516",
+        "name": "Băng ban đêm Laurier Safety Night 35cm",
+        "price": 26500.0
+    },
+    {
+        "id": "77102",
+        "idCate": "2516",
+        "name": "Băng ban ngày Whisper mặt lưới 23cm",
+        "price": 26000.0
+    },
+    {
+        "id": "309938",
+        "idCate": "2516",
+        "name": "Băng ngày & đêm Kotex Maxcool French Spa 28cm",
+        "price": 24000.0
+    },
+    {
+        "id": "306132",
+        "idCate": "2516",
+        "name": "Băng vệ sinh Diana Sensi than hoạt tính siêu mỏng cánh 8 miếng",
+        "price": 23000.0
+    },
+    {
+        "id": "284444",
+        "idCate": "2516",
+        "name": "Băng ban ngày Kotex Gardenia 23cm",
+        "price": 23000.0
+    },
+    {
+        "id": "182216",
+        "idCate": "2516",
+        "name": "Băng ban ngày Diana siêu thấm 23cm",
+        "price": 23000.0
+    },
+    {
+        "id": "264076",
+        "idCate": "2516",
+        "name": "Băng ban ngày Diana Sensi Cool 23cm",
+        "price": 23000.0
+    },
+    {
+        "id": "306131",
+        "idCate": "2516",
+        "name": "Băng vệ sinh Diana Sensi than hoạt tính siêu mỏng cánh 8 miếng",
+        "price": 23000.0
+    },
+    {
+        "id": "77829",
+        "idCate": "2516",
+        "name": "Băng ban ngày Diana Sensi 23cm",
+        "price": 23000.0
+    },
+    {
+        "id": "322507",
+        "idCate": "2516",
+        "name": "Băng vệ sinh ngày nhiều & đêm Kotex siêu mỏng cánh 6 miếng",
+        "price": 22000.0
+    },
+    {
+        "id": "194342",
+        "idCate": "2516",
+        "name": "Băng ban ngày Diana Cool Fresh siêu thấm 23cm",
+        "price": 22000.0
+    },
+    {
+        "id": "82514",
+        "idCate": "2516",
+        "name": "Băng ban ngày Diana Sensi siêu mỏng 23cm",
+        "price": 22000.0
+    },
+    {
+        "id": "78447",
+        "idCate": "2516",
+        "name": "Băng ban ngày Diana Maxi siêu thấm 23cm",
+        "price": 22000.0
+    },
+    {
+        "id": "77097",
+        "idCate": "2516",
+        "name": "Băng ban ngày Kotex khô thoáng 23cm",
+        "price": 22000.0
+    },
+    {
+        "id": "78448",
+        "idCate": "2516",
+        "name": "Băng ban ngày Diana siêu thấm 23cm",
+        "price": 21000.0
+    },
+    {
+        "id": "77091",
+        "idCate": "2516",
+        "name": "Băng ban ngày Diana Maxi 23cm",
+        "price": 21000.0
+    },
+    {
+        "id": "217102",
+        "idCate": "2516",
+        "name": "Băng hàng ngày Kotex Cool siêu mỏng 15cm",
+        "price": 21000.0
+    },
+    {
+        "id": "78446",
+        "idCate": "2516",
+        "name": "Băng ban đêm Diana Super Night 35cm",
+        "price": 20500.0
+    },
+    {
+        "id": "182243",
+        "idCate": "2516",
+        "name": "Băng ban đêm Kotex chống tràn 35cm",
+        "price": 20000.0
+    },
+    {
+        "id": "77090",
+        "idCate": "2516",
+        "name": "Băng ban đêm Diana Sensi 29cm",
+        "price": 19500.0
+    },
+    {
+        "id": "78462",
+        "idCate": "2516",
+        "name": "Băng hàng ngày Laurier Active Fit 14cm",
+        "price": 19500.0
+    },
+    {
+        "id": "77100",
+        "idCate": "2516",
+        "name": "Băng vệ sinh Laurier Fresh and Free siêu thấm siêu mỏng",
+        "price": 19000.0
+    },
+    {
+        "id": "87465",
+        "idCate": "2485",
+        "name": "Xà bông Enchanteur Romantic 90g",
+        "price": 22000.0
+    },
+    {
+        "id": "310662",
+        "idCate": "2485",
+        "name": "Xà bông X-Men For Boss Intense 75g",
+        "price": 22000.0
+    },
+    {
+        "id": "182229",
+        "idCate": "2485",
+        "name": "Xà bông sạch khuẩn Romano Attitude 90g",
+        "price": 22000.0
+    },
+    {
+        "id": "275189",
+        "idCate": "2485",
+        "name": "Xà bông Cindy Bloom hương quyến rũ 90g",
+        "price": 22000.0
+    },
+    {
+        "id": "182247",
+        "idCate": "2485",
+        "name": "Xà bông Enchanteur Sensation 90g",
+        "price": 22000.0
+    },
+    {
+        "id": "275085",
+        "idCate": "2485",
+        "name": "Xà bông Cindy Bloom hương ngọt ngào 90g",
+        "price": 22000.0
+    },
+    {
+        "id": "86821",
+        "idCate": "2485",
+        "name": "Xà bông X-Men Wood Sport 90g",
+        "price": 22000.0
+    },
+    {
+        "id": "76930",
+        "idCate": "2485",
+        "name": "Xà bông sạch khuẩn Romano Classic 90g",
+        "price": 22000.0
+    },
+    {
+        "id": "76927",
+        "idCate": "2485",
+        "name": "Xà bông Enchanteur Charming 90g",
+        "price": 22000.0
+    },
+    {
+        "id": "96818",
+        "idCate": "2485",
+        "name": "Xà bông Coast Classic diệt khuẩn 113g",
+        "price": 22000.0
+    },
+    {
+        "id": "224329",
+        "idCate": "3004",
+        "name": "Khăn giấy Puri 2 lớp 220 tờ",
+        "price": 17000.0
+    },
+    {
+        "id": "230824",
+        "idCate": "3004",
+        "name": "Khăn giấy Puri 3 lớp 100 tờ",
+        "price": 15000.0
+    },
+    {
+        "id": "224331",
+        "idCate": "3004",
+        "name": "Khăn giấy Puri 2 lớp 120 tờ",
+        "price": 14000.0
+    },
+    {
+        "id": "232143",
+        "idCate": "3004",
+        "name": "6 gói khăn giấy Puri 3 lớp 10 tờ",
+        "price": 13000.0
+    },
+    {
+        "id": "201350",
+        "idCate": "3004",
+        "name": "Khăn ăn PREMIER VinaTissue 1 lớp 100 tờ",
+        "price": 12000.0
+    },
+    {
+        "id": "77289",
+        "idCate": "3004",
+        "name": "6 gói khăn giấy Pulppy 2 lớp 10 tờ",
+        "price": 11000.0
+    },
+    {
+        "id": "77213",
+        "idCate": "3004",
+        "name": "Khăn giấy Pulppy 2 lớp 180 tờ",
+        "price": 24000.0
+    },
+    {
+        "id": "96401",
+        "idCate": "3004",
+        "name": "10 gói khăn giấy bỏ túi Pulppy 3 lớp 10 tờ",
+        "price": 22000.0
+    },
+    {
+        "id": "232128",
+        "idCate": "3004",
+        "name": "6 gói khăn giấy đa năng Softly 2 lớp 100 tờ",
+        "price": 17000.0
+    },
+    {
+        "id": "237171",
+        "idCate": "3004",
+        "name": "Khăn giấy Tempo hương bạc hà 4 lớp 90 tờ",
+        "price": 25000.0
+    },
+    {
+        "id": "320692",
+        "idCate": "3004",
+        "name": "3 gói khăn giấy lụa Let-green 2 lớp 200 tờ",
+        "price": 35000.0
+    },
+    {
+        "id": "81822",
+        "idCate": "3004",
+        "name": "10 gói khăn giấy Tempo hương bạc hà 4 lớp 8 tờ",
+        "price": 45000.0
+    },
+    {
+        "id": "312890",
+        "idCate": "3004",
+        "name": "6 gói khăn giấy lụa Bless You Disney 2 lớp",
+        "price": 47000.0
+    },
+    {
+        "id": "232139",
+        "idCate": "3004",
+        "name": "Khăn giấy Softly 2 lớp 220 tờ",
+        "price": 25000.0
+    },
+    {
+        "id": "232124",
+        "idCate": "3004",
+        "name": "Khăn giấy lau mặt Lency 3 lớp 160 tờ",
+        "price": 21000.0
+    },
+    {
+        "id": "81767",
+        "idCate": "3004",
+        "name": "Khăn giấy ăn Pulppy 1 lớp 100 tờ",
+        "price": 19000.0
+    },
+    {
+        "id": "230826",
+        "idCate": "9081",
+        "name": "12 cuộn giấy Softly 2 lớp không lõi",
+        "price": 39000.0
+    },
+    {
+        "id": "158716",
+        "idCate": "9081",
+        "name": "10 cuộn giấy Elène hồng 3 lớp",
+        "price": 89000.0
+    },
+    {
+        "id": "232106",
+        "idCate": "9081",
+        "name": "6 cuộn giấy tre Lency 2 lớp không lõi",
+        "price": 25000.0
+    },
+    {
+        "id": "226198",
+        "idCate": "9081",
+        "name": "10 cuộn giấy Puri 2 lớp",
+        "price": 69000.0
+    },
+    {
+        "id": "201347",
+        "idCate": "9081",
+        "name": "6 cuộn giấy PREMIER VinaRoll 3 lớp",
+        "price": 55000.0
+    },
+    {
+        "id": "148369",
+        "idCate": "9081",
+        "name": "10 cuộn giấy Bless You À La Vie 2 lớp",
+        "price": 92000.0
+    },
+    {
+        "id": "315827",
+        "idCate": "9081",
+        "name": "6 cuộn giấy vệ sinh Elène xanh ngọc 3 lớp",
+        "price": 53000.0
+    },
+    {
+        "id": "299546",
+        "idCate": "9081",
+        "name": "Giấy Jumbo  Elène 2 lớp 700g",
+        "price": 39000.0
+    },
+    {
+        "id": "77212",
+        "idCate": "9081",
+        "name": "10 cuộn giấy An An 2 lớp",
+        "price": 35500.0
+    },
+    {
+        "id": "228733",
+        "idCate": "2491",
+        "name": "2 bàn chải Colgate 360 Charcoal Spiral",
+        "price": 57000.0
+    },
+    {
+        "id": "182226",
+        "idCate": "2491",
+        "name": "3 bàn chải Colgate siêu mềm mảnh sạch sâu hiệu quả",
+        "price": 36000.0
+    },
+    {
+        "id": "304203",
+        "idCate": "2491",
+        "name": "Bộ 2 bàn chải đánh răng Colgate Optic White",
+        "price": 88500.0
+    },
+    {
+        "id": "228880",
+        "idCate": "2491",
+        "name": "2 bàn chải Colgate Cushion Clean",
+        "price": 87500.0
+    },
+    {
+        "id": "194615",
+        "idCate": "2491",
+        "name": "Bàn chải Colgate Flex Clean Charcoal lông chải nguyên khối",
+        "price": 50500.0
+    },
+    {
+        "id": "286589",
+        "idCate": "2491",
+        "name": "5 bàn chải Colgate Slim Soft In-Between Charcoal",
+        "price": 86500.0
+    },
+    {
+        "id": "322197",
+        "idCate": "2491",
+        "name": "Đầu bàn chải đánh răng Colgate thay thế 360 Sonic Charcoal",
+        "price": 244500.0
+    },
+    {
+        "id": "260161",
+        "idCate": "2491",
+        "name": "5 bàn chải Colgate than hoạt tính",
+        "price": 155000.0
+    },
+    {
+        "id": "286714",
+        "idCate": "2491",
+        "name": "2 bàn chải Colgate Gentle Comfort Clean",
+        "price": 123000.0
+    },
+    {
+        "id": "237666",
+        "idCate": "2491",
+        "name": "2 bàn chải đánh răng Colgate Cushion Clean",
+        "price": 99000.0
+    },
+    {
+        "id": "161261",
+        "idCate": "2446",
+        "name": "Kem đánh răng Colgate MaxFresh bạc hà 225g",
+        "price": 43000.0
+    },
+    {
+        "id": "91735",
+        "idCate": "2446",
+        "name": "Kem đánh răng Colgate ngừa sâu răng 225g",
+        "price": 44000.0
+    },
+    {
+        "id": "86596",
+        "idCate": "2446",
+        "name": "Kem đánh răng Sensodyne trắng răng 100g",
+        "price": 74000.0
+    },
+    {
+        "id": "80844",
+        "idCate": "2446",
+        "name": "Kem đánh răng P/S bảo vệ 123 chăm sóc toàn diện 230g",
+        "price": 40000.0
+    },
+    {
+        "id": "76507",
+        "idCate": "2446",
+        "name": "Nước súc miệng Listerine trà xanh 250ml",
+        "price": 82000.0
+    },
+    {
+        "id": "199013",
+        "idCate": "2446",
+        "name": "Kem đánh răng P/S ngừa sâu răng 110g",
+        "price": 17700.0
+    },
+    {
+        "id": "292925",
+        "idCate": "2446",
+        "name": "Bộ đôi nước súc miệng Colgate Plax bạc hà 500ml",
+        "price": 117000.0
+    },
+    {
+        "id": "292946",
+        "idCate": "2446",
+        "name": "Bộ đôi nước súc miệng Colgate Plax trà xanh 500ml",
+        "price": 117000.0
+    },
+    {
+        "id": "325557",
+        "idCate": "2446",
+        "name": "Bộ đôi kem đánh răng Colgate MaxFresh 225g",
+        "price": 56000.0
+    },
+    {
+        "id": "316968",
+        "idCate": "2446",
+        "name": "Kem đánh răng Colgate Optic White 02 đào 85g",
+        "price": 101500.0
+    },
+    {
+        "id": "76820",
+        "idCate": "2444",
+        "name": "Sữa tắm Lifebuoy bảo vệ vượt trội 784ml",
+        "price": 157000.0
+    },
+    {
+        "id": "195634",
+        "idCate": "2444",
+        "name": "Sữa tắm detox Lifebuoy matcha và khổ qua 782ml",
+        "price": 195000.0
+    },
+    {
+        "id": "194743",
+        "idCate": "2444",
+        "name": "Sữa tắm Hazeline yến mạch dâu tằm 796ml",
+        "price": 73000.0
+    },
+    {
+        "id": "306704",
+        "idCate": "2444",
+        "name": "Sữa tắm Lifebuoy thảo dược và hoa sen 784ml",
+        "price": 196000.0
+    },
+    {
+        "id": "80861",
+        "idCate": "2444",
+        "name": "Sữa tắm Purité hương hoa anh đào 850ml",
+        "price": 245000.0
+    },
+    {
+        "id": "230931",
+        "idCate": "2444",
+        "name": "Sữa tắm Puri hoa Lavender 1kg",
+        "price": 101000.0
+    },
+    {
+        "id": "195046",
+        "idCate": "2444",
+        "name": "Sữa tắm bảo vệ khỏi vi khuẩn Lifebuoy sữa dưỡng ẩm 980ml",
+        "price": 195000.0
+    },
+    {
+        "id": "282966",
+        "idCate": "2444",
+        "name": "Sữa tắm Dove hương hoa anh đào 500g",
+        "price": 143000.0
+    },
+    {
+        "id": "195048",
+        "idCate": "2444",
+        "name": "Sữa tắm Lifebuoy bảo vệ vượt trội 980ml",
+        "price": 195000.0
+    },
+    {
+        "id": "194671",
+        "idCate": "2444",
+        "name": "Muối tắm sữa spa A Bonné cà phê 350g",
+        "price": 78000.0
+    },
+    {
+        "id": "193842",
+        "idCate": "2484",
+        "name": "Kem xả Pantene phục hồi hư tổn 150ml",
+        "price": 55000.0
+    },
+    {
+        "id": "224431",
+        "idCate": "2484",
+        "name": "Dầu xả Tsubaki dưỡng tóc bóng mượt 490ml",
+        "price": 162000.0
+    },
+    {
+        "id": "304729",
+        "idCate": "2484",
+        "name": "Dầu xả TRESemmé Keratin Smooth vào nếp suôn mượt 497ml",
+        "price": 153000.0
+    },
+    {
+        "id": "241179",
+        "idCate": "2484",
+        "name": "Dầu xả Pantene ngăn rụng tóc 300ml",
+        "price": 95000.0
+    },
+    {
+        "id": "223192",
+        "idCate": "2484",
+        "name": "Kem xả Dove ngăn gãy rụng từ gốc 328ml",
+        "price": 94000.0
+    },
+    {
+        "id": "303582",
+        "idCate": "2484",
+        "name": "Dầu xả Rejoice siêu mềm mượt chai 320ml",
+        "price": 69000.0
+    },
+    {
+        "id": "304734",
+        "idCate": "2484",
+        "name": "Dầu xả TRESemmé Salon Rebond giảm gãy rụng 490ml",
+        "price": 153000.0
+    },
+    {
+        "id": "326263",
+        "idCate": "2484",
+        "name": "Dầu xả Loreal giảm gãy rụng 280ml",
+        "price": 139000.0
+    },
+    {
+        "id": "326264",
+        "idCate": "2484",
+        "name": "Dầu xả Loreal dưỡng tóc suôn mượt 280ml",
+        "price": 139000.0
+    },
+    {
+        "id": "326262",
+        "idCate": "2484",
+        "name": "Dầu xả Loreal giảm 5 dấu hiệu hư tổn 280ml",
+        "price": 139000.0
+    },
+    {
+        "id": "96033",
+        "idCate": "2483",
+        "name": "Dầu gội Sunsilk mềm mượt diệu kỳ 874ml",
+        "price": 200000.0
+    },
+    {
+        "id": "217236",
+        "idCate": "2483",
+        "name": "Dầu gội Ôliv dưỡng tóc bồng bềnh 5.8ml x 12 gói",
+        "price": 16000.0
+    },
+    {
+        "id": "78277",
+        "idCate": "2483",
+        "name": "Dầu gội Clear Men bạc hà mát lạnh 4.9ml x 12 gói",
+        "price": 15000.0
+    },
+    {
+        "id": "77980",
+        "idCate": "2483",
+        "name": "Dầu gội Pantene ngăn rụng tóc 5.8ml x 10 gói",
+        "price": 19000.0
+    },
+    {
+        "id": "224437",
+        "idCate": "2483",
+        "name": "Dầu gội Tsubaki dưỡng tóc bóng mượt 490ml",
+        "price": 162000.0
+    },
+    {
+        "id": "99017",
+        "idCate": "2483",
+        "name": "Dầu gội Romano Classic tóc chắc khoẻ 5g x 12 gói",
+        "price": 14000.0
+    },
+    {
+        "id": "326636",
+        "idCate": "2483",
+        "name": "Sữa tắm gội On Line Men Spicy Orange 400ml",
+        "price": 119000.0
+    },
+    {
+        "id": "274052",
+        "idCate": "2483",
+        "name": "Dầu gội Pantene ngăn rụng tóc 600ml",
+        "price": 109000.0
+    },
+    {
+        "id": "76179",
+        "idCate": "2483",
+        "name": "Dầu gội sạch gàu Clear Men sạch sâu 612ml",
+        "price": 145000.0
+    },
+    {
+        "id": "235110",
+        "idCate": "2483",
+        "name": "Tắm gội 2 in 1 X-men Wood Sport thơm lâu 900g",
+        "price": 169000.0
+    },
+    {
+        "id": "76993",
+        "idCate": "7622",
+        "name": "Bánh chocopie Orion 396g",
+        "price": 54500.0
+    },
+    {
+        "id": "266070",
+        "idCate": "7622",
+        "name": "Bánh longpie socola Hải Hà 216g",
+        "price": 26500.0
+    },
+    {
+        "id": "76995",
+        "idCate": "7622",
+        "name": "Bánh chocopie Orion 198g",
+        "price": 33000.0
+    },
+    {
+        "id": "309319",
+        "idCate": "7622",
+        "name": "Bánh kiểu âu Orion Opéra socola 168g",
+        "price": 33000.0
+    },
+    {
+        "id": "242620",
+        "idCate": "7622",
+        "name": "Bánh Oreo Cadbury socola 180g",
+        "price": 28500.0
+    },
+    {
+        "id": "266068",
+        "idCate": "7622",
+        "name": "Bánh longpie Hải Hà hương cốm 216g",
+        "price": 26000.0
+    },
+    {
+        "id": "300089",
+        "idCate": "7622",
+        "name": "Bánh Oreo Pie socola dâu 180g",
+        "price": 30500.0
+    },
+    {
+        "id": "305930",
+        "idCate": "7622",
+        "name": "Bánh bouchee Lotte Chocolat socola 162g",
+        "price": 30500.0
+    },
+    {
+        "id": "145095",
+        "idCate": "7622",
+        "name": "Bánh chocopie Orion Dark ca cao 180g",
+        "price": 33000.0
+    },
+    {
+        "id": "309170",
+        "idCate": "3364",
+        "name": "Snack que vị sườn nướng Poca 60g",
+        "price": 12000.0
+    },
+    {
+        "id": "79804",
+        "idCate": "3364",
+        "name": "Snack vị kim chi O'Star 55g",
+        "price": 12000.0
+    },
+    {
+        "id": "305937",
+        "idCate": "3364",
+        "name": "Snack tôm vị cay nồng Oishi",
+        "price": 12000.0
+    },
+    {
+        "id": "266433",
+        "idCate": "3364",
+        "name": "Snack Toonies socola 70g",
+        "price": 12000.0
+    },
+    {
+        "id": "77417",
+        "idCate": "3364",
+        "name": "Snack socola Oishi Pillows 85g",
+        "price": 12000.0
+    },
+    {
+        "id": "305485",
+        "idCate": "3364",
+        "name": "Snack vị tảo biển Orion 56g",
+        "price": 12000.0
+    },
+    {
+        "id": "305921",
+        "idCate": "3364",
+        "name": "Snack vị kem chua hành Lay's Max 42g",
+        "price": 12000.0
+    },
+    {
+        "id": "322988",
+        "idCate": "3364",
+        "name": "Snack vị sữa chua dâu Poca gói 58g",
+        "price": 12000.0
+    },
+    {
+        "id": "313108",
+        "idCate": "3364",
+        "name": "Snack vị bò Wagyu Lay's 42g",
+        "price": 12000.0
+    },
+    {
+        "id": "193606",
+        "idCate": "3364",
+        "name": "Snack vị tự nhiên Lay's 54g",
+        "price": 11600.0
+    },
+    {
+        "id": "193750",
+        "idCate": "3359",
+        "name": "Bánh quế sô cô la Oreo Wafer Roll 3 gói x 18g",
+        "price": 13000.0
+    },
+    {
+        "id": "79939",
+        "idCate": "3359",
+        "name": "Bánh xốp ống nhân kem socola Jojo gói 125g",
+        "price": 14000.0
+    },
+    {
+        "id": "299856",
+        "idCate": "3359",
+        "name": "Bánh quế nhân kem hương ổi hồng Poca gói 115g",
+        "price": 16000.0
+    },
+    {
+        "id": "299854",
+        "idCate": "3359",
+        "name": "Bánh quế nhân kem hương trứng muối Poca gói 115g",
+        "price": 16000.0
+    },
+    {
+        "id": "77146",
+        "idCate": "3359",
+        "name": "Bánh quế vị kem lá dứa Cosy gói 117.6g",
+        "price": 11500.0
+    },
+    {
+        "id": "77145",
+        "idCate": "3359",
+        "name": "Bánh quế vị kem dâu Cosy gói 117.6g",
+        "price": 11500.0
+    },
+    {
+        "id": "79832",
+        "idCate": "3359",
+        "name": "Bánh quế vị kem socola Cosy gói 117.6g",
+        "price": 11500.0
+    },
+    {
+        "id": "79936",
+        "idCate": "3359",
+        "name": "Bánh xốp ống nhân kem vị matcha Jojo gói 125g",
+        "price": 14000.0
+    },
+    {
+        "id": "316848",
+        "idCate": "3359",
+        "name": "Bánh quế kem socola Mayora Go Choco 20 thanh x 14g",
+        "price": 38500.0
+    },
+    {
+        "id": "293528",
+        "idCate": "3359",
+        "name": "Bánh quế vị xoài xí muội Cosy 117.6g",
+        "price": 11500.0
+    },
+    {
+        "id": "210491",
+        "idCate": "3357",
+        "name": "Bánh quy kem socola Oreo 64.4g",
+        "price": 9500.0
+    },
+    {
+        "id": "79861",
+        "idCate": "3357",
+        "name": "Bánh quy kem vani Oreo 66.5g",
+        "price": 9500.0
+    },
+    {
+        "id": "322648",
+        "idCate": "3357",
+        "name": "Bánh quy yến mạch sữa Richy 206g",
+        "price": 25000.0
+    },
+    {
+        "id": "101056",
+        "idCate": "3357",
+        "name": "Bánh quy cà phê Coffee Joy 142g",
+        "price": 16500.0
+    },
+    {
+        "id": "90678",
+        "idCate": "3357",
+        "name": "Bánh quy bơ Danisa 681g",
+        "price": 196000.0
+    },
+    {
+        "id": "195796",
+        "idCate": "3357",
+        "name": "Bánh quy bơ thập cẩm LU 540g",
+        "price": 194000.0
+    },
+    {
+        "id": "77033",
+        "idCate": "3357",
+        "name": "Bánh quy bơ Danisa 454g",
+        "price": 134000.0
+    },
+    {
+        "id": "315310",
+        "idCate": "3357",
+        "name": "Bánh quy vani Kokola 400g",
+        "price": 78000.0
+    },
+    {
+        "id": "264302",
+        "idCate": "3357",
+        "name": "Bánh quy LU 180g",
+        "price": 68000.0
+    },
+    {
+        "id": "274956",
+        "idCate": "3357",
+        "name": "Bánh trứng caramel Tipo 250g",
+        "price": 65500.0
+    },
+    {
+        "id": "207236",
+        "idCate": "7599",
+        "name": "Phô mai lát Zott Burger 200g (12 lát)",
+        "price": 63000.0
+    },
+    {
+        "id": "263993",
+        "idCate": "7599",
+        "name": "Phô mai mozzarella bào Bottega Zelachi gói 200g",
+        "price": 85000.0
+    },
+    {
+        "id": "248429",
+        "idCate": "7599",
+        "name": "Kem sữa có đường dạng xịt Paysan Breton 250g",
+        "price": 125000.0
+    },
+    {
+        "id": "317040",
+        "idCate": "7599",
+        "name": "Phô mai bột Bottega Zelachi 100g",
+        "price": 72000.0
+    },
+    {
+        "id": "174517",
+        "idCate": "3465",
+        "name": "Bơ đậu hạt Golden Farm 170g",
+        "price": 37000.0
+    },
+    {
+        "id": "174516",
+        "idCate": "3465",
+        "name": "Bơ đậu mịn Golden Farm 170g",
+        "price": 37000.0
+    },
+    {
+        "id": "91785",
+        "idCate": "3465",
+        "name": "Bơ thực vật Tường An 200g",
+        "price": 20500.0
+    },
+    {
+        "id": "211278",
+        "idCate": "3465",
+        "name": "Bơ thực vật Meizan 200g",
+        "price": 19000.0
+    },
+    {
+        "id": "113237",
+        "idCate": "3465",
+        "name": "Bơ thực vật Tường An 80g",
+        "price": 10800.0
+    },
+    {
+        "id": "211277",
+        "idCate": "3465",
+        "name": "Bơ thực vật Meizan 80g",
+        "price": 9000.0
+    },
+    {
+        "id": "236148",
+        "idCate": "7558",
+        "name": "Lốc 4 hộp váng sữa Mikus vị socola - hạt phỉ 60g",
+        "price": 0.0
+    },
+    {
+        "id": "197947",
+        "idCate": "7558",
+        "name": "Lốc 4 hộp sữa chua Vinamilk nếp cẩm 100g",
+        "price": 33000.0
+    },
+    {
+        "id": "228342",
+        "idCate": "7558",
+        "name": "Lốc 6 hũ phô mai hoa quả Kids Mix Premium 50g",
+        "price": 65000.0
+    },
+    {
+        "id": "222531",
+        "idCate": "7558",
+        "name": "Lốc 6 hũ phô mai Le Petit Plaisir vị trái cây (dâu, chuối, mơ) 50g",
+        "price": 63000.0
+    },
+    {
+        "id": "323731",
+        "idCate": "7558",
+        "name": "Lốc 4 hộp váng sữa vani Hoff 55g",
+        "price": 61500.0
+    },
+    {
+        "id": "323726",
+        "idCate": "7558",
+        "name": "Lốc 4 hộp váng sữa hương hạt dẻ Hoff 55g",
+        "price": 61500.0
+    },
+    {
+        "id": "239329",
+        "idCate": "7558",
+        "name": "Lốc 4 hộp sữa chua Sài Gòn Milk vị phô mai 100g",
+        "price": 49500.0
+    },
+    {
+        "id": "323721",
+        "idCate": "7558",
+        "name": "Lốc 4 hộp sữa chua vị chuối Hoff 55g",
+        "price": 46500.0
+    },
+    {
+        "id": "323719",
+        "idCate": "7558",
+        "name": "Lốc 4 hộp sữa chua dâu tây Hoff 55g",
+        "price": 46500.0
+    },
+    {
+        "id": "323684",
+        "idCate": "7558",
+        "name": "Lốc 4 hộp sữa chua trân châu đường đen Vinamilk 100g",
+        "price": 36500.0
+    },
+    {
+        "id": "229446",
+        "idCate": "8286",
+        "name": "Yến mạch nếp cẩm Yumfood 210g",
+        "price": 42000.0
+    },
+    {
+        "id": "79373",
+        "idCate": "8286",
+        "name": "Ngũ cốc MacCereal 560g",
+        "price": 62500.0
+    },
+    {
+        "id": "235659",
+        "idCate": "8286",
+        "name": "Ngũ cốc gạo lứt Best Choice 450g",
+        "price": 86000.0
+    },
+    {
+        "id": "318454",
+        "idCate": "8286",
+        "name": "Ngũ cốc ít đường Golden Xuân An 400g",
+        "price": 82000.0
+    },
+    {
+        "id": "165182",
+        "idCate": "8286",
+        "name": "Gạo lức canxi Việt Đài bịch 600g",
+        "price": 76000.0
+    },
+    {
+        "id": "305763",
+        "idCate": "8286",
+        "name": "Ngũ cốc yến mạch MacCereal ít đường 480g",
+        "price": 75000.0
+    },
+    {
+        "id": "79381",
+        "idCate": "8286",
+        "name": "Sữa bắp canxi Việt Đài 600g",
+        "price": 69000.0
+    },
+    {
+        "id": "120197",
+        "idCate": "8286",
+        "name": "Bột yến mạch tổ yến Anpha 200g",
+        "price": 68000.0
+    },
+    {
+        "id": "229463",
+        "idCate": "8286",
+        "name": "Ngũ cốc dinh dưỡng Yumfood 500g",
+        "price": 62000.0
+    },
+    {
+        "id": "204183",
+        "idCate": "2943",
+        "name": "Thùng 40 bịch sữa đậu nành Fami ít đường 200ml",
+        "price": 148000.0
+    },
+    {
+        "id": "204180",
+        "idCate": "2943",
+        "name": "Sữa đậu nành Fami ít đường 200ml",
+        "price": 4300.0
+    },
+    {
+        "id": "325787",
+        "idCate": "2943",
+        "name": "Lốc 4 hộp sữa Vinamilk 9 loại hạt ít đường 180ml",
+        "price": 44000.0
+    },
+    {
+        "id": "310728",
+        "idCate": "2943",
+        "name": "Lốc 4 hộp sữa đậu nành Ichiban 180ml",
+        "price": 26500.0
+    },
+    {
+        "id": "251796",
+        "idCate": "2943",
+        "name": "Lốc 4 hộp sữa đậu nành tươi Vinamilk 180ml",
+        "price": 22000.0
+    },
+    {
+        "id": "252211",
+        "idCate": "2943",
+        "name": "Lốc 6 hộp sữa đậu nành Fami Canxi vị cà phê 200ml",
+        "price": 26000.0
+    },
+    {
+        "id": "239943",
+        "idCate": "2943",
+        "name": "Lốc 6 hộp sữa đậu nành Fami sữa dừa 200ml",
+        "price": 26000.0
+    },
+    {
+        "id": "104300",
+        "idCate": "2943",
+        "name": "Lốc 6 hộp sữa đậu nành Nuti Canxi 200ml",
+        "price": 27000.0
+    },
+    {
+        "id": "108605",
+        "idCate": "2943",
+        "name": "Thùng 36 bịch sữa đậu nành Nuti 200ml",
+        "price": 157000.0
+    },
+    {
+        "id": "103231",
+        "idCate": "2943",
+        "name": "Sữa đậu nành Nuti bịch 200ml",
+        "price": 4500.0
+    },
+    {
+        "id": "86290",
+        "idCate": "2382",
+        "name": "Thùng 48 hộp sữa NutiFood Grow Plus+ Xanh 180ml",
+        "price": 505000.0
+    },
+    {
+        "id": "214609",
+        "idCate": "2382",
+        "name": "Thùng 48 hộp sữa Abbott Grow Gold vani 110ml",
+        "price": 570000.0
+    },
+    {
+        "id": "258255",
+        "idCate": "2382",
+        "name": "Lốc 4 hộp sữa non Dielac Grow Plus 110ml",
+        "price": 32000.0
+    },
+    {
+        "id": "86067",
+        "idCate": "2382",
+        "name": "Thùng 48 hộp sữa dinh dưỡng Optimum Gold 110ml",
+        "price": 398000.0
+    },
+    {
+        "id": "84290",
+        "idCate": "2382",
+        "name": "Lốc 4 hộp sữa dinh dưỡng Optimum Gold 110ml",
+        "price": 33500.0
+    },
+    {
+        "id": "292148",
+        "idCate": "2382",
+        "name": "Lốc 4 hộp sữa pha sẵn PediaSure vani 180ml ",
+        "price": 120000.0
+    },
+    {
+        "id": "214607",
+        "idCate": "2382",
+        "name": "Lốc 4 hộp sữa Abbott Grow Gold vani 110ml",
+        "price": 49000.0
+    },
+    {
+        "id": "85529",
+        "idCate": "2382",
+        "name": "Thùng 48 hộp sữa NutiFood Grow Plus+ Xanh 110ml",
+        "price": 380000.0
+    },
+    {
+        "id": "84248",
+        "idCate": "2382",
+        "name": "Lốc 4 hộp sữa NutiFood Grow Plus+ Xanh 110ml",
+        "price": 39500.0
+    },
+    {
+        "id": "216789",
+        "idCate": "2944",
+        "name": "Sữa chua LiF Kun kem dâu túi 110ml",
+        "price": 5400.0
+    },
+    {
+        "id": "87076",
+        "idCate": "2944",
+        "name": "Lốc 6 chai sữa chua SuSu cam 80ml",
+        "price": 24000.0
+    },
+    {
+        "id": "245715",
+        "idCate": "2944",
+        "name": "Sữa chua SuSu cam túi 110ml",
+        "price": 5400.0
+    },
+    {
+        "id": "201572",
+        "idCate": "2944",
+        "name": "Lốc 4 hộp sữa chua tổ yến Nestlé Yogu 115ml",
+        "price": 31500.0
+    },
+    {
+        "id": "84344",
+        "idCate": "2944",
+        "name": "Lốc 4 hộp sữa chua TH True Yogurt dâu 180ml",
+        "price": 29500.0
+    },
+    {
+        "id": "292700",
+        "idCate": "2944",
+        "name": "Sữa chua tổ yến Nestlé dâu gói 85ml",
+        "price": 7200.0
+    },
+    {
+        "id": "292697",
+        "idCate": "2944",
+        "name": "Sữa chua tổ yến Nestlé cam gói 85ml",
+        "price": 7200.0
+    },
+    {
+        "id": "292710",
+        "idCate": "2944",
+        "name": "Thùng 28 gói sữa chua tổ yến Nestlé dâu 85ml",
+        "price": 185000.0
+    },
+    {
+        "id": "314366",
+        "idCate": "2944",
+        "name": "Lốc 8 hộp sữa chua uống YoMost hương dâu 170ml",
+        "price": 53000.0
+    },
+    {
+        "id": "309400",
+        "idCate": "2944",
+        "name": "Lốc 4 hộp sữa chua uống LOF Malto nho 180ml",
+        "price": 20000.0
+    },
+    {
+        "id": "84284",
+        "idCate": "2945",
+        "name": "4 hộp sữa lúa mạch Milo 110ml",
+        "price": 20500.0
+    },
+    {
+        "id": "86197",
+        "idCate": "2945",
+        "name": "48 hộp sữa lúa mạch Milo 110ml",
+        "price": 230000.0
+    },
+    {
+        "id": "225160",
+        "idCate": "2945",
+        "name": "Sữa lúa mạch Milo nắp vặn hộp 210ml",
+        "price": 10300.0
+    },
+    {
+        "id": "225167",
+        "idCate": "2945",
+        "name": "24 hộp sữa lúa mạch Milo 210ml",
+        "price": 242000.0
+    },
+    {
+        "id": "293552",
+        "idCate": "2945",
+        "name": "4 hộp sữa lúa mạch LOF Malto 180ml",
+        "price": 30000.0
+    },
+    {
+        "id": "294568",
+        "idCate": "2945",
+        "name": "4 hộp sữa lúa mạch bạc hà LOF Malto 180ml",
+        "price": 30500.0
+    },
+    {
+        "id": "294569",
+        "idCate": "2945",
+        "name": "48 hộp sữa lúa mạch bạc hà LOF Malto 180ml",
+        "price": 316000.0
+    },
+    {
+        "id": "310356",
+        "idCate": "2945",
+        "name": "Sữa lúa mạch Milo Dynamind bạc hà hộp 200ml",
+        "price": 12500.0
+    },
+    {
+        "id": "309111",
+        "idCate": "2945",
+        "name": "4 hộp sữa lúa mạch Nuvi cacao 180ml",
+        "price": 30000.0
+    },
+    {
+        "id": "245610",
+        "idCate": "2945",
+        "name": "Sữa Vinamilk SuSu socola túi 110ml",
+        "price": 5400.0
+    },
+    {
+        "id": "79274",
+        "idCate": "2386",
+        "name": "Sữa dinh dưỡng Vinamilk có đường bịch 220ml",
+        "price": 7500.0
+    },
+    {
+        "id": "85844",
+        "idCate": "2386",
+        "name": "Thùng 48 hộp sữa tươi Vinamilk 100% có đường 180ml",
+        "price": 350000.0
+    },
+    {
+        "id": "223738",
+        "idCate": "2386",
+        "name": "Lốc 4 hộp sữa tươi có đường Dalat Milk 180ml",
+        "price": 34500.0
+    },
+    {
+        "id": "80483",
+        "idCate": "2386",
+        "name": "Lốc 4 hộp sữa tươi Vinamilk không đường 180ml",
+        "price": 32500.0
+    },
+    {
+        "id": "80465",
+        "idCate": "2386",
+        "name": "Lốc 4 hộp sữa tươi có đường Dutch Lady 110ml",
+        "price": 22000.0
+    },
+    {
+        "id": "319925",
+        "idCate": "2386",
+        "name": "Lốc 4 hộp sữa tươi Kun 100% ít đường 180ml",
+        "price": 33500.0
+    },
+    {
+        "id": "219320",
+        "idCate": "2386",
+        "name": "Sữa tiệt trùng có đường Dutch Lady Cao Khoẻ bịch 180ml",
+        "price": 6700.0
+    },
+    {
+        "id": "80551",
+        "idCate": "2386",
+        "name": "Lốc 4 hộp sữa dinh dưỡng Vinamilk ADM có đường 180ml",
+        "price": 30000.0
+    },
+    {
+        "id": "89389",
+        "idCate": "2386",
+        "name": "Lốc 4 hộp sữa dinh dưỡng Vinamilk ADM có đường 110ml",
+        "price": 18000.0
+    },
+    {
+        "id": "223729",
+        "idCate": "2386",
+        "name": "Sữa tươi có đường Dalat Milk bịch 220ml",
+        "price": 8600.0
+    },
+    {
+        "id": "83851",
+        "idCate": "4585",
+        "name": "Hộp 6 hũ nước yến nguyên chất Song Yến 70ml",
+        "price": 159000.0
+    },
+    {
+        "id": "318089",
+        "idCate": "4585",
+        "name": "Nước yến đông trùng hạ thảo Red Nest 185ml",
+        "price": 30000.0
+    },
+    {
+        "id": "266925",
+        "idCate": "4585",
+        "name": "Hộp 6 hũ yến Tinh Hoa Kid Nest hương trái cây 70ml",
+        "price": 159000.0
+    },
+    {
+        "id": "325678",
+        "idCate": "4585",
+        "name": "Hộp 4 hũ nước yến cho bé Green Bird Babi hương dâu 72g",
+        "price": 79000.0
+    },
+    {
+        "id": "296979",
+        "idCate": "4585",
+        "name": "Hộp 6 hũ tổ yến đông trùng hạ thảo Win'snest 70ml",
+        "price": 225000.0
+    },
+    {
+        "id": "266923",
+        "idCate": "4585",
+        "name": "Hộp 6 hũ yến Tinh Hoa hương sâm 70ml",
+        "price": 179000.0
+    },
+    {
+        "id": "319327",
+        "idCate": "4585",
+        "name": "Hộp 6 hũ yến Sài Gòn Anpha 18% hương sâm 70ml",
+        "price": 179000.0
+    },
+    {
+        "id": "112148",
+        "idCate": "4585",
+        "name": "Lốc 6 hũ tổ yến cho bé Sài Gòn Anpha táo 70ml",
+        "price": 159000.0
+    },
+    {
+        "id": "266921",
+        "idCate": "4585",
+        "name": "Hộp 6 hũ yến Tinh Hoa có đường 70ml",
+        "price": 179000.0
+    },
+    {
+        "id": "215631",
+        "idCate": "4585",
+        "name": "Hộp 6 hũ yến nhân sâm Song Yến 70ml",
+        "price": 179000.0
+    },
+    {
+        "id": "83569",
+        "idCate": "7068",
+        "name": "Mật ong rừng sữa ong chúa U Minh Xuân Nguyên chai 252g",
+        "price": 123000.0
+    },
+    {
+        "id": "231404",
+        "idCate": "7068",
+        "name": "Mật ong hoa cà phê Honybi chai 680g",
+        "price": 155000.0
+    },
+    {
+        "id": "166249",
+        "idCate": "7068",
+        "name": "Mật ong rừng sữa ong chúa Xuân Nguyên chai 700g",
+        "price": 217000.0
+    },
+    {
+        "id": "286713",
+        "idCate": "8966",
+        "name": "Cà phê NesCafé latte Robusta và Arabica 180ml",
+        "price": 12500.0
+    },
+    {
+        "id": "193095",
+        "idCate": "8966",
+        "name": "Cà phê sữa Highlands 235ml",
+        "price": 13500.0
+    },
+    {
+        "id": "211868",
+        "idCate": "8966",
+        "name": "6 lon cà phê sữa Highlands 185ml",
+        "price": 66000.0
+    },
+    {
+        "id": "194365",
+        "idCate": "8966",
+        "name": "Cà phê sữa Highlands 185ml",
+        "price": 12300.0
+    },
+    {
+        "id": "255058",
+        "idCate": "8966",
+        "name": "Cà phê sữa đá NesCafé hộp 180ml",
+        "price": 12500.0
+    },
+    {
+        "id": "255059",
+        "idCate": "8966",
+        "name": "6 hộp cà phê sữa đá NesCafé 180ml",
+        "price": 72000.0
+    },
+    {
+        "id": "261724",
+        "idCate": "8966",
+        "name": "Cà phê sữa The Coffee House 180ml",
+        "price": 11500.0
+    },
+    {
+        "id": "238036",
+        "idCate": "8966",
+        "name": "Cà phê sữa Highlands vị cà phê thật 180ml",
+        "price": 9000.0
+    },
+    {
+        "id": "238040",
+        "idCate": "8966",
+        "name": "Lốc 4 hộp cà phê sữa Highlands 180ml",
+        "price": 35000.0
+    },
+    {
+        "id": "211670",
+        "idCate": "8966",
+        "name": "Cà phê sữa Boss 180ml",
+        "price": 12000.0
+    },
+    {
+        "id": "113144",
+        "idCate": "2883",
+        "name": "Cà phê Trung Nguyên S chinh phục thành công 100g",
+        "price": 15600.0
+    },
+    {
+        "id": "79088",
+        "idCate": "2883",
+        "name": "Cà phê Trung Nguyên sáng tạo 1 340g",
+        "price": 75000.0
+    },
+    {
+        "id": "211694",
+        "idCate": "2883",
+        "name": "Cà phê Highlands truyền thống 200g",
+        "price": 75000.0
+    },
+    {
+        "id": "84283",
+        "idCate": "2883",
+        "name": "Cà phê Trung Nguyên sáng tạo 5 340g",
+        "price": 147000.0
+    },
+    {
+        "id": "83559",
+        "idCate": "2883",
+        "name": "Cà phê Trung Nguyên Nâu sức sống đại ngàn 500g",
+        "price": 108000.0
+    },
+    {
+        "id": "83558",
+        "idCate": "2883",
+        "name": "Cà phê Trung Nguyên chế phin 1 500g",
+        "price": 126000.0
+    },
+    {
+        "id": "146837",
+        "idCate": "2883",
+        "name": "Cà phê Mê Trang MC 1 500g",
+        "price": 101000.0
+    },
+    {
+        "id": "84282",
+        "idCate": "2883",
+        "name": "Cà phê Trung Nguyên sáng tạo 3 340g",
+        "price": 107000.0
+    },
+    {
+        "id": "318385",
+        "idCate": "2883",
+        "name": "Cà phê rang xay MacCoffee Café Phố 450g",
+        "price": 99000.0
+    },
+    {
+        "id": "228188",
+        "idCate": "2385",
+        "name": "Trà Nestea hoa quả 144g",
+        "price": 30500.0
+    },
+    {
+        "id": "79109",
+        "idCate": "2385",
+        "name": "Trà Lipton Ice Tea đào 224g",
+        "price": 40000.0
+    },
+    {
+        "id": "311325",
+        "idCate": "2385",
+        "name": "Trà cỏ mực đậu đen Goce 80g",
+        "price": 55000.0
+    },
+    {
+        "id": "168565",
+        "idCate": "2385",
+        "name": "Trà ô long Tân Long Daily 70g",
+        "price": 37000.0
+    },
+    {
+        "id": "287399",
+        "idCate": "2385",
+        "name": "Trà nõn tôm Hùng Thái 100g",
+        "price": 63000.0
+    },
+    {
+        "id": "264998",
+        "idCate": "2385",
+        "name": "Trà xanh Thái Nguyên cao cấp 200g",
+        "price": 69000.0
+    },
+    {
+        "id": "320436",
+        "idCate": "2385",
+        "name": "Trà Atisô túi lọc LadoActiso hộp 200g",
+        "price": 90000.0
+    },
+    {
+        "id": "86238",
+        "idCate": "2385",
+        "name": "Trà xanh Thái Nguyên Đại Gia thượng hạng 100g",
+        "price": 60000.0
+    },
+    {
+        "id": "203772",
+        "idCate": "2385",
+        "name": "Trà xanh Thái Nguyên Hùng Thái 2 Sao 200g",
+        "price": 50000.0
+    },
+    {
+        "id": "104238",
+        "idCate": "2385",
+        "name": "Trà sữa matcha Cozy 3in1 306g",
+        "price": 49000.0
+    },
+    {
+        "id": "83462",
+        "idCate": "2524",
+        "name": "Cà phê sữa NesCafé 3in1 đậm vị 340g",
+        "price": 54000.0
+    },
+    {
+        "id": "77116",
+        "idCate": "2524",
+        "name": "Cà phê sữa G7 3in1 288g",
+        "price": 66500.0
+    },
+    {
+        "id": "77356",
+        "idCate": "2524",
+        "name": "Cà phê đen đá NesCafé Café Việt 240g",
+        "price": 56000.0
+    },
+    {
+        "id": "210176",
+        "idCate": "2524",
+        "name": "Cà phê đen đá MacCoffee Café Phố 160g",
+        "price": 35000.0
+    },
+    {
+        "id": "177690",
+        "idCate": "2524",
+        "name": "Cà phê sữa VinaCafé Gold Original 800g",
+        "price": 102000.0
+    },
+    {
+        "id": "79095",
+        "idCate": "2524",
+        "name": "Cà phê sữa đá MacCoffee Café Phố 240g",
+        "price": 48000.0
+    },
+    {
+        "id": "83449",
+        "idCate": "2524",
+        "name": "Cà phê sữa Wake Up Café Sài Gòn 456g",
+        "price": 42000.0
+    },
+    {
+        "id": "210174",
+        "idCate": "2524",
+        "name": "Cà phê sữa đá MacCoffee Café Phố 720g",
+        "price": 153000.0
+    },
+    {
+        "id": "79085",
+        "idCate": "2524",
+        "name": "Cà phê sữa G7 3in1 800g",
+        "price": 163000.0
+    },
+    {
+        "id": "268760",
+        "idCate": "2524",
+        "name": "Cà phê MacCoffee Café Phố nhà làm 3in1 840g",
+        "price": 144000.0
+    },
+    {
+        "id": "324823",
+        "idCate": "2563",
+        "name": "Thùng 24 chai nước khoáng La Vie vị dịu nhẹ 500ml",
+        "price": 118000.0
+    },
+    {
+        "id": "83690",
+        "idCate": "2563",
+        "name": "6 chai nước tinh khiết Dasani 510ml",
+        "price": 30000.0
+    },
+    {
+        "id": "200531",
+        "idCate": "2563",
+        "name": "6 chai nước khoáng La Vie 500ml",
+        "price": 30000.0
+    },
+    {
+        "id": "76509",
+        "idCate": "2563",
+        "name": "Nước tinh khiết Aquafina 5 lít",
+        "price": 28000.0
+    },
+    {
+        "id": "324814",
+        "idCate": "2563",
+        "name": "Nước khoáng La Vie vị dịu nhẹ 500ml ",
+        "price": 5100.0
+    },
+    {
+        "id": "195978",
+        "idCate": "2563",
+        "name": "Nước uống i-on kiềm I-on Life 330ml",
+        "price": 5000.0
+    },
+    {
+        "id": "83687",
+        "idCate": "2563",
+        "name": "6 chai nước tinh khiết Dasani 1.5 lít",
+        "price": 55000.0
+    },
+    {
+        "id": "212782",
+        "idCate": "2563",
+        "name": "6 chai nước tinh khiết Aquafina 500ml",
+        "price": 29500.0
+    },
+    {
+        "id": "200532",
+        "idCate": "2563",
+        "name": "6 chai nước uống i-on kiềm I-on Life 450ml",
+        "price": 33000.0
+    },
+    {
+        "id": "83578",
+        "idCate": "2563",
+        "name": "Thùng 24 chai nước uống i-on kiềm I-on Life 450ml",
+        "price": 120000.0
+    },
+    {
+        "id": "242191",
+        "idCate": "2563",
+        "name": "Nước khoáng Vikoda 500ml",
+        "price": 5000.0
+    },
+    {
+        "id": "242286",
+        "idCate": "2563",
+        "name": "6 chai nước khoáng Vikoda 500ml",
+        "price": 30000.0
+    },
+    {
+        "id": "244787",
+        "idCate": "2563",
+        "name": "6 chai nước uống Tavi 330ml",
+        "price": 21000.0
+    },
+    {
+        "id": "244791",
+        "idCate": "2563",
+        "name": "6 chai nước uống Tavi 500ml",
+        "price": 24000.0
+    },
+    {
+        "id": "79165",
+        "idCate": "2563",
+        "name": "Nước uống i-on kiềm I-on Life 1.25 lít",
+        "price": 11000.0
+    },
+    {
+        "id": "84815",
+        "idCate": "2563",
+        "name": "Thùng 4 chai nước tinh khiết Aquafina 5 lít",
+        "price": 103000.0
+    },
+    {
+        "id": "85219",
+        "idCate": "2563",
+        "name": "Nước khoáng La Vie 350ml",
+        "price": 4600.0
+    },
+    {
+        "id": "200780",
+        "idCate": "2563",
+        "name": "6 chai nước uống Good Mood sữa chua 455ml",
+        "price": 49000.0
+    },
+    {
+        "id": "84814",
+        "idCate": "2563",
+        "name": "Nước tinh khiết Aquafina 1.5 lít",
+        "price": 11200.0
+    },
+    {
+        "id": "76541",
+        "idCate": "2563",
+        "name": "Nước tinh khiết Dasani 1.5 lít",
+        "price": 9500.0
+    },
+    {
+        "id": "225793",
+        "idCate": "7579",
+        "name": "Sinh tố dâu tây La Fresh 650ml",
+        "price": 60000.0
+    },
+    {
+        "id": "194377",
+        "idCate": "7579",
+        "name": "Sirô Trinh hương dâu 350ml",
+        "price": 42000.0
+    },
+    {
+        "id": "193096",
+        "idCate": "7579",
+        "name": "Sirô Trinh hương trái cây 350ml",
+        "price": 43000.0
+    },
+    {
+        "id": "194376",
+        "idCate": "7579",
+        "name": "Sirô Trinh hương sâm dứa 350ml",
+        "price": 25000.0
+    },
+    {
+        "id": "195831",
+        "idCate": "2947",
+        "name": "6 chai sữa trái cây Nutriboost cam 297ml",
+        "price": 63000.0
+    },
+    {
+        "id": "316582",
+        "idCate": "2947",
+        "name": "12 chai sữa Nutriboost cam 297ml",
+        "price": 126000.0
+    },
+    {
+        "id": "200573",
+        "idCate": "2947",
+        "name": "6 chai trà sữa Kirin Tea Break 345ml",
+        "price": 67000.0
+    },
+    {
+        "id": "148768",
+        "idCate": "2947",
+        "name": "Sữa trái cây Twister hương cam 320ml",
+        "price": 10500.0
+    },
+    {
+        "id": "222245",
+        "idCate": "2947",
+        "name": "6 chai sữa trái cây Nutriboost cam 1 lít",
+        "price": 162000.0
+    },
+    {
+        "id": "316580",
+        "idCate": "2947",
+        "name": "12 chai sữa Nutriboost dâu 297ml",
+        "price": 126000.0
+    },
+    {
+        "id": "148770",
+        "idCate": "2947",
+        "name": "Sữa trái cây Twister hương dâu 320ml",
+        "price": 10500.0
+    },
+    {
+        "id": "79219",
+        "idCate": "2947",
+        "name": "Sữa trái cây Nutriboost dâu 1 lít",
+        "price": 29500.0
+    },
+    {
+        "id": "76905",
+        "idCate": "2947",
+        "name": "Trà sữa Kirin Tea Break 345ml",
+        "price": 11600.0
+    },
+    {
+        "id": "211165",
+        "idCate": "2947",
+        "name": "6 chai sữa trái cây Twister hương cam 320ml",
+        "price": 60000.0
+    },
+    {
+        "id": "118085",
+        "idCate": "8938",
+        "name": "6 chai trà đào hạt chia Fuze Tea 450ml",
+        "price": 52000.0
+    },
+    {
+        "id": "85736",
+        "idCate": "8938",
+        "name": "Trà thanh nhiệt Dr.Thanh 330ml",
+        "price": 11500.0
+    },
+    {
+        "id": "200303",
+        "idCate": "8938",
+        "name": "6 chai trà xanh chanh Không Độ 455ml",
+        "price": 45000.0
+    },
+    {
+        "id": "79196",
+        "idCate": "8938",
+        "name": "Trà bí đao Wonderfarm 240ml",
+        "price": 7000.0
+    },
+    {
+        "id": "325112",
+        "idCate": "7460",
+        "name": "Trà ô long thạch đào Sài Gòn chai 300ml",
+        "price": 16000.0
+    },
+    {
+        "id": "297065",
+        "idCate": "8938",
+        "name": "Trà đào hạt chia Fuze Tea 1 lít",
+        "price": 18000.0
+    },
+    {
+        "id": "90820",
+        "idCate": "8938",
+        "name": "Thùng 24 chai trà xanh chanh Không Độ 455ml",
+        "price": 173000.0
+    },
+    {
+        "id": "275929",
+        "idCate": "8938",
+        "name": "6 chai trà xanh chanh tuyết bạc hà C2 Freeze 455ml",
+        "price": 60000.0
+    },
+    {
+        "id": "193431",
+        "idCate": "8938",
+        "name": "6 chai trà ô long Tea Plus 320ml",
+        "price": 49000.0
+    },
+    {
+        "id": "200313",
+        "idCate": "8938",
+        "name": "6 chai trà thanh nhiệt Dr.Thanh 455ml",
+        "price": 55000.0
+    },
+    {
+        "id": "325796",
+        "idCate": "8938",
+        "name": "Trà ô long xanh hương chanh Tea Plus 450ml",
+        "price": 10500.0
+    },
+    {
+        "id": "325797",
+        "idCate": "8938",
+        "name": "Lốc 6 chai trà ô long xanh hương chanh Tea Plus 450ml",
+        "price": 47000.0
+    },
+    {
+        "id": "224672",
+        "idCate": "8938",
+        "name": "Hồng trà vải C2 455ml",
+        "price": 10000.0
+    },
+    {
+        "id": "324803",
+        "idCate": "8938",
+        "name": "Lốc 6 chai trà Tea365 hương mật ong 500ml",
+        "price": 60000.0
+    },
+    {
+        "id": "198132",
+        "idCate": "8938",
+        "name": "Hồng trà đào C2 455ml",
+        "price": 10200.0
+    },
+    {
+        "id": "325798",
+        "idCate": "8938",
+        "name": "Thùng 24 chai trà ô long xanh hương chanh Tea Plus 450ml",
+        "price": 185000.0
+    },
+    {
+        "id": "316103",
+        "idCate": "8938",
+        "name": "12 chai trà xanh Big Tea 300ml",
+        "price": 55000.0
+    },
+    {
+        "id": "325107",
+        "idCate": "8938",
+        "name": "Thùng 24 chai trà mật ong Boncha vị ô long đào 450ml",
+        "price": 235000.0
+    },
+    {
+        "id": "316858",
+        "idCate": "7460",
+        "name": "Sâm bí đao nha đam Sài Gòn chai 300ml",
+        "price": 14000.0
+    },
+    {
+        "id": "321209",
+        "idCate": "8938",
+        "name": "Trà mật ong Boncha việt quất 450ml",
+        "price": 10000.0
+    },
+    {
+        "id": "231593",
+        "idCate": "8938",
+        "name": "6 chai trà xanh táo C2 225ml",
+        "price": 34000.0
+    },
+    {
+        "id": "230823",
+        "idCate": "8938",
+        "name": "Trà xanh táo C2 225ml",
+        "price": 6000.0
+    },
+    {
+        "id": "76562",
+        "idCate": "8938",
+        "name": "Trà xanh chanh C2 360ml",
+        "price": 8000.0
+    },
+    {
+        "id": "211653",
+        "idCate": "8938",
+        "name": "Trà ô long Tea Plus không đường 450ml",
+        "price": 10500.0
+    },
+    {
+        "id": "325104",
+        "idCate": "8938",
+        "name": "Trà mật ong Boncha vị ô long đào 450ml",
+        "price": 10000.0
+    },
+    {
+        "id": "325106",
+        "idCate": "8938",
+        "name": "Lốc 6 chai trà mật ong Boncha vị ô long đào 450ml",
+        "price": 59000.0
+    },
+    {
+        "id": "221892",
+        "idCate": "8938",
+        "name": "Trà tắc mật ong Cozy 225ml",
+        "price": 8200.0
+    },
+    {
+        "id": "221890",
+        "idCate": "8938",
+        "name": "4 hộp trà vải Cozy 225ml",
+        "price": 29000.0
+    },
+    {
+        "id": "221887",
+        "idCate": "8938",
+        "name": "Trà vải Cozy 225ml",
+        "price": 8200.0
+    },
+    {
+        "id": "274268",
+        "idCate": "8938",
+        "name": "Trà đen dâu anh đào C2 455ml",
+        "price": 10200.0
+    },
+    {
+        "id": "232335",
+        "idCate": "3226",
+        "name": "6 lon Lipovitan mật ong 250ml",
+        "price": 44000.0
+    },
+    {
+        "id": "200350",
+        "idCate": "3226",
+        "name": "6 chai nước i-on Pocari Sweat 500ml",
+        "price": 76000.0
+    },
+    {
+        "id": "316850",
+        "idCate": "3226",
+        "name": "Nước bù khoáng Revive không calo 500ml",
+        "price": 11500.0
+    },
+    {
+        "id": "83764",
+        "idCate": "3226",
+        "name": "6 chai Aquarius 390ml",
+        "price": 33000.0
+    },
+    {
+        "id": "209217",
+        "idCate": "3226",
+        "name": "Nước tăng lực Warrior dâu 330ml",
+        "price": 10000.0
+    },
+    {
+        "id": "90710",
+        "idCate": "3226",
+        "name": "Nước tăng lực Number1 330ml",
+        "price": 10500.0
+    },
+    {
+        "id": "322545",
+        "idCate": "3226",
+        "name": "6 lon Redbull Thái kẽm và Vitamin 250ml",
+        "price": 55000.0
+    },
+    {
+        "id": "214682",
+        "idCate": "3226",
+        "name": "Nước tăng lực Carabao 250ml",
+        "price": 11000.0
+    },
+    {
+        "id": "83581",
+        "idCate": "3226",
+        "name": "Nước bù khoáng Revive muối khoáng 500ml",
+        "price": 11500.0
+    },
+    {
+        "id": "112304",
+        "idCate": "3226",
+        "name": "6 chai Revive muối khoáng 500ml",
+        "price": 65000.0
+    },
+    {
+        "id": "282394",
+        "idCate": "2443",
+        "name": "6 lon nước ngọt Fanta nho 320ml",
+        "price": 47000.0
+    },
+    {
+        "id": "325069",
+        "idCate": "2443",
+        "name": "Sữa đậu nành Number1 Soya Canxi chai 268ml",
+        "price": 9000.0
+    },
+    {
+        "id": "196828",
+        "idCate": "2443",
+        "name": "Nước ngọt Coca Cola Zero chai 1.5 lít",
+        "price": 20000.0
+    },
+    {
+        "id": "84808",
+        "idCate": "2443",
+        "name": "Nước ngọt Sprite chanh chai 1.85 lít",
+        "price": 20000.0
+    },
+    {
+        "id": "143436",
+        "idCate": "2443",
+        "name": "6 lon nước ngọt Fanta soda kem 320ml",
+        "price": 47000.0
+    },
+    {
+        "id": "298383",
+        "idCate": "2443",
+        "name": "Thùng 12 lon nước ngọt Fanta soda kem 320ml",
+        "price": 80000.0
+    },
+    {
+        "id": "215576",
+        "idCate": "2443",
+        "name": "Nước ngọt Fanta hương soda kem trái cây 1.5 lít",
+        "price": 20000.0
+    },
+    {
+        "id": "118115",
+        "idCate": "2443",
+        "name": "Nước ngọt Fanta cam chai 600ml",
+        "price": 10000.0
+    },
+    {
+        "id": "200776",
+        "idCate": "2443",
+        "name": "Nước ngọt Mirinda soda kem chai 1.5 lít",
+        "price": 20000.0
+    },
+    {
+        "id": "76462",
+        "idCate": "2443",
+        "name": "Nước ngọt Mirinda xá xị chai 390ml",
+        "price": 7800.0
+    },
+    {
+        "id": "143434",
+        "idCate": "2443",
+        "name": "Nước ngọt Fanta soda kem trái cây lon 320ml",
+        "price": 9500.0
+    },
+    {
+        "id": "197255",
+        "idCate": "2443",
+        "name": "Thùng 12 lon nước ngọt Fanta cam 320ml",
+        "price": 80000.0
+    },
+    {
+        "id": "282404",
+        "idCate": "2443",
+        "name": "6 chai nước ngọt Fanta nho 1.5 lít",
+        "price": 115000.0
+    },
+    {
+        "id": "314654",
+        "idCate": "2443",
+        "name": "Thùng 12 chai nước ngọt Pepsi không calo vị chanh 1.5 lít",
+        "price": 230000.0
+    },
+    {
+        "id": "222274",
+        "idCate": "2443",
+        "name": "Nước ngọt Coca Cola giảm đường chai 1.5 lít",
+        "price": 20000.0
+    },
+    {
+        "id": "203041",
+        "idCate": "2443",
+        "name": "Nước ngọt Coca Cola Plus lon 320ml",
+        "price": 12600.0
+    },
+    {
+        "id": "76444",
+        "idCate": "2443",
+        "name": "Nước ngọt 7 Up chanh chai 390ml",
+        "price": 7800.0
+    },
+    {
+        "id": "158318",
+        "idCate": "2443",
+        "name": "Nước ngọt Mirinda soda kem lon 320ml",
+        "price": 10000.0
+    },
+    {
+        "id": "83823",
+        "idCate": "2443",
+        "name": "6 chai nước ngọt Pepsi Cola 390ml",
+        "price": 45000.0
+    },
+    {
+        "id": "76466",
+        "idCate": "2443",
+        "name": "Nước ngọt Pepsi Cola chai 390ml",
+        "price": 7800.0
+    },
+    {
+        "id": "84440",
+        "idCate": "2443",
+        "name": "Soda Schweppes lon 320ml",
+        "price": 7000.0
+    },
+    {
+        "id": "128857",
+        "idCate": "2443",
+        "name": "6 lon soda Schweppes 320ml",
+        "price": 40000.0
+    },
+    {
+        "id": "76458",
+        "idCate": "2443",
+        "name": "Nước ngọt Fanta xá xị chai 390ml",
+        "price": 7800.0
+    },
+    {
+        "id": "91401",
+        "idCate": "2443",
+        "name": "6 chai nước ngọt 7 Up chanh 390ml",
+        "price": 45000.0
+    },
+    {
+        "id": "84392",
+        "idCate": "2443",
+        "name": "6 chai nước ngọt Mirinda xá xị 390ml",
+        "price": 45000.0
+    },
+    {
+        "id": "284075",
+        "idCate": "2443",
+        "name": "Nước ngọt Pepsi không calo chai 390ml",
+        "price": 7800.0
+    },
+    {
+        "id": "227312",
+        "idCate": "2443",
+        "name": "Nước ngọt Pepsi không calo lon 320ml",
+        "price": 10600.0
+    },
+    {
+        "id": "262313",
+        "idCate": "2443",
+        "name": "Nước ngọt Mirinda soda kem chai 390ml",
+        "price": 7800.0
+    },
+    {
+        "id": "76465",
+        "idCate": "2443",
+        "name": "Nước ngọt Pepsi Cola chai 1.5 lít",
+        "price": 20000.0
+    },
+    {
+        "id": "314653",
+        "idCate": "2443",
+        "name": "6 chai nước ngọt Pepsi không calo vị chanh chai 1.5 lít",
+        "price": 115000.0
+    },
+    {
+        "id": "79181",
+        "idCate": "3265",
+        "name": "Nước ép táo Vfresh 1 lít",
+        "price": 47000.0
+    },
+    {
+        "id": "79223",
+        "idCate": "3265",
+        "name": "Nước cam có tép Teppy 327ml",
+        "price": 9900.0
+    },
+    {
+        "id": "204324",
+        "idCate": "3265",
+        "name": "Nước ép táo Fontana 1 lít",
+        "price": 49000.0
+    },
+    {
+        "id": "145803",
+        "idCate": "3265",
+        "name": "Nước ép trái cây thạch Jele Beautie Blackcurrant 150g",
+        "price": 15500.0
+    },
+    {
+        "id": "235289",
+        "idCate": "3265",
+        "name": "Nước ép ổi Juss 1 lít",
+        "price": 30000.0
+    },
+    {
+        "id": "317237",
+        "idCate": "3265",
+        "name": "Nước ép nectar lê  Fontana 1 lít",
+        "price": 49000.0
+    },
+    {
+        "id": "79222",
+        "idCate": "3265",
+        "name": "Nước cam có tép Teppy 1 lít",
+        "price": 22500.0
+    },
+    {
+        "id": "204217",
+        "idCate": "3265",
+        "name": "Nước ép trái cây Jele L-carnitine vị vải 150g",
+        "price": 15500.0
+    },
+    {
+        "id": "319440",
+        "idCate": "7460",
+        "name": "Nước chanh dây hạt chia Sài Gòn Milk 300ml",
+        "price": 14000.0
+    },
+    {
+        "id": "145393",
+        "idCate": "3265",
+        "name": "6 chai nước cam có tép Teppy 1 lít",
+        "price": 126000.0
+    },
+    {
+        "id": "194308",
+        "idCate": "3265",
+        "name": "Nước trái cây Pororo vị táo 235ml",
+        "price": 20000.0
+    },
+    {
+        "id": "274490",
+        "idCate": "3265",
+        "name": "4 chai nước trái cây Pororo vị táo 235ml",
+        "price": 79000.0
+    },
+    {
+        "id": "76511",
+        "idCate": "3265",
+        "name": "Nước sương sáo Yeo's 300ml",
+        "price": 13200.0
+    },
+    {
+        "id": "91777",
+        "idCate": "3265",
+        "name": "Nước ép đào Vfresh 1 lít",
+        "price": 42000.0
+    },
+    {
+        "id": "317210",
+        "idCate": "3265",
+        "name": "6 chai nước sương sáo A1 Food 280ml",
+        "price": 74000.0
+    },
+    {
+        "id": "194457",
+        "idCate": "3265",
+        "name": "6 chai nước cam có tép Teppy 327ml",
+        "price": 54000.0
+    },
+    {
+        "id": "317228",
+        "idCate": "3265",
+        "name": "Nước ép nectar xoài Fontana 1 lít",
+        "price": 49000.0
+    },
+    {
+        "id": "219832",
+        "idCate": "3265",
+        "name": "Nước ép dứa Fontana 1 lít",
+        "price": 49000.0
+    },
+    {
+        "id": "219833",
+        "idCate": "3265",
+        "name": "Nước ép trái cây nhiệt đới Fontana 1 lít",
+        "price": 49000.0
+    },
+    {
+        "id": "317208",
+        "idCate": "3265",
+        "name": "Nước sương sáo A1 Food 280ml",
+        "price": 12500.0
+    },
+    {
+        "id": "237744",
+        "idCate": "9498",
+        "name": "Rượu soju Chumchurum dâu chai 360ml",
+        "price": 73000.0
+    },
+    {
+        "id": "237746",
+        "idCate": "9498",
+        "name": "Rượu soju Chumchurum việt quất chai 360ml",
+        "price": 73000.0
+    },
+    {
+        "id": "262074",
+        "idCate": "9498",
+        "name": "Rượu soju Chumchurum Yogurt sữa chua chai 360ml",
+        "price": 74000.0
+    },
+    {
+        "id": "237752",
+        "idCate": "9498",
+        "name": "Rượu soju Chumchurum thanh yên chai 360ml",
+        "price": 73000.0
+    },
+    {
+        "id": "237765",
+        "idCate": "9498",
+        "name": "Rượu soju Chumchurum nho chai 360ml",
+        "price": 73000.0
+    },
+    {
+        "id": "237757",
+        "idCate": "9498",
+        "name": "Rượu soju Chumchurum đào chai 360ml",
+        "price": 73000.0
+    },
+    {
+        "id": "237745",
+        "idCate": "9498",
+        "name": "Rượu soju Jinro mận chai 360ml",
+        "price": 70000.0
+    },
+    {
+        "id": "319954",
+        "idCate": "9498",
+        "name": "Rượu soju Rice+ truyền thống 16.5% chai 360ml",
+        "price": 39000.0
+    },
+    {
+        "id": "291433",
+        "idCate": "2282",
+        "name": "Cocktail đào Chill Peach Vodka lon 330ml",
+        "price": 23000.0
+    },
+    {
+        "id": "291500",
+        "idCate": "2282",
+        "name": "Cocktail việt quất Chill Blueberry Vodka lon 330ml",
+        "price": 23000.0
+    },
+    {
+        "id": "193599",
+        "idCate": "2282",
+        "name": "Strongbow dâu đen lon 330ml",
+        "price": 20500.0
+    },
+    {
+        "id": "209431",
+        "idCate": "2282",
+        "name": "Strongbow dâu đen chai 330ml",
+        "price": 19200.0
+    },
+    {
+        "id": "148785",
+        "idCate": "2282",
+        "name": "Bia Heineken Sleek lon 330ml",
+        "price": 20500.0
+    },
+    {
+        "id": "266102",
+        "idCate": "2282",
+        "name": "6 lon Strongbow táo 330ml",
+        "price": 120000.0
+    },
+    {
+        "id": "242598",
+        "idCate": "2282",
+        "name": "6 lon bia Sapporo 500ml",
+        "price": 178000.0
+    },
+    {
+        "id": "182389",
+        "idCate": "2282",
+        "name": "Thùng 24 lon bia Larue Special 330ml",
+        "price": 268000.0
+    },
+    {
+        "id": "268673",
+        "idCate": "2282",
+        "name": "Thùng 24 lon bia Heineken Silver 250ml",
+        "price": 345000.0
+    },
+    {
+        "id": "179217",
+        "idCate": "2282",
+        "name": "4 lon Strongbow dâu 330ml",
+        "price": 77500.0
+    },
+    {
+        "id": "200638",
+        "idCate": "2282",
+        "name": "6 lon bia Heineken Bạc 330ml",
+        "price": 120000.0
+    },
+    {
+        "id": "197869",
+        "idCate": "2282",
+        "name": "6 chai bia Leffe Blonde 330ml",
+        "price": 0.0
+    },
+    {
+        "id": "252736",
+        "idCate": "2282",
+        "name": "6 lon bia Blanc 1664 330ml",
+        "price": 120000.0
+    },
+    {
+        "id": "195212",
+        "idCate": "2282",
+        "name": "6 lon bia Budweiser 330ml",
+        "price": 105000.0
+    },
+    {
+        "id": "248687",
+        "idCate": "2282",
+        "name": "Bia Tiger Platinum 330ml",
+        "price": 21000.0
+    },
+    {
+        "id": "248688",
+        "idCate": "2282",
+        "name": "6 lon bia Tiger Platinum 330ml",
+        "price": 123000.0
+    },
+    {
+        "id": "195206",
+        "idCate": "2282",
+        "name": "6 lon bia Beck's Ice 330ml",
+        "price": 84000.0
+    },
+    {
+        "id": "195213",
+        "idCate": "2282",
+        "name": "6 chai bia Hoegaarden 330ml",
+        "price": 195000.0
+    },
+    {
+        "id": "213733",
+        "idCate": "2282",
+        "name": "6 chai bia Hoegaarden Rosée 248ml",
+        "price": 117000.0
+    },
+    {
+        "id": "79011",
+        "idCate": "2282",
+        "name": "Thùng 24 lon bia Larue Xanh 330ml",
+        "price": 265000.0
+    },
+    {
+        "id": "83628",
+        "idCate": "2282",
+        "name": "6 lon bia Larue Xanh 330ml",
+        "price": 70500.0
+    },
+    {
+        "id": "305074",
+        "idCate": "2282",
+        "name": "4 lon bia Tiger Soju Cheeky Plum vị mận 330ml",
+        "price": 80500.0
+    },
+    {
+        "id": "305073",
+        "idCate": "2282",
+        "name": "Bia Tiger Soju Cheeky Plum vị mận 330ml",
+        "price": 21000.0
+    },
+    {
+        "id": "164994",
+        "idCate": "2282",
+        "name": "Bia Tuborg lon 330ml",
+        "price": 15300.0
+    },
+    {
+        "id": "284515",
+        "idCate": "2282",
+        "name": "Thức uống đại mạch Heineken Zero lon 330ml",
+        "price": 20000.0
+    },
+    {
+        "id": "305078",
+        "idCate": "2282",
+        "name": "4 lon bia Tiger Soju Wonder Melon dưa lưới 330ml",
+        "price": 80500.0
+    },
+    {
+        "id": "179222",
+        "idCate": "2282",
+        "name": "Strongbow táo lon 330ml",
+        "price": 20500.0
+    },
+    {
+        "id": "177687",
+        "idCate": "2282",
+        "name": "Bia Beck's lon 500ml",
+        "price": 18800.0
+    },
+    {
+        "id": "214413",
+        "idCate": "2282",
+        "name": "6 lon bia Sài Gòn Export 330ml",
+        "price": 73000.0
+    },
+    {
+        "id": "296872",
+        "idCate": "2282",
+        "name": "Nước táo lên men Somersby mâm xôi 330ml",
+        "price": 21000.0
+    },
+    {
+        "id": "195204",
+        "idCate": "2282",
+        "name": "6 lon bia Larue Special 330ml",
+        "price": 71500.0
+    },
+    {
+        "id": "76068",
+        "idCate": "2282",
+        "name": "Bia Larue Xanh lon 330ml",
+        "price": 11900.0
+    },
+    {
+        "id": "258137",
+        "idCate": "2282",
+        "name": "6 lon Strongbow đào 330ml",
+        "price": 117000.0
+    },
+    {
+        "id": "148787",
+        "idCate": "2282",
+        "name": "Thùng 24 lon bia Heineken Sleek 330ml",
+        "price": 445000.0
+    },
+    {
+        "id": "148786",
+        "idCate": "2282",
+        "name": "6 lon bia Heineken Sleek 330ml",
+        "price": 116000.0
+    },
+    {
+        "id": "200024",
+        "idCate": "2282",
+        "name": "4 lon Strongbow dâu đen 330ml",
+        "price": 79000.0
+    },
+    {
+        "id": "266098",
+        "idCate": "2282",
+        "name": "6 lon Strongbow dâu 330ml",
+        "price": 117000.0
+    },
+    {
+        "id": "310252",
+        "idCate": "2282",
+        "name": "6 lon bia Heineken Silver 250ml",
+        "price": 94000.0
+    },
+    {
+        "id": "195965",
+        "idCate": "2282",
+        "name": "Bia Hoegaarden White lon 330ml",
+        "price": 31500.0
+    },
+    {
+        "id": "118112",
+        "idCate": "2282",
+        "name": "Bia Larue Special lon 330ml",
+        "price": 12300.0
+    },
+    {
+        "id": "90966",
+        "idCate": "2282",
+        "name": "Strongbow táo chai 330ml",
+        "price": 19200.0
+    },
+    {
+        "id": "310240",
+        "idCate": "2282",
+        "name": "Bia Sài Gòn Export Premium 330ml",
+        "price": 12400.0
+    },
+    {
+        "id": "77607",
+        "idCate": "2282",
+        "name": "Bia Tiger Bạc lon 330ml",
+        "price": 18800.0
+    },
+    {
+        "id": "171020",
+        "idCate": "2282",
+        "name": "6 lon bia Tiger Bạc 330ml",
+        "price": 110000.0
+    },
+    {
+        "id": "77606",
+        "idCate": "2282",
+        "name": "Thùng 24 lon bia Tiger Bạc 330ml",
+        "price": 393000.0
+    },
+    {
+        "id": "195208",
+        "idCate": "2282",
+        "name": "6 lon bia Sài Gòn Lager 330ml",
+        "price": 70500.0
+    },
+    {
+        "id": "158349",
+        "idCate": "2282",
+        "name": "Thùng 24 lon bia Sài Gòn Lager 330ml",
+        "price": 252000.0
+    },
+    {
+        "id": "158346",
+        "idCate": "2282",
+        "name": "Bia Sài Gòn Lager lon 330ml",
+        "price": 12000.0
+    },
+    {
+        "id": "316845",
+        "idCate": "2282",
+        "name": "Bia Tiger lon 330ml",
+        "price": 17500.0
+    },
+    {
+        "id": "316846",
+        "idCate": "2282",
+        "name": "Thùng 24 lon bia Tiger 330ml",
+        "price": 345000.0
+    },
+    {
+        "id": "319485",
+        "idCate": "2282",
+        "name": "6 lon cao bia Tiger 330ml",
+        "price": 99500.0
+    },
+    {
+        "id": "195211",
+        "idCate": "2282",
+        "name": "6 lon bia 333 330ml",
+        "price": 73000.0
+    },
+    {
+        "id": "292994",
+        "idCate": "3234",
+        "name": "Bánh phồng chay khoai lang Sa Giang gói 100g",
+        "price": 11500.0
+    },
+    {
+        "id": "80561",
+        "idCate": "3234",
+        "name": "Bánh đa mè đen 20cm Hương Nam gói 454g",
+        "price": 47000.0
+    },
+    {
+        "id": "324938",
+        "idCate": "3234",
+        "name": "Bánh phồng cua tròn Mikiri gói 200g",
+        "price": 23500.0
+    },
+    {
+        "id": "324937",
+        "idCate": "3234",
+        "name": "Bánh phồng tôm tròn Mikiri gói 200g",
+        "price": 23500.0
+    },
+    {
+        "id": "222281",
+        "idCate": "8638",
+        "name": "Hủ tiếu chay Vifon gói 65g",
+        "price": 8700.0
+    },
+    {
+        "id": "101046",
+        "idCate": "8638",
+        "name": "Mì chay Unif nấm đông cô gói 80g",
+        "price": 5600.0
+    },
+    {
+        "id": "191286",
+        "idCate": "8638",
+        "name": "Cháo yến chay Yến Việt rau nấm gói 50g",
+        "price": 11000.0
+    },
+    {
+        "id": "96244",
+        "idCate": "8638",
+        "name": "Phở chay rau nấm Vifon gói 65g",
+        "price": 9000.0
+    },
+    {
+        "id": "113247",
+        "idCate": "8638",
+        "name": "Hủ tiếu chay Miliket gói 65g",
+        "price": 6300.0
+    },
+    {
+        "id": "96333",
+        "idCate": "8638",
+        "name": "Hủ tiếu chay Như Ý gói 60g",
+        "price": 5900.0
+    },
+    {
+        "id": "80172",
+        "idCate": "8638",
+        "name": "Mì chay lá đa 3 Miền gói 65g",
+        "price": 3500.0
+    },
+    {
+        "id": "297053",
+        "idCate": "2965",
+        "name": "Canh chua chay I.Soup 5 viên x 10g",
+        "price": 55000.0
+    },
+    {
+        "id": "297054",
+        "idCate": "2965",
+        "name": "Súp nấm chay I.Soup 5 viên x 10g",
+        "price": 55000.0
+    },
+    {
+        "id": "304262",
+        "idCate": "2965",
+        "name": "Hộp 4 gói canh rong biển Tâm Minh 5.5g",
+        "price": 20000.0
+    },
+    {
+        "id": "159559",
+        "idCate": "2513",
+        "name": "Gạo thơm Vua Gạo Làng Ta túi 2kg",
+        "price": 48500.0
+    },
+    {
+        "id": "210378",
+        "idCate": "2513",
+        "name": "Gạo ngon Bách hoá XANH túi 5kg",
+        "price": 110000.0
+    },
+    {
+        "id": "324448",
+        "idCate": "2513",
+        "name": "Gạo thơm Neptune ST25 Extra túi 5kg",
+        "price": 139000.0
+    },
+    {
+        "id": "182769",
+        "idCate": "2513",
+        "name": "Gạo thơm Vua Gạo Đậm Đà túi 5kg",
+        "price": 145000.0
+    },
+    {
+        "id": "232102",
+        "idCate": "2513",
+        "name": "Gạo thơm Ngon ST24 túi 5kg",
+        "price": 145000.0
+    },
+    {
+        "id": "159558",
+        "idCate": "2513",
+        "name": "Gạo thơm Vua Gạo Làng Ta túi 5kg",
+        "price": 125000.0
+    },
+    {
+        "id": "253156",
+        "idCate": "2513",
+        "name": "Gạo thơm Vua Gạo ST25 túi 2kg",
+        "price": 79000.0
+    },
+    {
+        "id": "159560",
+        "idCate": "2513",
+        "name": "Gạo thơm Vua Gạo Phù Sa túi 2kg",
+        "price": 59000.0
+    },
+    {
+        "id": "262354",
+        "idCate": "2513",
+        "name": "Gạo lứt tím Vinh Hiển túi 1kg",
+        "price": 48000.0
+    },
+    {
+        "id": "236007",
+        "idCate": "2513",
+        "name": "Nếp cái hoa vàng Ông Cụ túi 1kg",
+        "price": 36000.0
+    },
+    {
+        "id": "218766",
+        "idCate": "2565",
+        "name": "Thùng 12 ly mì mini Doraemon hàu sữa phô mai 48g",
+        "price": 131000.0
+    },
+    {
+        "id": "80176",
+        "idCate": "2565",
+        "name": "Mì khoai tây Cung Đình lẩu tôm chua cay ly 65g",
+        "price": 9100.0
+    },
+    {
+        "id": "212663",
+        "idCate": "2565",
+        "name": "Mì trộn Omachi xốt Spaghetti hộp 105g",
+        "price": 15500.0
+    },
+    {
+        "id": "80181",
+        "idCate": "2565",
+        "name": "Mì A-One thịt xào gói 85g",
+        "price": 6100.0
+    },
+    {
+        "id": "158940",
+        "idCate": "2565",
+        "name": "Mì khoai tây Omachi Special bò hầm xốt vang 92g",
+        "price": 9900.0
+    },
+    {
+        "id": "320754",
+        "idCate": "2565",
+        "name": "Thùng 20 gói mì Koreno Up tôm chua cay 67g",
+        "price": 55000.0
+    },
+    {
+        "id": "175939",
+        "idCate": "2565",
+        "name": "Thùng 40 gói mì xào Indomie Mi Goreng Pedas cay nồng 79g",
+        "price": 205000.0
+    },
+    {
+        "id": "86910",
+        "idCate": "2565",
+        "name": "Thùng 30 gói mì 3 Miền Gold chua cay Thái 75g",
+        "price": 105000.0
+    },
+    {
+        "id": "158928",
+        "idCate": "2565",
+        "name": "Mì khô gà cay Samyang ly 70g",
+        "price": 29500.0
+    },
+    {
+        "id": "221090",
+        "idCate": "2565",
+        "name": "Lốc 6 gói mì Koreno kim chi 75g",
+        "price": 31000.0
+    },
+    {
+        "id": "91389",
+        "idCate": "8271",
+        "name": "Nước nấu lẩu Thái SG Food 180g",
+        "price": 22000.0
+    },
+    {
+        "id": "96246",
+        "idCate": "8271",
+        "name": "Xốt lẩu chua hải sản Cholimex 200g",
+        "price": 20500.0
+    },
+    {
+        "id": "96243",
+        "idCate": "8271",
+        "name": "Sốt lẩu Thái Cholimex 280g",
+        "price": 19900.0
+    },
+    {
+        "id": "91755",
+        "idCate": "8271",
+        "name": "Gia vị lẩu Thái Aji-Quick 50g",
+        "price": 8800.0
+    },
+    {
+        "id": "236945",
+        "idCate": "8271",
+        "name": "Gia vị lẩu Thái Fadely 50g",
+        "price": 8400.0
+    },
+    {
+        "id": "214725",
+        "idCate": "7558",
+        "name": "Lốc 4 hộp sữa chua TH True Yogurt nha đam 100g",
+        "price": 32500.0
+    },
+    {
+        "id": "197954",
+        "idCate": "7558",
+        "name": "Lốc 4 hộp sữa chua Vinamilk dâu 100g",
+        "price": 30500.0
+    },
+    {
+        "id": "197951",
+        "idCate": "7558",
+        "name": "Lốc 4 hộp sữa chua Vinamilk trái cây 100g",
+        "price": 30500.0
+    },
+    {
+        "id": "290307",
+        "idCate": "7558",
+        "name": "Lốc 2 hũ sữa chua phô mai Sài Gòn Milk 100g",
+        "price": 25000.0
+    },
+    {
+        "id": "198074",
+        "idCate": "7558",
+        "name": "Lốc 4 hộp sữa chua Vinamilk ít đường 100g",
+        "price": 24500.0
+    },
+    {
+        "id": "198066",
+        "idCate": "7558",
+        "name": "Lốc 4 hộp sữa chua Vinamilk có đường 100g",
+        "price": 24500.0
+    },
+    {
+        "id": "198079",
+        "idCate": "7558",
+        "name": "Lốc 4 hộp sữa chua Vinamilk không đường 100g",
+        "price": 24000.0
+    },
+    {
+        "id": "324700",
+        "idCate": "7558",
+        "name": "Lốc 4 hộp sữa chua ăn ít đường Nutimilk 100g",
+        "price": 24000.0
+    },
+    {
+        "id": "197952",
+        "idCate": "7558",
+        "name": "Lốc 4 hộp sữa chua Star có đường Vinamilk 100g",
+        "price": 22000.0
+    },
+    {
+        "id": "228622",
+        "idCate": "10778",
+        "name": "Bánh bao nhân thịt heo BBQ C.P 320g",
+        "price": 40000.0
+    },
+    {
+        "id": "266329",
+        "idCate": "10778",
+        "name": "Pizza xúc xích xông khói nấm hương Hoàng Phát 180g",
+        "price": 29000.0
+    },
+    {
+        "id": "211616",
+        "idCate": "10778",
+        "name": "Pizza phô mai Manna 120g",
+        "price": 26500.0
+    },
+    {
+        "id": "300063",
+        "idCate": "10778",
+        "name": "Bánh gạo Hàn Quốc phô mai có xốt HT Food 400g",
+        "price": 38000.0
+    },
+    {
+        "id": "243059",
+        "idCate": "10778",
+        "name": "Pizza thập cẩm thịt Manna 120g",
+        "price": 26500.0
+    },
+    {
+        "id": "211614",
+        "idCate": "10778",
+        "name": "Pizza hải sản vị Ý Manna 120g",
+        "price": 29000.0
+    },
+    {
+        "id": "316816",
+        "idCate": "10778",
+        "name": "Bánh Ho-ttoeok phô mai Mozzarella Kitkool 300g",
+        "price": 88000.0
+    },
+    {
+        "id": "313012",
+        "idCate": "10778",
+        "name": "Bánh phô mai KCook gói 330g",
+        "price": 88000.0
+    },
+    {
+        "id": "267829",
+        "idCate": "10778",
+        "name": "Bánh gạo Hàn Quốc có xốt HT Food 400g",
+        "price": 42500.0
+    },
+    {
+        "id": "206251",
+        "idCate": "10778",
+        "name": "Bánh bao nhân chay Thọ Phát 400g",
+        "price": 34000.0
+    },
+    {
+        "id": "322868",
+        "idCate": "10778",
+        "name": "Pizza hải sản xốt Pesto Kitkool hộp 140g",
+        "price": 30000.0
+    },
+    {
+        "id": "289602",
+        "idCate": "10778",
+        "name": "Bánh bao nhân đậu xanh Thọ Phát 300g",
+        "price": 25500.0
+    },
+    {
+        "id": "266327",
+        "idCate": "10778",
+        "name": "Bánh mì dài Baguette Hoàng Phát 200g",
+        "price": 16000.0
+    },
+    {
+        "id": "103186",
+        "idCate": "2806",
+        "name": "Bột ngọt hạt nhỏ Vedan 1kg",
+        "price": 64500.0
+    },
+    {
+        "id": "325877",
+        "idCate": "2806",
+        "name": "Hạt nêm tôm thịt Vedan Mommy 900g",
+        "price": 52000.0
+    },
+    {
+        "id": "247343",
+        "idCate": "2806",
+        "name": "Hạt nêm thịt heo Natafoods 1kg",
+        "price": 49000.0
+    },
+    {
+        "id": "82216",
+        "idCate": "2806",
+        "name": "Bột ngọt hạt lớn Miwon 454g",
+        "price": 36000.0
+    },
+    {
+        "id": "77081",
+        "idCate": "2806",
+        "name": "Bột ngọt hạt lớn Ajinomoto 454g",
+        "price": 36000.0
+    },
+    {
+        "id": "244774",
+        "idCate": "2806",
+        "name": "Bột ngọt hạt lớn Vedan Yess 454g",
+        "price": 32500.0
+    },
+    {
+        "id": "312763",
+        "idCate": "2806",
+        "name": "Hạt nêm Chinsu tôm thịt 400g",
+        "price": 32000.0
+    },
+    {
+        "id": "152354",
+        "idCate": "2806",
+        "name": "Hạt nêm thịt heo Vedan 400g",
+        "price": 28000.0
+    },
+    {
+        "id": "177826",
+        "idCate": "2806",
+        "name": "Hạt nêm vị heo Aji-ngon 170g",
+        "price": 17000.0
+    },
+    {
+        "id": "158014",
+        "idCate": "2806",
+        "name": "Bột canh nấm hương Cholimex 180g",
+        "price": 6600.0
+    },
+    {
+        "id": "172181",
+        "idCate": "2806",
+        "name": "Bột ngọt hạt lớn Vedan 100g",
+        "price": 8900.0
+    },
+    {
+        "id": "312764",
+        "idCate": "2806",
+        "name": "Hạt nêm Chinsu tôm thịt 900g",
+        "price": 49000.0
+    },
+    {
+        "id": "311453",
+        "idCate": "2806",
+        "name": "Bột canh nấm Vifon 200g",
+        "price": 6200.0
+    },
+    {
+        "id": "203977",
+        "idCate": "2806",
+        "name": "Bột ngọt hạt nhỏ Miwon 454g",
+        "price": 34000.0
+    },
+    {
+        "id": "174509",
+        "idCate": "2806",
+        "name": "Hạt nêm vị heo Neptune 380g",
+        "price": 38500.0
+    },
+    {
+        "id": "77080",
+        "idCate": "2806",
+        "name": "Bột ngọt hạt lớn Ajinomoto 1kg",
+        "price": 65000.0
+    },
+    {
+        "id": "82259",
+        "idCate": "2806",
+        "name": "Hạt nêm vị heo Aji-ngon 400g",
+        "price": 31000.0
+    },
+    {
+        "id": "77238",
+        "idCate": "2806",
+        "name": "Hạt nêm vị heo Aji-ngon 900g",
+        "price": 75500.0
+    },
+    {
+        "id": "271777",
+        "idCate": "2806",
+        "name": "Hạt nêm Meizan thịt, xương ống 1kg",
+        "price": 69000.0
+    },
+    {
+        "id": "317594",
+        "idCate": "2806",
+        "name": "Hạt nêm Ajinomoto tôm thịt 900g",
+        "price": 69000.0
+    },
+    {
+        "id": "201519",
+        "idCate": "2804",
+        "name": "Đường mía Toàn Phát gói 1kg",
+        "price": 29000.0
+    },
+    {
+        "id": "321751",
+        "idCate": "2804",
+        "name": "Đường vàng Quảng Ngãi 1kg",
+        "price": 31500.0
+    },
+    {
+        "id": "321750",
+        "idCate": "2804",
+        "name": "Đường tinh luyện Quảng Ngãi 1kg",
+        "price": 30000.0
+    },
+    {
+        "id": "321749",
+        "idCate": "2804",
+        "name": "Đường kính trắng An Khê 1kg",
+        "price": 26500.0
+    },
+    {
+        "id": "174521",
+        "idCate": "2683",
+        "name": "Nước tương đậm đặc Nam Dương 500ml",
+        "price": 18800.0
+    },
+    {
+        "id": "256840",
+        "idCate": "2683",
+        "name": "Nước tương Chinsu nấm Shiitake 330ml",
+        "price": 16500.0
+    },
+    {
+        "id": "307025",
+        "idCate": "2683",
+        "name": "Nước tương thượng hạng Nam Dương 500ml",
+        "price": 41000.0
+    },
+    {
+        "id": "320364",
+        "idCate": "2683",
+        "name": "Nước tương Ông Chà Và vị thanh dịu 500ml",
+        "price": 15500.0
+    },
+    {
+        "id": "219819",
+        "idCate": "2683",
+        "name": "Nước tương tỏi ớt Nam Dương 310ml",
+        "price": 15500.0
+    },
+    {
+        "id": "194598",
+        "idCate": "2683",
+        "name": "Nước tương đậm đặc Cholimex 300ml",
+        "price": 13600.0
+    },
+    {
+        "id": "310175",
+        "idCate": "2683",
+        "name": "Nước tương đậu nành TaYaKi 380ml",
+        "price": 13000.0
+    },
+    {
+        "id": "112111",
+        "idCate": "2289",
+        "name": "Nước mắm hảo hạng Nam Ngư 500ml",
+        "price": 59500.0
+    },
+    {
+        "id": "96258",
+        "idCate": "2289",
+        "name": "Nước chấm cá cơm 3 Miền 800ml",
+        "price": 20500.0
+    },
+    {
+        "id": "76423",
+        "idCate": "2289",
+        "name": "Nước mắm nhãn bạc Liên Thành 600ml",
+        "price": 75000.0
+    },
+    {
+        "id": "324398",
+        "idCate": "2289",
+        "name": "Nước mắm chay Maggi cốt táo 450ml",
+        "price": 40000.0
+    },
+    {
+        "id": "296772",
+        "idCate": "2289",
+        "name": "Nước chấm Đầu Bếp Tôm 1,95 lít",
+        "price": 23000.0
+    },
+    {
+        "id": "324690",
+        "idCate": "2289",
+        "name": "Nước mắm Thuận Phát cá hồi tỏi đen 490ml",
+        "price": 41000.0
+    },
+    {
+        "id": "86452",
+        "idCate": "2289",
+        "name": "Nước chấm cá cơm Đầu Bếp 800ml",
+        "price": 11000.0
+    },
+    {
+        "id": "289775",
+        "idCate": "2289",
+        "name": "Nước mắm cá cơm Knorr 750ml",
+        "price": 39000.0
+    },
+    {
+        "id": "221110",
+        "idCate": "2289",
+        "name": "Nước mắm Thuận Phát 740ml",
+        "price": 35000.0
+    },
+    {
+        "id": "82719",
+        "idCate": "2289",
+        "name": "Nước mắm Vị Xưa Barona 500ml",
+        "price": 79000.0
+    },
+    {
+        "id": "195857",
+        "idCate": "2286",
+        "name": "Dầu ăn Ranee Golden 1 lít",
+        "price": 44000.0
+    },
+    {
+        "id": "275224",
+        "idCate": "2286",
+        "name": "Dầu thực vật Olita 1 lít",
+        "price": 45000.0
+    },
+    {
+        "id": "82842",
+        "idCate": "2286",
+        "name": "Dầu đậu nành Happi Soya 1 lít",
+        "price": 69000.0
+    },
+    {
+        "id": "292400",
+        "idCate": "2286",
+        "name": "Dầu đậu nành Bee Soya Nakydaco 2 lít",
+        "price": 98000.0
+    },
+    {
+        "id": "92415",
+        "idCate": "2286",
+        "name": "Dầu ăn Happi Koki 5 lít",
+        "price": 165000.0
+    },
+    {
+        "id": "76157",
+        "idCate": "2286",
+        "name": "Dầu ăn Happi Koki 1 lít",
+        "price": 34000.0
+    },
+    {
+        "id": "96200",
+        "idCate": "2286",
+        "name": "Dầu ăn Happi Koki 400ml",
+        "price": 15000.0
+    },
+    {
+        "id": "200339",
+        "idCate": "2286",
+        "name": "Dầu đậu nành Bee Soya Nakydaco 1 lít",
+        "price": 49000.0
+    },
+    {
+        "id": "76166",
+        "idCate": "2286",
+        "name": "Dầu đậu nành Simply 1 lít",
+        "price": 58500.0
+    },
+    {
+        "id": "193196",
+        "idCate": "2286",
+        "name": "Dầu ăn Meizan Gold 1 lít",
+        "price": 43000.0
+    },
+    {
+        "id": "310771",
+        "idCate": "7459",
+        "name": "Măng le chua Vĩ Lâm gói 350g",
+        "price": 23500.0
+    },
+    {
+        "id": "200186",
+        "idCate": "7459",
+        "name": "Kim chi cải thảo Mama gói 90g",
+        "price": 10500.0
+    },
+    {
+        "id": "325616",
+        "idCate": "8788",
+        "name": "Dưa lưới ngọt",
+        "price": 69000.0
+    },
+    {
+        "id": "275709",
+        "idCate": "8788",
+        "name": "Quýt giống Úc",
+        "price": 54000.0
+    },
+    {
+        "id": "234047",
+        "idCate": "8788",
+        "name": "Táo Dazzle nhập khẩu",
+        "price": 69000.0
+    },
+    {
+        "id": "234057",
+        "idCate": "8788",
+        "name": "Táo Fuji nhập khẩu Nam Phi",
+        "price": 59000.0
+    },
+    {
+        "id": "234849",
+        "idCate": "8788",
+        "name": "Táo Fuji mini nhập khẩu Nam Phi",
+        "price": 49000.0
+    },
+    {
+        "id": "205913",
+        "idCate": "8788",
+        "name": "Táo Gala mini nhập khẩu",
+        "price": 49000.0
+    },
+    {
+        "id": "312875",
+        "idCate": "8788",
+        "name": "Nho mẫu đơn 500g",
+        "price": 89000.0
+    },
+    {
+        "id": "233989",
+        "idCate": "8788",
+        "name": "Nho đỏ Ninh Thuận chùm 150g",
+        "price": 55400.0
+    },
+    {
+        "id": "234055",
+        "idCate": "8788",
+        "name": "Lê đường",
+        "price": 50800.0
+    },
+    {
+        "id": "226972",
+        "idCate": "8788",
+        "name": "Ổi nữ hoàng",
+        "price": 20600.0
+    },
+    {
+        "id": "226918",
+        "idCate": "8788",
+        "name": "Ổi Đài Loan",
+        "price": 20600.0
+    },
+    {
+        "id": "314554",
+        "idCate": "8788",
+        "name": "Mít thái xẻ miếng",
+        "price": 30800.0
+    },
+    {
+        "id": "222844",
+        "idCate": "8788",
+        "name": "Mận An Phước",
+        "price": 35400.0
+    },
+    {
+        "id": "278524",
+        "idCate": "8788",
+        "name": "Mận hậu",
+        "price": 43000.0
+    },
+    {
+        "id": "234063",
+        "idCate": "8788",
+        "name": "Xoài tứ quý tươi",
+        "price": 29900.0
+    },
+    {
+        "id": "238368",
+        "idCate": "8788",
+        "name": "Xoài Úc",
+        "price": 40800.0
+    },
+    {
+        "id": "228876",
+        "idCate": "8788",
+        "name": "Cóc lớn",
+        "price": 31400.0
+    },
+    {
+        "id": "234065",
+        "idCate": "8788",
+        "name": "Thanh long ruột đỏ",
+        "price": 26600.0
+    },
+    {
+        "id": "222851",
+        "idCate": "8788",
+        "name": "Chanh dây",
+        "price": 30800.0
+    },
+    {
+        "id": "223156",
+        "idCate": "8788",
+        "name": "Chôm chôm giống Thái 500g",
+        "price": 27200.0
+    },
+    {
+        "id": "223086",
+        "idCate": "8788",
+        "name": "Bơ 034",
+        "price": 25000.0
+    },
+    {
+        "id": "234080",
+        "idCate": "8788",
+        "name": "Bơ sáp",
+        "price": 27000.0
+    },
+    {
+        "id": "303427",
+        "idCate": "8788",
+        "name": "Lê ki ma",
+        "price": 26000.0
+    },
+    {
+        "id": "234014",
+        "idCate": "8820",
+        "name": "Đọt su 1kg",
+        "price": 35000.0
+    },
+    {
+        "id": "325257",
+        "idCate": "8785",
+        "name": "Cà rốt baby 200g",
+        "price": 28000.0
+    },
+    {
+        "id": "222915",
+        "idCate": "8785",
+        "name": "Bí ngòi xanh",
+        "price": 29900.0
+    },
+    {
+        "id": "233898",
+        "idCate": "8785",
+        "name": "Bầu sao",
+        "price": 27000.0
+    },
+    {
+        "id": "281523",
+        "idCate": "8785",
+        "name": "Tắc trái 200g (20 - 21 trái)",
+        "price": 9000.0
+    },
+    {
+        "id": "230451",
+        "idCate": "8785",
+        "name": "Dưa leo",
+        "price": 30000.0
+    },
+    {
+        "id": "233988",
+        "idCate": "8785",
+        "name": "Cà chua beef",
+        "price": 53200.0
+    },
+    {
+        "id": "233977",
+        "idCate": "8785",
+        "name": "Nha đam",
+        "price": 19600.0
+    },
+    {
+        "id": "230447",
+        "idCate": "8785",
+        "name": "Đậu cove",
+        "price": 44000.0
+    },
+    {
+        "id": "299254",
+        "idCate": "8785",
+        "name": "Bạc hà 200g",
+        "price": 7800.0
+    },
+    {
+        "id": "226969",
+        "idCate": "8785",
+        "name": "Bắp cải tím 10kg",
+        "price": 160000.0
+    },
+    {
+        "id": "230462",
+        "idCate": "8785",
+        "name": "Su su trái từ 200g trở lên",
+        "price": 23000.0
+    },
+    {
+        "id": "233886",
+        "idCate": "8785",
+        "name": "Khoai mỡ",
+        "price": 35000.0
+    },
+    {
+        "id": "291352",
+        "idCate": "8785",
+        "name": "Khổ qua 500g (3-5 trái)",
+        "price": 23300.0
+    },
+    {
+        "id": "230445",
+        "idCate": "8785",
+        "name": "Củ dền",
+        "price": 33000.0
+    },
+    {
+        "id": "230437",
+        "idCate": "8785",
+        "name": "Bắp cải trái tim",
+        "price": 30000.0
+    },
+    {
+        "id": "233854",
+        "idCate": "8785",
+        "name": "Củ sắn",
+        "price": 19600.0
+    },
+    {
+        "id": "234101",
+        "idCate": "8785",
+        "name": "Bắp cải trắng",
+        "price": 18000.0
+    },
+    {
+        "id": "230450",
+        "idCate": "8785",
+        "name": "Dưa leo baby",
+        "price": 33000.0
+    },
+    {
+        "id": "230439",
+        "idCate": "8785",
+        "name": "Cà tím",
+        "price": 28000.0
+    },
+    {
+        "id": "271743",
+        "idCate": "8785",
+        "name": "Đậu bắp 250g (15-20 trái)",
+        "price": 12300.0
+    },
+    {
+        "id": "326200",
+        "idCate": "8785",
+        "name": "Hành tây 10kg",
+        "price": 160000.0
+    },
+    {
+        "id": "233887",
+        "idCate": "8785",
+        "name": "Bí đỏ hồ lô",
+        "price": 24000.0
+    },
+    {
+        "id": "233895",
+        "idCate": "8785",
+        "name": "Bí xanh",
+        "price": 29900.0
+    },
+    {
+        "id": "230449",
+        "idCate": "8785",
+        "name": "Cà chua",
+        "price": 36000.0
+    },
+    {
+        "id": "309137",
+        "idCate": "8785",
+        "name": "Chanh không hạt",
+        "price": 43200.0
+    },
+    {
+        "id": "234102",
+        "idCate": "8785",
+        "name": "Bắp cải tím",
+        "price": 30000.0
+    },
+    {
+        "id": "273076",
+        "idCate": "8785",
+        "name": "Hành tây",
+        "price": 35000.0
+    },
+    {
+        "id": "325255",
+        "idCate": "8785",
+        "name": "Đậu Hà Lan 200g",
+        "price": 25000.0
+    },
+    {
+        "id": "234529",
+        "idCate": "8785",
+        "name": "Cà rốt",
+        "price": 22600.0
+    },
+    {
+        "id": "241815",
+        "idCate": "8785",
+        "name": "Bắp mỹ trái từ 300g trở lên",
+        "price": 9000.0
+    },
+    {
+        "id": "220470",
+        "idCate": "8785",
+        "name": "Khoai lang Nhật",
+        "price": 21000.0
+    },
+    {
+        "id": "249870",
+        "idCate": "8163",
+        "name": "Bún tươi Bách hóa XANH 500g",
+        "price": 9500.0
+    },
+    {
+        "id": "325254",
+        "idCate": "8785",
+        "name": "Bông cải xanh baby 250g",
+        "price": 28000.0
+    },
+    {
+        "id": "233985",
+        "idCate": "8785",
+        "name": "Củ cải trắng",
+        "price": 18000.0
+    },
+    {
+        "id": "230452",
+        "idCate": "8785",
+        "name": "Gừng",
+        "price": 85000.0
+    },
+    {
+        "id": "233982",
+        "idCate": "8785",
+        "name": "Bắp cải thảo",
+        "price": 20000.0
+    },
+    {
+        "id": "233900",
+        "idCate": "8785",
+        "name": "Mướp hương",
+        "price": 28900.0
+    },
+    {
+        "id": "292740",
+        "idCate": "8785",
+        "name": "Sả cây 200g",
+        "price": 7600.0
+    },
+    {
+        "id": "226918",
+        "idCate": "8788",
+        "name": "Ổi Đài Loan",
+        "price": 20600.0
+    },
+    {
+        "id": "314554",
+        "idCate": "8788",
+        "name": "Mít thái xẻ miếng",
+        "price": 30800.0
+    },
+    {
+        "id": "222844",
+        "idCate": "8788",
+        "name": "Mận An Phước",
+        "price": 35400.0
+    },
+    {
+        "id": "278524",
+        "idCate": "8788",
+        "name": "Mận hậu",
+        "price": 43000.0
+    },
+    {
+        "id": "234063",
+        "idCate": "8788",
+        "name": "Xoài tứ quý tươi",
+        "price": 29900.0
+    },
+    {
+        "id": "238368",
+        "idCate": "8788",
+        "name": "Xoài Úc",
+        "price": 40800.0
+    },
+    {
+        "id": "228876",
+        "idCate": "8788",
+        "name": "Cóc lớn",
+        "price": 31400.0
+    },
+    {
+        "id": "234065",
+        "idCate": "8788",
+        "name": "Thanh long ruột đỏ",
+        "price": 26600.0
+    },
+    {
+        "id": "222851",
+        "idCate": "8788",
+        "name": "Chanh dây",
+        "price": 30800.0
+    },
+    {
+        "id": "223156",
+        "idCate": "8788",
+        "name": "Chôm chôm giống Thái 500g",
+        "price": 27200.0
+    },
+    {
+        "id": "223086",
+        "idCate": "8788",
+        "name": "Bơ 034",
+        "price": 25000.0
+    },
+    {
+        "id": "234080",
+        "idCate": "8788",
+        "name": "Bơ sáp",
+        "price": 27000.0
+    },
+    {
+        "id": "303427",
+        "idCate": "8788",
+        "name": "Lê ki ma",
+        "price": 26000.0
+    },
+    {
+        "id": "228775",
+        "idCate": "8783",
+        "name": "Trứng gà tươi hộp 10 quả",
+        "price": 25000.0
+    },
+    {
+        "id": "219096",
+        "idCate": "8783",
+        "name": "Trứng gà tươi QLEgg hộp 6",
+        "price": 17000.0
+    },
+    {
+        "id": "311111",
+        "idCate": "8783",
+        "name": "Trứng gà ta hộp 6 quả (giao ngẫu nhiên thương hiệu)",
+        "price": 23000.0
+    },
+    {
+        "id": "311101",
+        "idCate": "8783",
+        "name": "Trứng cút hộp 30 (giao ngẫu nhiên thương hiệu)",
+        "price": 20000.0
+    },
+    {
+        "id": "313704",
+        "idCate": "8783",
+        "name": "Trứng cút Nguyễn Hồ hộp 30 quả",
+        "price": 26000.0
+    },
+    {
+        "id": "311102",
+        "idCate": "8783",
+        "name": "Trứng vịt hộp 10 quả (giao ngẫu nhiên thương hiệu)",
+        "price": 37000.0
+    },
+    {
+        "id": "311103",
+        "idCate": "8783",
+        "name": "Trứng vịt bắc thảo hộp 4 quả (giao ngẫu nhiên thương hiệu)",
+        "price": 24000.0
+    },
+    {
+        "id": "311104",
+        "idCate": "8783",
+        "name": "Trứng vịt muối hộp 4 quả (giao ngẫu nhiên thương hiệu)",
+        "price": 23000.0
+    },
+    {
+        "id": "239072",
+        "idCate": "7170",
+        "name": "Cá viên nhân tôm SG Food gói 500g",
+        "price": 91500.0
+    },
+    {
+        "id": "229109",
+        "idCate": "7170",
+        "name": "Tôm viên Tân Việt Sin gói 200g",
+        "price": 25000.0
+    },
+    {
+        "id": "293556",
+        "idCate": "7170",
+        "name": "Chả cá sợi Tân Việt Sin gói 250g",
+        "price": 45000.0
+    },
+    {
+        "id": "229464",
+        "idCate": "8400",
+        "name": "Cá trứng đông lạnh Tân Hải Hòa 200g",
+        "price": 46000.0
+    },
+    {
+        "id": "218367",
+        "idCate": "7170",
+        "name": "Cá viên SG Food gói 500g",
+        "price": 79000.0
+    },
+    {
+        "id": "225165",
+        "idCate": "8400",
+        "name": "Vây cá hồi đông lạnh SG Food 500g",
+        "price": 45000.0
+    },
+    {
+        "id": "240006",
+        "idCate": "8791",
+        "name": "Cá trứng tẩm gia vị SG Food 250g",
+        "price": 52000.0
+    },
+    {
+        "id": "229465",
+        "idCate": "8400",
+        "name": "Cá trứng đông lạnh Tân Hải Hòa 200g",
+        "price": 40000.0
+    },
+    {
+        "id": "229112",
+        "idCate": "7170",
+        "name": "Cá viên Tân Việt Sin gói 200g",
+        "price": 35000.0
+    },
+    {
+        "id": "222941",
+        "idCate": "12718",
+        "name": "Giò sống MVP 200g",
+        "price": 37400.0
+    },
+    {
+        "id": "304750",
+        "idCate": "12718",
+        "name": "Nem nướng MVP gói 250g",
+        "price": 48800.0
+    },
+    {
+        "id": "317707",
+        "idCate": "12718",
+        "name": "Chả trứng hộp 150g",
+        "price": 24300.0
+    },
+    {
+        "id": "304914",
+        "idCate": "12718",
+        "name": "Mắm chưng 100g",
+        "price": 26600.0
+    },
+    {
+        "id": "303274",
+        "idCate": "12718",
+        "name": "Chân gà rút xương Ngọc Tú 250g",
+        "price": 51800.0
+    },
+    {
+        "id": "319855",
+        "idCate": "7169",
+        "name": "Bắp giò heo hun khói Thu Hằng gói 300g",
+        "price": 92000.0
+    },
+    {
+        "id": "222942",
+        "idCate": "8790",
+        "name": "Ức gà phi lê có da C.P",
+        "price": 92000.0
+    },
+    {
+        "id": "222888",
+        "idCate": "8790",
+        "name": "Ức gà có xương",
+        "price": 89000.0
+    },
+    {
+        "id": "226874",
+        "idCate": "8790",
+        "name": "Cánh gà",
+        "price": 115000.0
+    },
+    {
+        "id": "233798",
+        "idCate": "8790",
+        "name": "Cánh tỏi gà",
+        "price": 116000.0
+    },
+    {
+        "id": "233956",
+        "idCate": "8790",
+        "name": "Cánh gà giữa nhập khẩu",
+        "price": 152000.0
+    },
+    {
+        "id": "226888",
+        "idCate": "8790",
+        "name": "Má đùi gà cắt sẵn",
+        "price": 87500.0
+    },
+    {
+        "id": "233801",
+        "idCate": "8790",
+        "name": "Đùi tỏi gà",
+        "price": 113000.0
+    },
+    {
+        "id": "226946",
+        "idCate": "8790",
+        "name": "Đùi gà góc tư",
+        "price": 94000.0
+    },
+    {
+        "id": "319501",
+        "idCate": "8790",
+        "name": "Mề gà tươi C.P 250g",
+        "price": 30000.0
+    },
+    {
+        "id": "226952",
+        "idCate": "8790",
+        "name": "Chân gà",
+        "price": 84500.0
+    },
+    {
+        "id": "226871",
+        "idCate": "8781",
+        "name": "Ba rọi heo nhập khẩu 2kg",
+        "price": 237000.0
+    },
+    {
+        "id": "235871",
+        "idCate": "8781",
+        "name": "Bẹ sườn non heo nhập khẩu 3kg",
+        "price": 410992.8
+    },
+    {
+        "id": "233765",
+        "idCate": "8781",
+        "name": "Ba rọi heo nhập khẩu 5kg",
+        "price": 589000.0
+    },
+    {
+        "id": "223376",
+        "idCate": "8781",
+        "name": "Bẹ sườn non heo nhập khẩu 6kg",
+        "price": 819000.0
+    },
+    {
+        "id": "226834",
+        "idCate": "8781",
+        "name": "Ba rọi heo",
+        "price": 185000.0
+    },
+    {
+        "id": "275804",
+        "idCate": "8781",
+        "name": "Ba rọi heo nhập khẩu",
+        "price": 133000.0
+    },
+    {
+        "id": "226865",
+        "idCate": "8781",
+        "name": "Thịt đùi heo",
+        "price": 111000.0
+    },
+    {
+        "id": "226842",
+        "idCate": "8781",
+        "name": "Thịt nạc heo",
+        "price": 158000.0
+    },
+    {
+        "id": "226937",
+        "idCate": "8781",
+        "name": "Sườn cốt lết",
+        "price": 144000.0
+    },
+    {
+        "id": "233785",
+        "idCate": "8781",
+        "name": "Thăn chuột heo",
+        "price": 155000.0
+    },
+    {
+        "id": "222941",
+        "idCate": "12718",
+        "name": "Giò sống MVP 200g",
+        "price": 37400.0
+    },
+    {
+        "id": "309116",
+        "idCate": "8139",
+        "name": "Thịt vụn bò",
+        "price": 159000.0
+    },
+    {
+        "id": "233807",
+        "idCate": "8139",
+        "name": "Đùi bò",
+        "price": 259000.0
+    },
+    {
+        "id": "233810",
+        "idCate": "8139",
+        "name": "Bắp bò",
+        "price": 229000.0
+    },
+    {
+        "id": "238859",
+        "idCate": "8139",
+        "name": "Nạm bò",
+        "price": 199000.0
+    },
+    {
+        "id": "325687",
+        "idCate": "8139",
+        "name": "Thịt bò xay PTV 200g",
+        "price": 49000.0
+    },
+    {
+        "id": "325684",
+        "idCate": "8139",
+        "name": "Thịt bò xào PTV 200g",
+        "price": 59000.0
+    },
+    {
+        "id": "313104",
+        "idCate": "7170",
+        "name": "Bò viên Kitkool gói 500g",
+        "price": 66500.0
+    },
+    {
+        "id": "229138",
+        "idCate": "7170",
+        "name": "Bò viên Tân Việt Sin gói 200g",
+        "price": 51500.0
+    },
+    {
+        "id": "274774",
+        "idCate": "7170",
+        "name": "Bò viên Hoa Doanh gói 200g",
+        "price": 36000.0
+    }
+]

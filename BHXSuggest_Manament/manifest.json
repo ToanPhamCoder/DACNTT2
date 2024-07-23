@@ -1,0 +1,23 @@
+{
+    "manifest_version": 3,
+    "name": "BachHoaXanh Suggestion Manament",
+    "version": "1.1.5",
+    "description": "Trang quản lý của BachHoaXanh Suggestion",
+    "icons": {
+    "16": "OIP.png",
+    "48": "OIP.png",
+    "128": "OIP.png"
+    },
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "permissions": [
+      "storage",
+      "tabs",
+      "activeTab"
+    ],
+    "background": {
+    "service_worker": "background.js"
+    }
+  }
+  

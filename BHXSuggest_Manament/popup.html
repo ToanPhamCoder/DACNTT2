@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Back Hoa Xanh</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="jquery-3.7.1.min.js"></script>
+</head>
+<body>
+    <header>
+        <img src="logo.png" alt="Logo" style="width: 400px; height: 200px;">
+    </header>
+
+    <div class="container">
+        <h1>Danh mục sản phẩm</h1>
+        <div id="dataCategories"></div>
+        <div class="input-group">
+            <label for="pageCat">Trang:</label>
+            <input type="number" id="pageCat" name="pageCat" value="0" min="0">
+        </div>
+        <div class="input-group">
+            <input type="file" id="jsonFileCategories" accept=".json">
+        </div>
+        <div class="input-group">
+            <button id="uploadButtonCategories">Thêm Danh mục</button>
+        </div>
+    </div>
+
+    <div class="container">
+        <h1>Danh sách sản phẩm</h1>
+        <div id="dataProducts"></div>
+        <div class="input-group">
+            <label for="page">Trang:</label>
+            <input type="number" id="page" name="page" value="0" min="0">
+        </div>
+        <div class="input-group">
+            <input type="file" id="jsonFileProducts" accept=".json">
+        </div>
+        <div class="input-group">
+            <button id="uploadButtonProducts">Thêm sản phẩm</button>
+        </div>
+    </div>
+
+    <div class="container">
+        <h1>Danh sách Đơn hàng</h1>
+        <div id="dataOrders"></div>
+        <div class="input-group">
+            <label for="pageOrder">Trang:</label>
+            <input type="number" id="pageOrder" name="pageOrder" value="0" min="0" style="width: 50px;">
+        </div>
+        <div class="input-group">
+            <input type="file" id="jsonFileOrders" accept=".json">
+        </div>
+        <div class="input-group">
+            <div id="uploadProcess">Đang tải ....</div>
+            <button id="uploadButtonOrders">Thêm hóa đơn</button>
+        </div>
+    </div>
+
+    <div>
+        <p>Sản phẩm được phát triển bởi: Phạm Hồng Toàn, Nguyễn Chí Thiện</p>
+    </div>
+    <script src="apis/addCategory.js"></script>
+    <script src="apis/addProduct.js"></script>
+    <script src="apis/addOrders.js"></script>
+    <script src="apis/getCategorys.js"></script>
+    <script src="apis/getProducts.js"></script>
+    <script src="apis/getOrders.js"></script>
+</body>
+</html>

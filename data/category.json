@@ -1,0 +1,1016 @@
+[
+    {
+        "id": "8781",
+        "name": "Thịt heo",
+        "url": "https://www.bachhoaxanh.com/thit-heo",
+        "img": "https://cdn.tgdd.vn/Products/Images/8781/bhx/icon_8781.png"
+    },
+    {
+        "id": "8139",
+        "name": "Thịt bò",
+        "url": "https://www.bachhoaxanh.com/thit-bo",
+        "img": "https://cdn.tgdd.vn/Products/Images/8139/bhx/thit-bo-cac-loai-202212051413547147.png"
+    },
+    {
+        "id": "8790",
+        "name": "Thịt gà, vịt, chim",
+        "url": "https://www.bachhoaxanh.com/thit-ga",
+        "img": "https://cdn.tgdd.vn/Products/Images/8790/bhx/thit-ga-thit-vit-202212051413239059.png"
+    },
+    {
+        "id": "8782",
+        "name": "Cá, hải sản",
+        "url": "https://www.bachhoaxanh.com/ca-tom-muc-ech",
+        "img": "https://cdn.tgdd.vn/Products/Images/8782/bhx/8782_st_2.png"
+    },
+    {
+        "id": "8783",
+        "name": "Trứng gà, vịt, cút",
+        "url": "https://www.bachhoaxanh.com/trung",
+        "img": "https://cdn.tgdd.vn/Products/Images/8783/bhx/trung-ga-vit-cut-202212051414238645.png"
+    },
+    {
+        "id": "8788",
+        "name": "Trái cây",
+        "url": "https://www.bachhoaxanh.com/trai-cay-tuoi-ngon",
+        "img": "https://cdn.tgdd.vn/Products/Images/8788/bhx/trai-cay-cac-loai-202210311314516525.png"
+    },
+    {
+        "id": "8820",
+        "name": "Rau lá",
+        "url": "https://www.bachhoaxanh.com/rau-sach",
+        "img": "https://cdn.tgdd.vn/Products/Images/8820/bhx/rau-la-cac-loai-202210311314254141.png"
+    },
+    {
+        "id": "8785",
+        "name": "Củ, quả",
+        "url": "https://www.bachhoaxanh.com/cu",
+        "img": "https://cdn.tgdd.vn/Products/Images/8785/bhx/rau-cu-cac-loai-202209301506432108.png"
+    },
+    {
+        "id": "8779",
+        "name": "Nấm các loại",
+        "url": "https://www.bachhoaxanh.com/nam-tuoi",
+        "img": "https://cdn.tgdd.vn/Products/Images/8779/bhx/nam-cac-loai-202303081524361474.png"
+    },
+    {
+        "id": "12439",
+        "name": "Rau, củ làm sẵn",
+        "url": "https://www.bachhoaxanh.com/rau-cu-cat-san",
+        "img": "https://cdn.tgdd.vn/Products/Images/12439/bhx/rau-cu-lam-san-202308231530220239.png"
+    },
+    {
+        "id": "7172",
+        "name": "Rau củ đông lạnh",
+        "url": "https://www.bachhoaxanh.com/rau-cu-dong-lanh",
+        "img": "https://cdn.tgdd.vn/Products/Images/7172/bhx/rau-cu-dong-lanh-202212051420219285.png"
+    },
+    {
+        "id": "2286",
+        "name": "Dầu ăn",
+        "url": "https://www.bachhoaxanh.com/dau-an",
+        "img": "https://cdn.tgdd.vn/Products/Images/2286/bhx/dau-an-202212060830181775.png"
+    },
+    {
+        "id": "2289",
+        "name": "Nước mắm",
+        "url": "https://www.bachhoaxanh.com/nuoc-mam",
+        "img": "https://cdn.tgdd.vn/Products/Images/2289/bhx/nuoc-mam-202212051441046889.png"
+    },
+    {
+        "id": "2683",
+        "name": "Nước tương",
+        "url": "https://www.bachhoaxanh.com/nuoc-tuong",
+        "img": "https://cdn.tgdd.vn/Products/Images/2683/bhx/nuoc-tuong-202209301504550560.png"
+    },
+    {
+        "id": "2804",
+        "name": "Đường",
+        "url": "https://www.bachhoaxanh.com/duong",
+        "img": "https://cdn.tgdd.vn/Products/Images/2804/bhx/duong-cac-loai-202209301451483040.png"
+    },
+    {
+        "id": "2806",
+        "name": "Hạt nêm, bột ngọt, bột canh",
+        "url": "https://www.bachhoaxanh.com/hat-nem",
+        "img": "https://cdn.tgdd.vn/Products/Images/2806/bhx/hat-nem-bot-ngot-bot-canh-202209301438042697.png"
+    },
+    {
+        "id": "2803",
+        "name": "Muối",
+        "url": "https://www.bachhoaxanh.com/muoi-an",
+        "img": "https://cdn.tgdd.vn/Products/Images/2803/bhx/muoi-cac-loai-202212051440575176.png"
+    },
+    {
+        "id": "2567",
+        "name": "Tương ớt - đen, mayonnaise",
+        "url": "https://www.bachhoaxanh.com/tuong-ot-ca-den",
+        "img": "https://cdn.tgdd.vn/Products/Images/2567/bhx/tuong-ot-den-mayonnaise-202209301521405358.png"
+    },
+    {
+        "id": "3465",
+        "name": "Dầu hào, giấm, bơ",
+        "url": "https://www.bachhoaxanh.com/bo",
+        "img": "https://cdn.tgdd.vn/Products/Images/3465/bhx/dau-hao-giam-bo-202212051442315139.png"
+    },
+    {
+        "id": "8271",
+        "name": "Gia vị nêm sẵn",
+        "url": "https://www.bachhoaxanh.com/gia-vi-nem-san",
+        "img": "https://cdn.tgdd.vn/Products/Images/8271/bhx/gia-vi-hoan-chinh-nem-san-202209301454403180.png"
+    },
+    {
+        "id": "7779",
+        "name": "Nước chấm, mắm",
+        "url": "https://www.bachhoaxanh.com/sot-nuoc-cham",
+        "img": "https://cdn.tgdd.vn/Products/Images/7779/bhx/nuoc-cham-mam-cac-loai-202209301502198411.png"
+    },
+    {
+        "id": "2809",
+        "name": "Tiêu, sa tế, ớt bột",
+        "url": "https://www.bachhoaxanh.com/tieu",
+        "img": "https://cdn.tgdd.vn/Products/Images/2809/bhx/tieu-sa-te-ot-bot-202209301509446141.png"
+    },
+    {
+        "id": "8275",
+        "name": "Bột nghệ, tỏi, hồi, quế,...",
+        "url": "https://www.bachhoaxanh.com/bot-gia-vi",
+        "img": "https://cdn.tgdd.vn/Products/Images/8275/bhx/bot-nghe-toi-hoi-que-202209301438340170.png"
+    },
+    {
+        "id": "10778",
+        "name": "Bánh bao, bánh mì, pizza",
+        "url": "https://www.bachhoaxanh.com/banh-dong-cac-loai",
+        "img": "https://cdn.tgdd.vn/Products/Images/10778/bhx/banh-dong-cac-loai-202212051416441867.png"
+    },
+    {
+        "id": "7618",
+        "name": "Xúc xích, lạp xưởng tươi",
+        "url": "https://www.bachhoaxanh.com/xuc-xich-tuoi",
+        "img": "https://cdn.tgdd.vn/Products/Images/7618/bhx/xuc-xich-lap-xuong-tuoi-202212051418012743.png"
+    },
+    {
+        "id": "7169",
+        "name": "Chả lụa, thịt nguội",
+        "url": "https://www.bachhoaxanh.com/gio-cha",
+        "img": "https://cdn.tgdd.vn/Products/Images/7169/bhx/cha-lua-thit-nguoi-202212051418121397.png"
+    },
+    {
+        "id": "7171",
+        "name": "Chả giò, chả ram",
+        "url": "https://www.bachhoaxanh.com/cha-gio",
+        "img": "https://cdn.tgdd.vn/Products/Images/7171/bhx/cha-gio-cha-ram-202212051418336344.png"
+    },
+    {
+        "id": "7170",
+        "name": "Cá viên, bò viên",
+        "url": "https://www.bachhoaxanh.com/ca-vien-bo-vien",
+        "img": "https://cdn.tgdd.vn/Products/Images/7170/bhx/ca-vien-bo-vien-202212051418508324.png"
+    },
+    {
+        "id": "7258",
+        "name": "Mandu, há cảo, sủi cảo",
+        "url": "https://www.bachhoaxanh.com/ha-cao-sui-cao-xiu-mai",
+        "img": "https://cdn.tgdd.vn/Products/Images/7258/bhx/ha-cao-sui-cao-202209301455143181.png"
+    },
+    {
+        "id": "8400",
+        "name": "Thịt, cá đông lạnh",
+        "url": "https://www.bachhoaxanh.com/ca-hai-san-dong-lanh",
+        "img": "https://cdn.tgdd.vn/Products/Images/8400/bhx/thit-ca-dong-lanh-202212051420110663.png"
+    },
+    {
+        "id": "7259",
+        "name": "Làm sẵn, ăn liền",
+        "url": "https://www.bachhoaxanh.com/thuc-pham-che-bien-san",
+        "img": "https://cdn.tgdd.vn/Products/Images/7259/bhx/lam-san-an-lien-202212051420429655.png"
+    },
+    {
+        "id": "12538",
+        "name": "Nước lẩu, viên thả lẩu",
+        "url": "https://www.bachhoaxanh.com/nuoc-lau-vien-tha-lau",
+        "img": "https://cdn.tgdd.vn/Products/Images/12538/bhx/nuoc-lau-vien-tha-lau-202303301959003647.png"
+    },
+    {
+        "id": "8791",
+        "name": "Sơ chế, tẩm ướp",
+        "url": "https://www.bachhoaxanh.com/rau-cu-lam-san",
+        "img": "https://cdn.tgdd.vn/Products/Images/8791/bhx/so-che-tam-uop-202212051422114754.png"
+    },
+    {
+        "id": "7558",
+        "name": "Sữa chua ăn",
+        "url": "https://www.bachhoaxanh.com/sua-chua-an",
+        "img": "https://cdn.tgdd.vn/Products/Images/7558/bhx/sua-chua-an-202209301514279987.png"
+    },
+    {
+        "id": "7599",
+        "name": "Bơ sữa, phô mai",
+        "url": "https://www.bachhoaxanh.com/pho-mai-an",
+        "img": "https://cdn.tgdd.vn/Products/Images/7599/bhx/bo-sua-pho-mai-202212051422389842.png"
+    },
+    {
+        "id": "7598",
+        "name": "Sữa chua uống",
+        "url": "https://www.bachhoaxanh.com/sua-chua-men-song",
+        "img": "https://cdn.tgdd.vn/Products/Images/7598/bhx/sua-chua-uong-202212051422468585.png"
+    },
+    {
+        "id": "7461",
+        "name": "Đậu hũ, tàu hũ",
+        "url": "https://www.bachhoaxanh.com/dau-hu-dau-hu-trung",
+        "img": "https://cdn.tgdd.vn/Products/Images/7461/bhx/dau-hu-tau-hu-202212051424423071.png"
+    },
+    {
+        "id": "7459",
+        "name": "Kim chi, đồ chua",
+        "url": "https://www.bachhoaxanh.com/do-chua-dua-muoi",
+        "img": "https://cdn.tgdd.vn/Products/Images/7459/bhx/kim-chi-do-chua-202212051424188794.png"
+    },
+    {
+        "id": "7460",
+        "name": "Bánh flan, thạch, chè",
+        "url": "https://www.bachhoaxanh.com/banh-caramen-banh-flan",
+        "img": "https://cdn.tgdd.vn/Products/Images/7460/bhx/banh-flan-thach-che-202212051425371283.png"
+    },
+    {
+        "id": "7172",
+        "name": "Rau củ đông lạnh",
+        "url": "https://www.bachhoaxanh.com/rau-cu-dong-lanh",
+        "img": "https://cdn.tgdd.vn/Products/Images/7172/bhx/rau-cu-dong-lanh-202212051420219285.png"
+    },
+    {
+        "id": "2565",
+        "name": "Mì ăn liền",
+        "url": "https://www.bachhoaxanh.com/mi",
+        "img": "https://cdn.tgdd.vn/Products/Images/2565/bhx/mi-an-lien-202209301456432997.png"
+    },
+    {
+        "id": "2965",
+        "name": "Hủ tiếu, miến",
+        "url": "https://www.bachhoaxanh.com/hu-tieu",
+        "img": "https://cdn.tgdd.vn/Products/Images/2965/bhx/hu-tieu-mien-banh-canh-202209301458049760.png"
+    },
+    {
+        "id": "2566",
+        "name": "Phở, bún ăn liền",
+        "url": "https://www.bachhoaxanh.com/pho",
+        "img": "https://cdn.tgdd.vn/Products/Images/2566/bhx/pho-bun-an-lien-202209301506114557.png"
+    },
+    {
+        "id": "2564",
+        "name": "Cháo gói, cháo tươi",
+        "url": "https://www.bachhoaxanh.com/chao-an-lien",
+        "img": "https://cdn.tgdd.vn/Products/Images/2564/bhx/chao-goi-chao-tuoi-202209301447169147.png"
+    },
+    {
+        "id": "8163",
+        "name": "Bún các loại",
+        "url": "https://www.bachhoaxanh.com/bun-kho",
+        "img": "https://cdn.tgdd.vn/Products/Images/8163/bhx/bun-cac-loai-202212051428120862.png"
+    },
+    {
+        "id": "8159",
+        "name": "Nui các loại",
+        "url": "https://www.bachhoaxanh.com/nui-kho",
+        "img": "https://cdn.tgdd.vn/Products/Images/8159/bhx/nui-cac-loai-202212051428214191.png"
+    },
+    {
+        "id": "8160",
+        "name": "Miến, hủ tiếu, phở",
+        "url": "https://www.bachhoaxanh.com/mien-kho",
+        "img": "https://cdn.tgdd.vn/Products/Images/8160/bhx/mien-hu-tieu-pho-202212051429062024.png"
+    },
+    {
+        "id": "8158",
+        "name": "Mì Ý, mì trứng",
+        "url": "https://www.bachhoaxanh.com/mi-kho",
+        "img": "https://cdn.tgdd.vn/Products/Images/8158/bhx/mi-y-mi-trung-202212051428525826.png"
+    },
+    {
+        "id": "7162",
+        "name": "Bánh gạo Hàn Quốc",
+        "url": "https://www.bachhoaxanh.com/tokbokki",
+        "img": "https://cdn.tgdd.vn/Products/Images/7162/bhx/banh-gao-han-quoc-202209301431411477.png"
+    },
+    {
+        "id": "2513",
+        "name": "Gạo các loại",
+        "url": "https://www.bachhoaxanh.com/gao-gao-nep",
+        "img": "https://cdn.tgdd.vn/Products/Images/2513/bhx/gao-cac-loai-202209301453236694.png"
+    },
+    {
+        "id": "3507",
+        "name": "Xúc xích",
+        "url": "https://www.bachhoaxanh.com/xuc-xich",
+        "img": "https://cdn.tgdd.vn/Products/Images/3507/bhx/xuc-xich-202212051432208678.png"
+    },
+    {
+        "id": "3237",
+        "name": "Cá hộp",
+        "url": "https://www.bachhoaxanh.com/ca-hop",
+        "img": "https://cdn.tgdd.vn/Products/Images/3237/bhx/ca-hop-cac-loai-202212051434464463.png"
+    },
+    {
+        "id": "8638",
+        "name": "Đồ chay ăn liền",
+        "url": "https://www.bachhoaxanh.com/mi-chay",
+        "img": "https://cdn.tgdd.vn/Products/Images/8638/bhx/do-chay-an-lien-202212051436302695.png"
+    },
+    {
+        "id": "3238",
+        "name": "Heo, bò, pate hộp",
+        "url": "https://www.bachhoaxanh.com/thit-heo-hop",
+        "img": "https://cdn.tgdd.vn/Products/Images/3238/bhx/heo-bo-pate-hop-202212051434560792.png"
+    },
+    {
+        "id": "3525",
+        "name": "Tương, chao các loại",
+        "url": "https://www.bachhoaxanh.com/tuong-chao",
+        "img": "https://cdn.tgdd.vn/Products/Images/3525/bhx/tuong-chao-cac-loai-202212051436405632.png"
+    },
+    {
+        "id": "8645",
+        "name": "Gia vị chay",
+        "url": "https://www.bachhoaxanh.com/hat-nem-chay",
+        "img": "https://cdn.tgdd.vn/Products/Images/8645/bhx/gia-vi-chay-202212051436491680.png"
+    },
+    {
+        "id": "7082",
+        "name": "Đậu hũ, đồ chay khác",
+        "url": "https://www.bachhoaxanh.com/thuc-pham-chay",
+        "img": "https://cdn.tgdd.vn/Products/Images/7082/bhx/dau-hu-do-chay-202212051438250632.png"
+    },
+    {
+        "id": "2388",
+        "name": "Bột các loại",
+        "url": "https://www.bachhoaxanh.com/bot-che-bien-san",
+        "img": "https://cdn.tgdd.vn/Products/Images/2388/bhx/bot-cac-loai-202209301437207086.png"
+    },
+    {
+        "id": "3235",
+        "name": "Đậu, nấm, đồ khô",
+        "url": "https://www.bachhoaxanh.com/dau-cac-loai",
+        "img": "https://cdn.tgdd.vn/Products/Images/3235/bhx/dau-nam-do-kho-202212051438558777.png"
+    },
+    {
+        "id": "7083",
+        "name": "Rong biển các loại",
+        "url": "https://www.bachhoaxanh.com/rong-bien",
+        "img": "https://cdn.tgdd.vn/Products/Images/7083/bhx/rong-bien-cac-loai-202212051438498726.png"
+    },
+    {
+        "id": "3506",
+        "name": "Lạp xưởng",
+        "url": "https://www.bachhoaxanh.com/lap-xuong",
+        "img": "https://cdn.tgdd.vn/Products/Images/3506/bhx/lap-xuong-202212051431460635.png"
+    },
+    {
+        "id": "8285",
+        "name": "Cá mắm, dưa mắm",
+        "url": "https://www.bachhoaxanh.com/ca-mam",
+        "img": "https://cdn.tgdd.vn/Products/Images/8285/bhx/ca-mam-dua-mam-202205182003231192.png"
+    },
+    {
+        "id": "3234",
+        "name": "Bánh phồng, bánh đa",
+        "url": "https://www.bachhoaxanh.com/banh-phong-tom",
+        "img": "https://cdn.tgdd.vn/Products/Images/3234/bhx/banh-phong-banh-da-202212051439330319.png"
+    },
+    {
+        "id": "3233",
+        "name": "Bánh tráng các loại",
+        "url": "https://www.bachhoaxanh.com/banh-trang",
+        "img": "https://cdn.tgdd.vn/Products/Images/3233/bhx/banh-trang-cac-loai-202212051439101897.png"
+    },
+    {
+        "id": "7086",
+        "name": "Nước cốt dừa lon",
+        "url": "https://www.bachhoaxanh.com/nuoc-cot-dua",
+        "img": "https://cdn.tgdd.vn/Products/Images/7086/bhx/nuoc-cot-dua-lon-202212051435508725.png"
+    },
+    {
+        "id": "2903",
+        "name": "Ngũ cốc, yến mạch",
+        "url": "https://www.bachhoaxanh.com/bot-ngu-coc",
+        "img": "https://cdn.tgdd.vn/Products/Images/2903/bhx/ngu-coc-yen-mach-202212051439177796.png"
+    },
+    {
+        "id": "2282",
+        "name": "Bia, nước có cồn",
+        "url": "https://www.bachhoaxanh.com/bia",
+        "img": "https://cdn.tgdd.vn/Products/Images/2282/bhx/bia-nuoc-co-con-202403130931205434.png"
+    },
+    {
+        "id": "9498",
+        "name": "Rượu",
+        "url": "https://www.bachhoaxanh.com/ruou-ngon-cac-loai",
+        "img": "https://cdn.tgdd.vn/Products/Images/9498/bhx/ruou-cac-loai-202210311315410232.png"
+    },
+    {
+        "id": "3265",
+        "name": "Nước ép trái cây",
+        "url": "https://www.bachhoaxanh.com/nuoc-ep-trai-cay",
+        "img": "https://cdn.tgdd.vn/Products/Images/3265/bhx/nuoc-ep-trai-cay-202212051444585466.png"
+    },
+    {
+        "id": "2443",
+        "name": "Nước ngọt",
+        "url": "https://www.bachhoaxanh.com/nuoc-ngot",
+        "img": "https://cdn.tgdd.vn/Products/Images/2443/bhx/nuoc-ngot-202210311315510981.png"
+    },
+    {
+        "id": "3226",
+        "name": "Nước tăng lực, bù khoáng",
+        "url": "https://www.bachhoaxanh.com/nuoc-tang-luc",
+        "img": "https://cdn.tgdd.vn/Products/Images/3226/bhx/nuoc-tang-luc-bu-khoang-202212051444234280.png"
+    },
+    {
+        "id": "8938",
+        "name": "Nước trà",
+        "url": "https://www.bachhoaxanh.com/nuoc-tra",
+        "img": "https://cdn.tgdd.vn/Products/Images/8938/bhx/nuoc-tra-cac-loai-202212051444451504.png"
+    },
+    {
+        "id": "2947",
+        "name": "Sữa trái cây, trà sữa",
+        "url": "https://www.bachhoaxanh.com/sua-trai-cay",
+        "img": "https://cdn.tgdd.vn/Products/Images/2947/bhx/sua-trai-cay-tra-sua-202212051448001525.png"
+    },
+    {
+        "id": "7579",
+        "name": "Trái cây hộp, siro",
+        "url": "https://www.bachhoaxanh.com/siro",
+        "img": "https://cdn.tgdd.vn/Products/Images/7579/bhx/trai-cay-hop-si-ro-202212051448090039.png"
+    },
+    {
+        "id": "2563",
+        "name": "Nước suối",
+        "url": "https://www.bachhoaxanh.com/nuoc-suoi-khoang",
+        "img": "https://cdn.tgdd.vn/Products/Images/2563/bhx/nuoc-suoi-202210311319484504.png"
+    },
+    {
+        "id": "2524",
+        "name": "Cà phê hoà tan",
+        "url": "https://www.bachhoaxanh.com/ca-phe-hoa-tan",
+        "img": "https://cdn.tgdd.vn/Products/Images/2524/bhx/ca-phe-hoa-tan-202212051448395456.png"
+    },
+    {
+        "id": "2385",
+        "name": "Trà khô, túi lọc",
+        "url": "https://www.bachhoaxanh.com/tra-kho-tui-loc",
+        "img": "https://cdn.tgdd.vn/Products/Images/2385/bhx/tra-kho-tui-loc-202212051448551904.png"
+    },
+    {
+        "id": "2883",
+        "name": "Cà phê pha phin",
+        "url": "https://www.bachhoaxanh.com/ca-phe-phin",
+        "img": "https://cdn.tgdd.vn/Products/Images/2883/bhx/ca-phe-pha-phin-202212051449011758.png"
+    },
+    {
+        "id": "8966",
+        "name": "Cà phê lon",
+        "url": "https://www.bachhoaxanh.com/ca-phe-lon",
+        "img": "https://cdn.tgdd.vn/Products/Images/8966/bhx/ca-phe-lon-202212051449128859.png"
+    },
+    {
+        "id": "7068",
+        "name": "Mật ong, bột nghệ",
+        "url": "https://www.bachhoaxanh.com/mat-ong",
+        "img": "https://cdn.tgdd.vn/Products/Images/7068/bhx/mat-ong-bot-nghe-202209301456180120.png"
+    },
+    {
+        "id": "4585",
+        "name": "Nước yến, nước cốt gà",
+        "url": "https://www.bachhoaxanh.com/nuoc-yen",
+        "img": "https://cdn.tgdd.vn/Products/Images/4585/bhx/nuoc-yen-nuoc-cot-ga-202209301505264436.png"
+    },
+    {
+        "id": "2386",
+        "name": "Sữa tươi",
+        "url": "https://www.bachhoaxanh.com/sua-tuoi",
+        "img": "https://cdn.tgdd.vn/Products/Images/2386/bhx/sua-tuoi-202210311320147075.png"
+    },
+    {
+        "id": "2945",
+        "name": "Sữa ca cao, lúa mạch",
+        "url": "https://www.bachhoaxanh.com/sua-ca-cao-socola",
+        "img": "https://cdn.tgdd.vn/Products/Images/2945/bhx/sua-ca-cao-lua-mach-202210311320345026.png"
+    },
+    {
+        "id": "2944",
+        "name": "Sữa chua uống liền",
+        "url": "https://www.bachhoaxanh.com/sua-chua",
+        "img": "https://cdn.tgdd.vn/Products/Images/2944/bhx/sua-chua-uong-lien-202212081456116368.png"
+    },
+    {
+        "id": "2382",
+        "name": "Sữa bột",
+        "url": "https://www.bachhoaxanh.com/sua-bot-cong-thuc",
+        "img": "https://cdn.tgdd.vn/Products/Images/2382/bhx/sua-bot-cac-loai-202209301512594596.png"
+    },
+    {
+        "id": "2943",
+        "name": "Sữa hạt, sữa đậu",
+        "url": "https://www.bachhoaxanh.com/sua-tu-hat",
+        "img": "https://cdn.tgdd.vn/Products/Images/2943/bhx/sua-hat-sua-dau-202209301516013024.png"
+    },
+    {
+        "id": "2526",
+        "name": "Sữa đặc",
+        "url": "https://www.bachhoaxanh.com/sua-dac",
+        "img": "https://cdn.tgdd.vn/Products/Images/2526/bhx/sua-dac-202210311321319764.png"
+    },
+    {
+        "id": "8286",
+        "name": "Ngũ cốc",
+        "url": "https://www.bachhoaxanh.com/yen-mach-ngu-coc",
+        "img": "https://cdn.tgdd.vn/Products/Images/8286/bhx/ngu-coc-cac-loai-202209301502078311.png"
+    },
+    {
+        "id": "7558",
+        "name": "Sữa chua ăn",
+        "url": "https://www.bachhoaxanh.com/sua-chua-an",
+        "img": "https://cdn.tgdd.vn/Products/Images/7558/bhx/sua-chua-an-202209301514279987.png"
+    },
+    {
+        "id": "7599",
+        "name": "Bơ sữa, phô mai",
+        "url": "https://www.bachhoaxanh.com/pho-mai-an",
+        "img": "https://cdn.tgdd.vn/Products/Images/7599/bhx/bo-sua-pho-mai-202212051422389842.png"
+    },
+    {
+        "id": "3361",
+        "name": "Bánh gạo",
+        "url": "https://www.bachhoaxanh.com/banh-gao",
+        "img": "https://cdn.tgdd.vn/Products/Images/3361/bhx/banh-gao-202212051453477652.png"
+    },
+    {
+        "id": "3357",
+        "name": "Bánh quy",
+        "url": "https://www.bachhoaxanh.com/banh-quy",
+        "img": "https://cdn.tgdd.vn/Products/Images/3357/bhx/banh-quy-202212051453352399.png"
+    },
+    {
+        "id": "3359",
+        "name": "Bánh quế",
+        "url": "https://www.bachhoaxanh.com/banh-que",
+        "img": "https://cdn.tgdd.vn/Products/Images/3359/bhx/banh-que-202212051454447088.png"
+    },
+    {
+        "id": "3364",
+        "name": "Bánh snack, rong biển",
+        "url": "https://www.bachhoaxanh.com/snack",
+        "img": "https://cdn.tgdd.vn/Products/Images/3364/bhx/snack-rong-bien-202210071644499789.png"
+    },
+    {
+        "id": "7622",
+        "name": "Bánh Chocopie",
+        "url": "https://www.bachhoaxanh.com/banh-chocopie-kitkat",
+        "img": "https://cdn.tgdd.vn/Products/Images/7622/bhx/banh-chocopie-202212051500226263.png"
+    },
+    {
+        "id": "3358",
+        "name": "Bánh bông lan",
+        "url": "https://www.bachhoaxanh.com/banh-bong-lan",
+        "img": "https://cdn.tgdd.vn/Products/Images/3358/bhx/banh-bong-lan-202212051455303744.png"
+    },
+    {
+        "id": "9027",
+        "name": "Bánh tươi, Sandwich",
+        "url": "https://www.bachhoaxanh.com/banh-ngot",
+        "img": "https://cdn.tgdd.vn/Products/Images/9027/bhx/banh-tuoi-sandwich-202212051416571062.png"
+    },
+    {
+        "id": "6597",
+        "name": "Socola",
+        "url": "https://www.bachhoaxanh.com/socola",
+        "img": "https://cdn.tgdd.vn/Products/Images/6597/bhx/keo-socola-202212051500103072.png"
+    },
+    {
+        "id": "2687",
+        "name": "Kẹo cứng",
+        "url": "https://www.bachhoaxanh.com/keo-cung",
+        "img": "https://cdn.tgdd.vn/Products/Images/2687/bhx/keo-cung-202212051452559035.png"
+    },
+    {
+        "id": "3362",
+        "name": "Bánh que",
+        "url": "https://www.bachhoaxanh.com/banh-dua",
+        "img": "https://cdn.tgdd.vn/Products/Images/3362/bhx/banh-que-202212051455083542.png"
+    },
+    {
+        "id": "7199",
+        "name": "Kẹo dẻo, kẹo marshmallow",
+        "url": "https://www.bachhoaxanh.com/keo-mem",
+        "img": "https://cdn.tgdd.vn/Products/Images/7199/bhx/keo-deo-keo-marshmallow-202212051453042764.png"
+    },
+    {
+        "id": "4888",
+        "name": "Kẹo singum",
+        "url": "https://www.bachhoaxanh.com/singum-keo-cao-su",
+        "img": "https://cdn.tgdd.vn/Products/Images/4888/bhx/keo-singum-202212051453188782.png"
+    },
+    {
+        "id": "3365",
+        "name": "Trái cây sấy",
+        "url": "https://www.bachhoaxanh.com/trai-cay-say",
+        "img": "https://cdn.tgdd.vn/Products/Images/3365/bhx/trai-cay-say-202212051455499058.png"
+    },
+    {
+        "id": "3487",
+        "name": "Hạt khô",
+        "url": "https://www.bachhoaxanh.com/cac-loai-hat",
+        "img": "https://cdn.tgdd.vn/Products/Images/3487/bhx/hat-kho-cac-loai-202212051456351944.png"
+    },
+    {
+        "id": "3368",
+        "name": "Rau câu, thạch dừa",
+        "url": "https://www.bachhoaxanh.com/rau-cau",
+        "img": "https://cdn.tgdd.vn/Products/Images/3368/bhx/rau-cau-cac-loai-202212051458073747.png"
+    },
+    {
+        "id": "8318",
+        "name": "Khô chế biến sẵn",
+        "url": "https://www.bachhoaxanh.com/cac-loai-kho-an-lien",
+        "img": "https://cdn.tgdd.vn/Products/Images/8318/bhx/kho-che-bien-san-202212051458159836.png"
+    },
+    {
+        "id": "8320",
+        "name": "Cơm cháy, bánh tráng",
+        "url": "https://www.bachhoaxanh.com/do-kho-an-lien-khac",
+        "img": "https://cdn.tgdd.vn/Products/Images/8320/bhx/com-chay-banh-trang-202212051459537097.png"
+    },
+    {
+        "id": "3360",
+        "name": "Bánh xốp",
+        "url": "https://www.bachhoaxanh.com/banh-xop",
+        "img": "https://cdn.tgdd.vn/Products/Images/3360/bhx/banh-xop-202212051454546945.png"
+    },
+    {
+        "id": "2903",
+        "name": "Ngũ cốc, yến mạch",
+        "url": "https://www.bachhoaxanh.com/bot-ngu-coc",
+        "img": "https://cdn.tgdd.vn/Products/Images/2903/bhx/ngu-coc-yen-mach-202212051439177796.png"
+    },
+    {
+        "id": "2483",
+        "name": "Dầu gội",
+        "url": "https://www.bachhoaxanh.com/dau-goi",
+        "img": "https://cdn.tgdd.vn/Products/Images/2483/bhx/dau-goi-202212051502400838.png"
+    },
+    {
+        "id": "2484",
+        "name": "Dầu xả",
+        "url": "https://www.bachhoaxanh.com/dau-xa",
+        "img": "https://cdn.tgdd.vn/Products/Images/2484/bhx/dau-xa-202212051502527473.png"
+    },
+    {
+        "id": "2444",
+        "name": "Sữa tắm",
+        "url": "https://www.bachhoaxanh.com/sua-tam",
+        "img": "https://cdn.tgdd.vn/Products/Images/2444/bhx/sua-tam-202212051505236205.png"
+    },
+    {
+        "id": "2446",
+        "name": "Kem đánh răng, súc miệng",
+        "url": "https://www.bachhoaxanh.com/kem-danh-rang",
+        "img": "https://cdn.tgdd.vn/Products/Images/2446/bhx/kem-danh-rang-suc-mieng-202401101410492074.png"
+    },
+    {
+        "id": "2491",
+        "name": "Bàn chải đánh răng",
+        "url": "https://www.bachhoaxanh.com/ban-chai-danh-rang",
+        "img": "https://cdn.tgdd.vn/Products/Images/2491/bhx/ban-chai-danh-rang-202212051521282311.png"
+    },
+    {
+        "id": "9081",
+        "name": "Giấy vệ sinh",
+        "url": "https://www.bachhoaxanh.com/giay-ve-sinh",
+        "img": "https://cdn.tgdd.vn/Products/Images/9081/bhx/giay-ve-sinh-202212051502079595.png"
+    },
+    {
+        "id": "3004",
+        "name": "Khăn giấy",
+        "url": "https://www.bachhoaxanh.com/khan-giay",
+        "img": "https://cdn.tgdd.vn/Products/Images/3004/bhx/khan-giay-202212051502000923.png"
+    },
+    {
+        "id": "3003",
+        "name": "Khăn ướt",
+        "url": "https://www.bachhoaxanh.com/khan-giay-uot",
+        "img": "https://cdn.tgdd.vn/Products/Images/3003/bhx/khan-uot-202212051502211367.png"
+    },
+    {
+        "id": "2516",
+        "name": "Băng vệ sinh",
+        "url": "https://www.bachhoaxanh.com/bang-ve-sinh",
+        "img": "https://cdn.tgdd.vn/Products/Images/2516/bhx/bang-ve-sinh-202212051524212476.png"
+    },
+    {
+        "id": "2486",
+        "name": "Nước rửa tay",
+        "url": "https://www.bachhoaxanh.com/nuoc-rua-tay",
+        "img": "https://cdn.tgdd.vn/Products/Images/2486/bhx/nuoc-rua-tay-202212051523389271.png"
+    },
+    {
+        "id": "2485",
+        "name": "Xà bông cục",
+        "url": "https://www.bachhoaxanh.com/xa-bong-cuc",
+        "img": "https://cdn.tgdd.vn/Products/Images/2485/bhx/xa-bong-cuc-202205181923035288.png"
+    },
+    {
+        "id": "2507",
+        "name": "Lăn xịt khử mùi",
+        "url": "https://www.bachhoaxanh.com/lan-xit-khu-mui",
+        "img": "https://cdn.tgdd.vn/Products/Images/2507/bhx/lan-xit-khu-mui-202212051505410311.png"
+    },
+    {
+        "id": "3485",
+        "name": "Dao, bọt cạo râu",
+        "url": "https://www.bachhoaxanh.com/dung-cu-cao-rau",
+        "img": "https://cdn.tgdd.vn/Products/Images/3485/bhx/dao-cao-rau-202205310900480770.png"
+    },
+    {
+        "id": "2519",
+        "name": "Bao cao su, gel bôi trơn",
+        "url": "https://www.bachhoaxanh.com/bao-cao-su",
+        "img": "https://cdn.tgdd.vn/Products/Images/2519/bhx/bao-cao-su-202210081411590872.png"
+    },
+    {
+        "id": "5872",
+        "name": "Khẩu trang",
+        "url": "https://www.bachhoaxanh.com/khau-trang",
+        "img": "https://cdn.tgdd.vn/Products/Images/5872/bhx/khau-trang-202212051523542014.png"
+    },
+    {
+        "id": "6562",
+        "name": "Kem dưỡng, chống nắng",
+        "url": "https://www.bachhoaxanh.com/kem-duong-da",
+        "img": "https://cdn.tgdd.vn/Products/Images/6562/bhx/kem-duong-da-serum-202212051509007604.png"
+    },
+    {
+        "id": "7478",
+        "name": "Thuốc nhuộm tóc",
+        "url": "https://www.bachhoaxanh.com/thuoc-nhuom-toc",
+        "img": "https://cdn.tgdd.vn/Products/Images/7478/bhx/thuoc-nhuom-toc-202212051504392150.png"
+    },
+    {
+        "id": "3124",
+        "name": "Tăm bông",
+        "url": "https://www.bachhoaxanh.com/bong-ray-tai",
+        "img": "https://cdn.tgdd.vn/Products/Images/3124/bhx/tam-bong-202212051525590346.png"
+    },
+    {
+        "id": "6642",
+        "name": "Nước hoa hồng, toner",
+        "url": "https://www.bachhoaxanh.com/nuoc-hoa-hong",
+        "img": "https://cdn.tgdd.vn/Products/Images/6642/bhx/nuoc-hoa-hong-toner-202212051508435902.png"
+    },
+    {
+        "id": "2517",
+        "name": "Dung dịch vệ sinh",
+        "url": "https://www.bachhoaxanh.com/dung-dich-ve-sinh",
+        "img": "https://cdn.tgdd.vn/Products/Images/2517/bhx/dung-dich-ve-sinh-202212051524359526.png"
+    },
+    {
+        "id": "3708",
+        "name": "Tẩy trang",
+        "url": "https://www.bachhoaxanh.com/tay-trang",
+        "img": "https://cdn.tgdd.vn/Products/Images/3708/bhx/tay-trang-202212051508046173.png"
+    },
+    {
+        "id": "6653",
+        "name": "Mặt nạ",
+        "url": "https://www.bachhoaxanh.com/mat-na-danh-cho-mat",
+        "img": "https://cdn.tgdd.vn/Products/Images/6653/bhx/mat-na-202212051508179101.png"
+    },
+    {
+        "id": "3104",
+        "name": "Sữa dưỡng thể",
+        "url": "https://www.bachhoaxanh.com/sua-duong-the",
+        "img": "https://cdn.tgdd.vn/Products/Images/3104/bhx/sua-duong-the-202212051505533163.png"
+    },
+    {
+        "id": "3740",
+        "name": "Kem ủ, keo vuốt tóc",
+        "url": "https://www.bachhoaxanh.com/kem-u-duong-toc",
+        "img": "https://cdn.tgdd.vn/Products/Images/3740/bhx/kem-u-keo-vuot-toc-202212051504320839.png"
+    },
+    {
+        "id": "5436",
+        "name": "Kem tẩy lông",
+        "url": "https://www.bachhoaxanh.com/kem-tay-long",
+        "img": "https://cdn.tgdd.vn/Products/Images/5436/bhx/kem-tay-long-202212051506565652.png"
+    },
+    {
+        "id": "2504",
+        "name": "Sữa rửa mặt",
+        "url": "https://www.bachhoaxanh.com/sua-rua-mat",
+        "img": "https://cdn.tgdd.vn/Products/Images/2504/bhx/sua-rua-mat-202212051507446155.png"
+    },
+    {
+        "id": "8678",
+        "name": "Tắm gội cho bé",
+        "url": "https://www.bachhoaxanh.com/tam-goi-2-trong-1-cho-be",
+        "img": "https://cdn.tgdd.vn/Products/Images/8678/bhx/tam-goi-cho-be-202212051530353065.png"
+    },
+    {
+        "id": "3026",
+        "name": "Sữa tắm, dầu gội cho bé",
+        "url": "https://www.bachhoaxanh.com/sua-tam-cho-be",
+        "img": "https://cdn.tgdd.vn/Products/Images/3026/bhx/sua-tam-dau-goi-cho-be-202212051530494124.png"
+    },
+    {
+        "id": "3023",
+        "name": "Nước xả cho bé",
+        "url": "https://www.bachhoaxanh.com/nuoc-xa-vai-cho-be",
+        "img": "https://cdn.tgdd.vn/Products/Images/3023/bhx/nuoc-xa-cho-be-202212051532237970.png"
+    },
+    {
+        "id": "3028",
+        "name": "Kem đánh răng bé",
+        "url": "https://www.bachhoaxanh.com/kem-danh-rang-cho-be",
+        "img": "https://cdn.tgdd.vn/Products/Images/3028/bhx/kem-danh-rang-be-202212051533236668.png"
+    },
+    {
+        "id": "3027",
+        "name": "Bàn chải cho bé",
+        "url": "https://www.bachhoaxanh.com/ban-chai-danh-rang-cho-be",
+        "img": "https://cdn.tgdd.vn/Products/Images/3027/bhx/ban-chai-cho-be-202212051533406498.png"
+    },
+    {
+        "id": "8681",
+        "name": "Khẩu trang, tăm bông",
+        "url": "https://www.bachhoaxanh.com/khau-trang-cho-be",
+        "img": "https://cdn.tgdd.vn/Products/Images/8681/bhx/khau-trang-tam-bong-202212051534204766.png"
+    },
+    {
+        "id": "3063",
+        "name": "Phấn thơm, dưỡng ẩm",
+        "url": "https://www.bachhoaxanh.com/phan-thom-cham-soc-da-be",
+        "img": "https://cdn.tgdd.vn/Products/Images/3063/bhx/phan-thom-duong-am-202212051534367561.png"
+    },
+    {
+        "id": "2464",
+        "name": "Nước giặt",
+        "url": "https://www.bachhoaxanh.com/nuoc-giat",
+        "img": "https://cdn.tgdd.vn/Products/Images/2464/bhx/icon_2464.png"
+    },
+    {
+        "id": "2465",
+        "name": "Nước xả",
+        "url": "https://www.bachhoaxanh.com/nuoc-xa",
+        "img": "https://cdn.tgdd.vn/Products/Images/2465/bhx/nuoc-xa-vai-202212051537595816.png"
+    },
+    {
+        "id": "2463",
+        "name": "Bột giặt",
+        "url": "https://www.bachhoaxanh.com/bot-giat",
+        "img": "https://cdn.tgdd.vn/Products/Images/2463/bhx/bot-giat-202212051536273225.png"
+    },
+    {
+        "id": "2387",
+        "name": "Nước rửa chén",
+        "url": "https://www.bachhoaxanh.com/nuoc-rua-chen",
+        "img": "https://cdn.tgdd.vn/Products/Images/2387/bhx/nuoc-rua-chen-202210311322508748.png"
+    },
+    {
+        "id": "2510",
+        "name": "Nước lau nhà",
+        "url": "https://www.bachhoaxanh.com/nuoc-lau-nha",
+        "img": "https://cdn.tgdd.vn/Products/Images/2510/bhx/nuoc-lau-san-202210311323136947.png"
+    },
+    {
+        "id": "2511",
+        "name": "Tẩy rửa nhà tắm",
+        "url": "https://www.bachhoaxanh.com/tay-rua-bon-cau-nha-tam",
+        "img": "https://cdn.tgdd.vn/Products/Images/2511/bhx/tay-rua-nha-tam-202210311323011484.png"
+    },
+    {
+        "id": "2530",
+        "name": "Bình xịt côn trùng",
+        "url": "https://www.bachhoaxanh.com/diet-con-trung",
+        "img": "https://cdn.tgdd.vn/Products/Images/2530/bhx/binh-xit-con-trung-202210311323248524.png"
+    },
+    {
+        "id": "3345",
+        "name": "Xịt phòng, sáp thơm",
+        "url": "https://www.bachhoaxanh.com/sap-thom-tui-thom",
+        "img": "https://cdn.tgdd.vn/Products/Images/3345/bhx/xit-phong-sap-thom-202210081430331433.png"
+    },
+    {
+        "id": "2787",
+        "name": "Lau kính, lau bếp",
+        "url": "https://www.bachhoaxanh.com/kem-tay-lau-da-nang",
+        "img": "https://cdn.tgdd.vn/Products/Images/2787/bhx/nuoc-lau-kinh-lau-bep-202212051539258092.png"
+    },
+    {
+        "id": "2493",
+        "name": "Nước tẩy",
+        "url": "https://www.bachhoaxanh.com/nuoc-tay-quan-ao",
+        "img": "https://cdn.tgdd.vn/Products/Images/2493/bhx/nuoc-tay-202212051538148720.png"
+    },
+    {
+        "id": "6553",
+        "name": "Túi đựng rác",
+        "url": "https://www.bachhoaxanh.com/tui-dung-rac",
+        "img": "https://cdn.tgdd.vn/Products/Images/6553/bhx/tui-dung-rac-202210081432445361.png"
+    },
+    {
+        "id": "6553",
+        "name": "Túi đựng rác",
+        "url": "https://www.bachhoaxanh.com/tui-dung-rac",
+        "img": "https://cdn.tgdd.vn/Products/Images/6553/bhx/tui-dung-rac-202210081432445361.png"
+    },
+    {
+        "id": "4326",
+        "name": "Màng bọc, giấy thấm dầu",
+        "url": "https://www.bachhoaxanh.com/mang-boc-thuc-pham-tui-zipper",
+        "img": "https://cdn.tgdd.vn/Products/Images/4326/bhx/mang-boc-giay-tham-dau-202210311323343303.png"
+    },
+    {
+        "id": "4352",
+        "name": "Đồ dùng một lần",
+        "url": "https://www.bachhoaxanh.com/to-chen-dia-dung-mot-lan",
+        "img": "https://cdn.tgdd.vn/Products/Images/4352/bhx/do-dung-mot-lan-202210081433311551.png"
+    },
+    {
+        "id": "4929",
+        "name": "Hộp đựng thực phẩm",
+        "url": "https://www.bachhoaxanh.com/hop-dung-thuc-pham",
+        "img": "https://cdn.tgdd.vn/Products/Images/4929/bhx/hop-dung-thuc-pham-202212051546029515.png"
+    },
+    {
+        "id": "10338",
+        "name": "Bút bi, thước kẻ",
+        "url": "https://www.bachhoaxanh.com/but-thuoc-gom-tay",
+        "img": "https://cdn.tgdd.vn/Products/Images/10338/bhx/but-thuoc-gom-tay-202212051549593592.png"
+    },
+    {
+        "id": "10340",
+        "name": "Băng keo, bao thư",
+        "url": "https://www.bachhoaxanh.com/do-van-phong-khac",
+        "img": "https://cdn.tgdd.vn/Products/Images/10340/bhx/do-van-phong-khac-202212051550475444.png"
+    },
+    {
+        "id": "3728",
+        "name": "Khăn lau bếp",
+        "url": "https://www.bachhoaxanh.com/khan-lau-tap-de",
+        "img": "https://cdn.tgdd.vn/Products/Images/3728/bhx/khan-lau-bep-202401081548400688.png"
+    },
+    {
+        "id": "3732",
+        "name": "Miếng rửa chén",
+        "url": "https://www.bachhoaxanh.com/co-noi",
+        "img": "https://cdn.tgdd.vn/Products/Images/3732/bhx/mieng-rua-chen-202212051554553485.png"
+    },
+    {
+        "id": "7694",
+        "name": "Nhấc lót nồi",
+        "url": "https://www.bachhoaxanh.com/lot-noi-nhac-noi",
+        "img": "https://cdn.tgdd.vn/Products/Images/7694/bhx/nhac-lot-noi-long-ban-202212051555318220.png"
+    },
+    {
+        "id": "56",
+        "name": "Pin tiểu",
+        "url": "https://www.bachhoaxanh.com/pin-tieu",
+        "img": "https://cdn.tgdd.vn/Products/Images/56/bhx/pin-tieu-cac-loai-202212051556156785.png"
+    },
+    {
+        "id": "3727",
+        "name": "Khăn tắm, bông tắm",
+        "url": "https://www.bachhoaxanh.com/khan-tam",
+        "img": "https://cdn.tgdd.vn/Products/Images/3727/bhx/khan-tam-bong-tam-202212051556244976.png"
+    },
+    {
+        "id": "3188",
+        "name": "Bàn chải, thảm các loại",
+        "url": "https://www.bachhoaxanh.com/dung-cu-chui-rua",
+        "img": "https://cdn.tgdd.vn/Products/Images/3188/bhx/dung-cu-ve-sinh-202212051557002112.png"
+    },
+    {
+        "id": "14",
+        "name": "Unilever Việt Nam",
+        "url": "https://www.bachhoaxanh.com/thuong-hieu/test-unilever-ct14",
+        "img": "https://cdn.tgdd.vn/bachhoaxanh/shopinshop/14/logo/unilever-viet-nam-24082023154054.png"
+    },
+    {
+        "id": "9",
+        "name": "COCA COLA",
+        "url": "https://www.bachhoaxanh.com/thuong-hieu/cung-nhau-an-cang-ngon-coca-cola-ct9",
+        "img": "https://cdn.tgdd.vn/bachhoaxanh/shopinshop/9/logo/coca-cola-15042022102411.png"
+    },
+    {
+        "id": "8",
+        "name": "PEPSICO",
+        "url": "https://www.bachhoaxanh.com/thuong-hieu/bat-nap-chai-uong-thoai-mai-cung-pepsi-ct8",
+        "img": "https://cdn.tgdd.vn/bachhoaxanh/shopinshop/8/logo/pepsico-11062024161448.png"
+    },
+    {
+        "id": "30",
+        "name": "Colgate",
+        "url": "https://www.bachhoaxanh.com/thuong-hieu/colgate-ct30",
+        "img": "https://cdn.tgdd.vn/bachhoaxanh/shopinshop/30/logo/colgate-260820221130.png"
+    }
+]
